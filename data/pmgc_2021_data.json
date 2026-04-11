@@ -1,0 +1,274 @@
+{
+  "tournament_info": {
+    "year": 2021,
+    "name": "PUBG Mobile Global Championship 2021",
+    "prize_pool": 3490000,
+    "winner": "Nova Esports",
+    "runner_up": "Natus Vincere",
+    "mvp": {
+      "name": "Order",
+      "team": "Nova Esports"
+    },
+    "maps": [
+      "Erangel",
+      "Miramar",
+      "Sanhok"
+    ],
+    "host_city": "Online",
+    "host_country": "Global",
+    "venue": "Virtual Arena",
+    "map_url": "#"
+  },
+  "teams": [
+    {
+      "name": "Nova Esports",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL Points",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/e/ee/Nova_Esports_allmode.png"
+    },
+    {
+      "name": "Natus Vincere",
+      "region": "Europe",
+      "countryCode": "ua",
+      "qualification": "PMPL CIS",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d0/Natus_Vincere_2021_allmode.png"
+    },
+    {
+      "name": "Nigma Galaxy",
+      "region": "MEA",
+      "countryCode": "iq",
+      "qualification": "PMPL MEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/7/77/Nigma_Galaxy_allmode.png"
+    },
+    {
+      "name": "Six Two Eight",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/six_two_eight.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Americas",
+      "countryCode": "br",
+      "qualification": "PMPL Americas",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "GodLike Stalwart",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/stalwart_esports.png"
+    },
+    {
+      "name": "S2G Esports",
+      "region": "Europe",
+      "countryCode": "tr",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/s2g_esports.png"
+    },
+    {
+      "name": "D'Xavier",
+      "region": "Southeast Asia",
+      "countryCode": "vn",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/c/c5/D%27Xavier_allmode.png"
+    },
+    {
+      "name": "The Infinity",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d5/The_Infinity_allmode.png"
+    },
+    {
+      "name": "Team Secret",
+      "region": "Southeast Asia",
+      "countryCode": "my",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/3/3d/Team_Secret_allmode.png"
+    },
+    {
+      "name": "Buriram United",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/0/07/Buriram_United_Esports_allmode.png"
+    },
+    {
+      "name": "FaZe Clan",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d1/FaZe_Clan_2022_allmode.png"
+    },
+    {
+      "name": "Kaos Next Rüya",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=KAO"
+    },
+    {
+      "name": "Bigetron RA",
+      "region": "Southeast Asia",
+      "countryCode": "id",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/5/52/Bigetron_RA_allmode.png"
+    },
+    {
+      "name": "Futbolist",
+      "region": "Europe",
+      "countryCode": "tr",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/8/8a/Futbolist_allmode.png"
+    },
+    {
+      "name": "STE",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=STE"
+    }
+  ],
+  "topPlayers": [
+    {
+      "rank": 1,
+      "name": "Order",
+      "team": "Nova Esports",
+      "elims": 50,
+      "damage": 9000,
+      "assists": 20
+    },
+    {
+      "rank": 2,
+      "name": "Killer",
+      "team": "Natus Vincere",
+      "elims": 42,
+      "damage": 8200,
+      "assists": 15
+    },
+    {
+      "rank": 3,
+      "name": "Sniper",
+      "team": "Nova Esports",
+      "elims": 38,
+      "damage": 7500,
+      "assists": 10
+    }
+  ]
+}

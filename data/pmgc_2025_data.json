@@ -1,0 +1,274 @@
+{
+  "tournament_info": {
+    "year": 2025,
+    "name": "PUBG Mobile Global Championship 2025",
+    "prize_pool": 3000000,
+    "winner": "Dplus KIA",
+    "runner_up": "Alpha7",
+    "mvp": {
+      "name": "Mafioso",
+      "team": "Alpha7 Esports"
+    },
+    "maps": [
+      "Rondo",
+      "Erangel",
+      "Miramar"
+    ],
+    "host_city": "Tokyo",
+    "host_country": "Japan",
+    "venue": "Ariake Arena",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Ariake+Arena+Tokyo+Japan"
+  },
+  "teams": [
+    {
+      "name": "Dplus KIA",
+      "region": "Korea",
+      "countryCode": "kr",
+      "qualification": "PMPS",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/dplus.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Americas",
+      "countryCode": "br",
+      "qualification": "PMPL Americas",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "Falcons Force",
+      "region": "MEA",
+      "countryCode": "sa",
+      "qualification": "PMPL MEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/3/3d/Falcons_Force_allmode.png"
+    },
+    {
+      "name": "DRS Gaming",
+      "region": "South Asia",
+      "countryCode": "np",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/drs_gaming.png"
+    },
+    {
+      "name": "Natus Vincere",
+      "region": "Europe",
+      "countryCode": "ua",
+      "qualification": "PMPL CIS",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d0/Natus_Vincere_2021_allmode.png"
+    },
+    {
+      "name": "Team Weibo",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/team_weibo.png"
+    },
+    {
+      "name": "Stalwart Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/stalwart_esports.png"
+    },
+    {
+      "name": "IHC Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/ihc_esports.png"
+    },
+    {
+      "name": "Brute Force",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=BRU"
+    },
+    {
+      "name": "FaZe Clan",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d1/FaZe_Clan_2022_allmode.png"
+    },
+    {
+      "name": "NRX Motorsports",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=NRX"
+    },
+    {
+      "name": "YALLA",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=YAL"
+    },
+    {
+      "name": "Major Pride",
+      "region": "Europe",
+      "countryCode": "ee",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/b/ba/Major_Pride_allmode.png"
+    },
+    {
+      "name": "Team Secret",
+      "region": "Southeast Asia",
+      "countryCode": "my",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/3/3d/Team_Secret_allmode.png"
+    },
+    {
+      "name": "RRQ",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=RRQ"
+    },
+    {
+      "name": "Vampire Esports",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMWI",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/vampire_esports.png"
+    }
+  ],
+  "topPlayers": [
+    {
+      "rank": 1,
+      "name": "Mafioso",
+      "team": "Alpha7 Esports",
+      "elims": 50,
+      "damage": 9000,
+      "assists": 20
+    },
+    {
+      "rank": 2,
+      "name": "Killer",
+      "team": "Alpha7",
+      "elims": 42,
+      "damage": 8200,
+      "assists": 15
+    },
+    {
+      "rank": 3,
+      "name": "Sniper",
+      "team": "Dplus KIA",
+      "elims": 38,
+      "damage": 7500,
+      "assists": 10
+    }
+  ]
+}

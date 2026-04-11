@@ -1,0 +1,335 @@
+{
+  "teams": [
+    {
+      "name": "S2G Esports",
+      "region": "Europe",
+      "countryCode": "tr",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st",
+        "Bluffist"
+      ],
+      "logo": "./assets/logos/s2g_esports.png",
+      "qualification": "PMPL Europe"
+    },
+    {
+      "name": "Titan Esports Club",
+      "region": "PEL",
+      "countryCode": "cn",
+      "players": [
+        "bamboo",
+        "SuKi",
+        "97",
+        "shadow",
+        "Justin",
+        "小马Neo"
+      ],
+      "logo": "./assets/logos/titan_esports_club.png",
+      "qualification": "PEL"
+    },
+    {
+      "name": "HAIL Esports",
+      "region": "SEA",
+      "countryCode": "th",
+      "players": [
+        "TIGERx",
+        "Nuttinz",
+        "cSkyOnly",
+        "PONDZ",
+        "CONCEPT"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=HAI",
+      "qualification": "Regional Tournaments"
+    },
+    {
+      "name": "DRS Gaming",
+      "region": "South Asia",
+      "countryCode": "np",
+      "players": [
+        "DeltaX",
+        "KillerYT",
+        "RuLzSR",
+        "Gyalzen",
+        "Nima"
+      ],
+      "logo": "./assets/logos/drs_gaming.png",
+      "qualification": "PMPL SA"
+    },
+    {
+      "name": "Gaimin Gladiators",
+      "region": "EMEA",
+      "countryCode": "rs",
+      "players": [
+        "KITSUNÉ",
+        "Matic",
+        "Thunder",
+        "Mequ",
+        "Tixzy"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=GAI",
+      "qualification": "Regional Tournaments"
+    },
+    {
+      "name": "Team Weibo",
+      "region": "PEL",
+      "countryCode": "cn",
+      "players": [
+        "Suk",
+        "YMao",
+        "MingSkr",
+        "Z9",
+        "Pickfeet"
+      ],
+      "logo": "./assets/logos/team_weibo.png",
+      "qualification": "PEL"
+    },
+    {
+      "name": "Tianba",
+      "region": "PEL",
+      "countryCode": "cn",
+      "players": [
+        "TianYu",
+        "Ydd",
+        "Qz",
+        "QingChen",
+        "L1ng"
+      ],
+      "logo": "./assets/logos/tianba.png",
+      "qualification": "PEL"
+    },
+    {
+      "name": "Six Two Eight",
+      "region": "PEL",
+      "countryCode": "cn",
+      "players": [
+        "33z",
+        "SuNan",
+        "Xing",
+        "PiKa",
+        "YvBao"
+      ],
+      "logo": "./assets/logos/six_two_eight.png",
+      "qualification": "PEL"
+    },
+    {
+      "name": "Stalwart Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "players": [
+        "TOP",
+        "Action",
+        "NIRZED",
+        "ICY",
+        "Pikachu"
+      ],
+      "logo": "./assets/logos/stalwart_esports.png",
+      "qualification": "PMPL SA"
+    },
+    {
+      "name": "IHC Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "players": [
+        "Alex",
+        "Godless",
+        "Zyol",
+        "DEMO",
+        "Abely"
+      ],
+      "logo": "./assets/logos/ihc_esports.png",
+      "qualification": "PMPL SA"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Americas",
+      "countryCode": "br",
+      "players": [
+        "Revo",
+        "Mafioso",
+        "Carrilho",
+        "SenaTexa",
+        "Pedrinho",
+        "joyboy"
+      ],
+      "logo": "./assets/logos/alpha7_esports.png",
+      "qualification": "PMPL Americas"
+    },
+    {
+      "name": "4Merical Vibes",
+      "region": "South Asia",
+      "countryCode": "np",
+      "players": [
+        "DOK",
+        "EAST",
+        "APEX",
+        "B4RON",
+        "Archer"
+      ],
+      "logo": "./assets/logos/4merical_vibes.png",
+      "qualification": "PMPL SA"
+    },
+    {
+      "name": "Dplus",
+      "region": "Korea",
+      "countryCode": "kr",
+      "players": [
+        "FAVIAN",
+        "FOREST",
+        "OSAL",
+        "Sayden",
+        "Nolbu",
+        "LLLL"
+      ],
+      "logo": "./assets/logos/dplus.png",
+      "qualification": "PMPS"
+    },
+    {
+      "name": "FaZe Clan",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "players": [
+        "MELA",
+        "MORMAN",
+        "MR5",
+        "Vintorez",
+        "Onzenxs"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d1/FaZe_Clan_2022_allmode.png",
+      "qualification": "PMPL SEA"
+    },
+    {
+      "name": "Bigetron Red Villains",
+      "region": "SEA",
+      "countryCode": "id",
+      "players": [
+        "Satarles",
+        "GenFos",
+        "uHigh",
+        "Lapar",
+        "Boycil",
+        "Kennan"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=BIG",
+      "qualification": "Regional Tournaments"
+    },
+    {
+      "name": "Vampire Esports",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "players": [
+        "Stoned",
+        "SchwepXz",
+        "nOOzy",
+        "TonyK",
+        "Rvenclaw",
+        "Fluketh"
+      ],
+      "logo": "./assets/logos/vampire_esports.png",
+      "qualification": "PMWI"
+    }
+  ],
+  "topPlayers": [
+    {
+      "rank": 1,
+      "name": "Zyol",
+      "team": "IHC Esports",
+      "elims": 37,
+      "damage": 7616,
+      "assists": 21
+    },
+    {
+      "rank": 2,
+      "name": "TOP",
+      "team": "Stalwart Esports",
+      "elims": 28,
+      "damage": 5869,
+      "assists": 11
+    },
+    {
+      "rank": 3,
+      "name": "XZY",
+      "team": "Nongshim RedForce",
+      "elims": 27,
+      "damage": 4820,
+      "assists": 8
+    },
+    {
+      "rank": 4,
+      "name": "SuKi",
+      "team": "Titan Esports Club",
+      "elims": 26,
+      "damage": 4232,
+      "assists": 9
+    },
+    {
+      "rank": 5,
+      "name": "DOK",
+      "team": "4Merical Vibes",
+      "elims": 25,
+      "damage": 5842,
+      "assists": 14
+    },
+    {
+      "rank": 6,
+      "name": "LeVis",
+      "team": "D'Xavier",
+      "elims": 25,
+      "damage": 5663,
+      "assists": 9
+    },
+    {
+      "rank": 7,
+      "name": "Alex",
+      "team": "IHC Esports",
+      "elims": 25,
+      "damage": 5342,
+      "assists": 22
+    },
+    {
+      "rank": 8,
+      "name": "Revo",
+      "team": "Alpha7 Esports",
+      "elims": 25,
+      "damage": 5065,
+      "assists": 11
+    },
+    {
+      "rank": 9,
+      "name": "33z",
+      "team": "Six Two Eight",
+      "elims": 25,
+      "damage": 3737,
+      "assists": 6
+    },
+    {
+      "rank": 10,
+      "name": "Godless",
+      "team": "IHC Esports",
+      "elims": 24,
+      "damage": 5676,
+      "assists": 23
+    }
+  ],
+  "tournament_info": {
+    "year": 2023,
+    "prize_pool": 3000000,
+    "winner": "IHC Esports",
+    "runner_up": "Stalwart Esports",
+    "mvp": {
+      "name": "Zyol",
+      "team": "IHC Esports"
+    },
+    "maps": [
+      "Erangel",
+      "Miramar",
+      "Sanhok"
+    ],
+    "host_city": "Istanbul",
+    "host_country": "Turkey",
+    "venue": "Ülker Sports and Event Hall",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Ülker+Sports+Arena+Istanbul"
+  }
+}

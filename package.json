@@ -1,0 +1,19 @@
+{
+  "name": "pmgc-2023-analysis",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.40.0"
+  }
+}

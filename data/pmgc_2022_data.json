@@ -1,0 +1,274 @@
+{
+  "tournament_info": {
+    "year": 2022,
+    "name": "PUBG Mobile Global Championship 2022",
+    "prize_pool": 4000000,
+    "winner": "S2G Esports",
+    "runner_up": "DRS Gaming",
+    "mvp": {
+      "name": "TOP",
+      "team": "GodLike Stalwart"
+    },
+    "maps": [
+      "Erangel",
+      "Miramar",
+      "Sanhok"
+    ],
+    "host_city": "Jakarta",
+    "host_country": "Indonesia",
+    "venue": "JIExpo Kemayoran",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=JIExpo+Kemayoran+Jakarta"
+  },
+  "teams": [
+    {
+      "name": "S2G Esports",
+      "region": "Europe",
+      "countryCode": "tr",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/s2g_esports.png"
+    },
+    {
+      "name": "DRS Gaming",
+      "region": "South Asia",
+      "countryCode": "np",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/drs_gaming.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Americas",
+      "countryCode": "br",
+      "qualification": "PMPL Americas",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "GodLike Stalwart",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/stalwart_esports.png"
+    },
+    {
+      "name": "IHC Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/ihc_esports.png"
+    },
+    {
+      "name": "Vampire Esports",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMWI",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/vampire_esports.png"
+    },
+    {
+      "name": "T2K Esports",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=T2K"
+    },
+    {
+      "name": "iNCO Gaming",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=INC"
+    },
+    {
+      "name": "Influence Chemin",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=INF"
+    },
+    {
+      "name": "Geekay Esports",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=GEE"
+    },
+    {
+      "name": "Buriram United",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/0/07/Buriram_United_Esports_allmode.png"
+    },
+    {
+      "name": "Four Angry Men",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL Points",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d4/Four_Angry_Men_allmode.png"
+    },
+    {
+      "name": "TJB Esports",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=TJB"
+    },
+    {
+      "name": "Fire Flux",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=FIR"
+    },
+    {
+      "name": "STE",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=STE"
+    },
+    {
+      "name": "Bigetron RA",
+      "region": "Southeast Asia",
+      "countryCode": "id",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/5/52/Bigetron_RA_allmode.png"
+    }
+  ],
+  "topPlayers": [
+    {
+      "rank": 1,
+      "name": "TOP",
+      "team": "GodLike Stalwart",
+      "elims": 50,
+      "damage": 9000,
+      "assists": 20
+    },
+    {
+      "rank": 2,
+      "name": "Killer",
+      "team": "DRS Gaming",
+      "elims": 42,
+      "damage": 8200,
+      "assists": 15
+    },
+    {
+      "rank": 3,
+      "name": "Sniper",
+      "team": "S2G Esports",
+      "elims": 38,
+      "damage": 7500,
+      "assists": 10
+    }
+  ]
+}

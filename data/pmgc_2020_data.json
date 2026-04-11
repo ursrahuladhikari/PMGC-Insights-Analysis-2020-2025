@@ -1,0 +1,274 @@
+{
+  "tournament_info": {
+    "year": 2020,
+    "name": "PUBG Mobile Global Championship 2020",
+    "prize_pool": 1200000,
+    "winner": "Nova Esports",
+    "runner_up": "4AM",
+    "mvp": {
+      "name": "Suk",
+      "team": "4AM"
+    },
+    "maps": [
+      "Erangel",
+      "Miramar",
+      "Sanhok"
+    ],
+    "host_city": "Dubai",
+    "host_country": "UAE",
+    "venue": "Coca-Cola Arena",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Coca-Cola+Arena+Dubai"
+  },
+  "teams": [
+    {
+      "name": "Nova Esports",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL Points",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/e/ee/Nova_Esports_allmode.png"
+    },
+    {
+      "name": "4AM",
+      "region": "PEL",
+      "countryCode": "cn",
+      "qualification": "PEL Points",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d4/Four_Angry_Men_allmode.png"
+    },
+    {
+      "name": "ZEUS Esports",
+      "region": "South Asia",
+      "countryCode": "mn",
+      "qualification": "PMPL SA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/a/a2/Zeus_Esports_allmode.png"
+    },
+    {
+      "name": "Natus Vincere",
+      "region": "Europe",
+      "countryCode": "ua",
+      "qualification": "PMPL CIS",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/d0/Natus_Vincere_2021_allmode.png"
+    },
+    {
+      "name": "Bigetron RA",
+      "region": "Southeast Asia",
+      "countryCode": "id",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/5/52/Bigetron_RA_allmode.png"
+    },
+    {
+      "name": "Secret Jin",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/3/3d/Team_Secret_allmode.png"
+    },
+    {
+      "name": "RRQ Athena",
+      "region": "Southeast Asia",
+      "countryCode": "th",
+      "qualification": "PMPL SEA",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/a/a7/Rex_Regum_QE_allmode.png"
+    },
+    {
+      "name": "Klas Digital Athletics",
+      "region": "Europe",
+      "countryCode": "tr",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/d/df/Klas_Digital_Athletics_allmode.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Americas",
+      "countryCode": "br",
+      "qualification": "PMPL Americas",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "Aero Wolf LIMAX",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=AER"
+    },
+    {
+      "name": "Futbolist",
+      "region": "Europe",
+      "countryCode": "tr",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/8/8a/Futbolist_allmode.png"
+    },
+    {
+      "name": "Blue Bees",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=BLU"
+    },
+    {
+      "name": "Abrupt Slayers",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=ABR"
+    },
+    {
+      "name": "A1 eSports",
+      "region": "Europe",
+      "countryCode": "at",
+      "qualification": "PMPL Europe",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://liquipedia.net/commons/images/9/9f/A1_eSports_allmode.png"
+    },
+    {
+      "name": "Power888",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=POW"
+    },
+    {
+      "name": "Loops Esports",
+      "region": "Global",
+      "countryCode": "un",
+      "qualification": "Qualifier",
+      "players": [
+        "Sylas",
+        "Calse",
+        "RayZ",
+        "HamsiG",
+        "For1st"
+      ],
+      "logo": "https://placehold.co/60x60/333/00f2ff?text=LOO"
+    }
+  ],
+  "topPlayers": [
+    {
+      "rank": 1,
+      "name": "Suk",
+      "team": "4AM",
+      "elims": 50,
+      "damage": 9000,
+      "assists": 20
+    },
+    {
+      "rank": 2,
+      "name": "Killer",
+      "team": "4AM",
+      "elims": 42,
+      "damage": 8200,
+      "assists": 15
+    },
+    {
+      "rank": 3,
+      "name": "Sniper",
+      "team": "Nova Esports",
+      "elims": 38,
+      "damage": 7500,
+      "assists": 10
+    }
+  ]
+}

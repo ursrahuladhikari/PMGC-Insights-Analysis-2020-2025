@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PMGC 2023 | PUBG Esports Analysis</title>
+    <meta name="description" content="Detailed analysis of PMGC 2023 - Team participation by region and player performance insights.">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Syncopate:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="dark-theme">
+    <div id="app">
+        <header>
+            <nav id="main-nav">
+                <div class="logo">
+                     <button class="nav-arrow-sm" id="prev-year-nav">❮</button>
+                     <img src="./assets/logos/pmgc_logo.png" alt="PMGC Logo" class="nav-pmgc-logo" referrerpolicy="no-referrer">
+                     PMGC <span id="nav-year">2023</span>
+                     <button class="nav-arrow-sm" id="next-year-nav">❯</button>
+                </div>
+                <div class="nav-links">
+                    <a href="#overview" class="active">Overview</a>
+                    <a href="#teams">Teams & Regions</a>
+                    <a href="#players">Player Stats</a>
+                    <a href="#timeline">Tournament Path</a>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <section id="hero">
+                <canvas id="hero-canvas"></canvas>
+                <div class="hero-content">
+                    <img src="./assets/logos/pmgc_logo.png" alt="PMGC Logo" class="main-pmgc-logo fade-in-up" referrerpolicy="no-referrer">
+                    <div class="hero-year-nav fade-in-up" style="animation-delay: 0.2s">
+                        <button class="nav-arrow" id="prev-year-btn" aria-label="Previous Year">❮</button>
+                        <h1 class="glitch-text" id="hero-year-title" data-text="PMGC 2023">PMGC <span class="year-span">2023</span></h1>
+                        <button class="nav-arrow" id="next-year-btn" aria-label="Next Year">❯</button>
+                    </div>
+                    <h1 class="glitch-text fade-in-up" id="hero-title" data-text="PUBG MOBILE GLOBAL CHAMPIONSHIP" style="animation-delay: 0.3s; font-size: 1.5rem; opacity: 0.8;">PUBG MOBILE GLOBAL CHAMPIONSHIP</h1>
+                    <p class="subtitle fade-in-up" id="hero-subtitle" style="animation-delay: 0.4s">Analysis & Insights</p>
+                    
+                    <div class="host-info fade-in-up" id="hero-host-info" style="animation-delay: 0.45s;">
+                        <span class="host-badge">📍 <span id="host-location">Istanbul, Turkey</span></span>
+                        <a href="https://www.google.com/maps/search/?api=1&query=Ülker+Sports+Arena+Istanbul" target="_blank" id="host-venue-link" class="host-badge linked">🏟️ <span id="host-venue">Ülker Sports and Event Hall</span></a>
+                    </div>
+
+                    <div class="year-tabs fade-in-up" style="animation-delay: 0.5s;">
+                        <button class="year-tab" data-year="2020">2020</button>
+                        <button class="year-tab" data-year="2021">2021</button>
+                        <button class="year-tab" data-year="2022">2022</button>
+                        <button class="year-tab active" data-year="2023">2023</button>
+                        <button class="year-tab" data-year="2024">2024</button>
+                        <button class="year-tab" data-year="2025">2025</button>
+                    </div>
+
+                    <div class="stats-ticker fade-in-up" style="animation-delay: 0.6s" id="hero-ticker">
+                        <!-- Ticker populated by JS -->
+                    </div>
+                </div>
+                <div class="hero-bg-overlay"></div>
+            </section>
+
+            <section id="overview" class="container">
+                <div class="section-header">
+                    <h2>Tournament Overview</h2>
+                    <p>From regional qualifiers to the Grand Finals in Istanbul.</p>
+                </div>
+                <div class="grid-layout">
+                    <div id="region-chart-container" class="card">
+                        <h3>Team Distribution by Region</h3>
+                        <div class="chart-placeholder" id="region-chart"></div>
+                    </div>
+                    <div id="key-stats" class="card">
+                        <h3>Qualification Breakdown</h3>
+                        <div id="qualification-list"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="teams" class="container">
+                <div class="section-header">
+                    <h2>Participating Teams</h2>
+                    <div class="filters">
+                        <button class="filter-btn active" data-region="all">All</button>
+                        <button class="filter-btn" data-region="SEA">SEA</button>
+                        <button class="filter-btn" data-region="PEL">China</button>
+                        <button class="filter-btn" data-region="South Asia">South Asia</button>
+                        <button class="filter-btn" data-region="Turkey">Turkey</button>
+                        <button class="filter-btn" data-region="EMEA">EMEA</button>
+                        <button class="filter-btn" data-region="Americas">Americas</button>
+                    </div>
+                </div>
+                <div id="teams-grid" class="teams-grid">
+                    <!-- Teams will be injected here -->
+                </div>
+            </section>
+
+            <section id="players" class="container">
+                <div class="section-header">
+                    <h2>Top Performers</h2>
+                    <p>Individual stats across League Stage and Grand Finals.</p>
+                </div>
+                <div class="stats-table-wrapper">
+                    <table id="player-stats-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Player</th>
+                                <th>Team</th>
+                                <th>Eliminations</th>
+                                <th>Avg. Damage</th>
+                                <th>Assists</th>
+                            </tr>
+                        </thead>
+                        <tbody id="player-stats-body">
+                            <!-- Player data will be injected here -->
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+            <section id="timeline" class="container">
+                <div class="section-header">
+                    <h2>Tournament Journey</h2>
+                    <p>The path from Group Stage to the Grand Finals.</p>
+                </div>
+                <div class="timeline-wrapper" id="timeline-wrapper">
+                    
+                    <div class="timeline-item timeline-direct">
+                        <div class="timeline-dot highlight"></div>
+                        <div class="timeline-content" style="border-left: 4px solid #fff; background: linear-gradient(90deg, rgba(255,255,255,0.05), transparent);">
+                            <h4>Direct Invites & Host Region</h4>
+                            <span>Pre-Tournament Qualifiers</span>
+                            <p>These teams bypassed the League Stage entirely due to outstanding regional accumulated points or holding the host slots.</p>
+                            <div class="journey-teams-list">
+                                <span class="journey-team-chip" style="border-color:#fff; color:#fff;">S2G Esports (Host)</span>
+                                <span class="journey-team-chip" style="border-color:#fff; color:#fff;">Titan Esports Club (PEL Points)</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item timeline-green">
+                        <div class="timeline-dot" style="background: #10b981; box-shadow: 0 0 10px #10b981; border:none;"></div>
+                        <div class="timeline-content" style="border-left: 4px solid #10b981; background: linear-gradient(90deg, rgba(16, 185, 129, 0.1), transparent);">
+                            <h4 style="color: #10b981;">Group Green Participation</h4>
+                            <span style="color: rgba(16, 185, 129, 0.8);">Nov 2 - Nov 5</span>
+                            <p>A brutally competitive group. These representative teams battled fiercely to directly earn slots or survive the Last Chance bracket.</p>
+                            <div class="journey-teams-list">
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">Alpha7 Esports</span>
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">Stalwart Esports</span>
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">Tianba</span>
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">Dplus</span>
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">Gaimin Gladiators</span>
+                                <span class="journey-team-chip" style="background: rgba(16, 185, 129, 0.2); border-color: #10b981;">HAIL Esports</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item timeline-red">
+                        <div class="timeline-dot" style="background: #ef4444; box-shadow: 0 0 10px #ef4444; border:none;"></div>
+                        <div class="timeline-content" style="border-left: 4px solid #ef4444; background: linear-gradient(90deg, rgba(239, 68, 68, 0.1), transparent);">
+                            <h4 style="color: #ef4444;">Group Red Participation</h4>
+                            <span style="color: rgba(239, 68, 68, 0.8);">Nov 9 - Nov 12</span>
+                            <p>Characterized by intense gunfights and dominant regional performances, Group Red produced some of the scariest contenders.</p>
+                            <div class="journey-teams-list">
+                                <span class="journey-team-chip" style="background: rgba(239, 68, 68, 0.2); border-color: #ef4444;">Six Two Eight</span>
+                                <span class="journey-team-chip" style="background: rgba(239, 68, 68, 0.2); border-color: #ef4444;">FaZe Clan</span>
+                                <span class="journey-team-chip" style="background: rgba(239, 68, 68, 0.2); border-color: #ef4444;">Vampire Esports</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item timeline-yellow">
+                        <div class="timeline-dot" style="background: #eab308; box-shadow: 0 0 10px #eab308; border:none;"></div>
+                        <div class="timeline-content" style="border-left: 4px solid #eab308; background: linear-gradient(90deg, rgba(234, 179, 8, 0.1), transparent);">
+                            <h4 style="color: #eab308;">Group Yellow Participation</h4>
+                            <span style="color: rgba(234, 179, 8, 0.8);">Nov 16 - Nov 19</span>
+                            <p>The closing week of the group stages that cemented the final brackets heading into the Survival Stage and Grand Finals.</p>
+                            <div class="journey-teams-list">
+                                <span class="journey-team-chip" style="background: rgba(234, 179, 8, 0.2); border-color: #eab308;">Team Weibo</span>
+                                <span class="journey-team-chip" style="background: rgba(234, 179, 8, 0.2); border-color: #eab308;">IHC Esports</span>
+                                <span class="journey-team-chip" style="background: rgba(234, 179, 8, 0.2); border-color: #eab308;">Bigetron Red Villains</span>
+                                <span class="journey-team-chip" style="background: rgba(234, 179, 8, 0.2); border-color: #eab308;">4Merical Vibes</span>
+                                <span class="journey-team-chip" style="background: rgba(234, 179, 8, 0.2); border-color: #eab308;">DRS Gaming</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+ 
+            <section id="format" class="container">
+                <div class="section-header">
+                    <h2 class="glitch-text" data-text="Game Format & Maps">Game Format & Maps</h2>
+                    <p>The rigorous path to becoming a World Champion.</p>
+                </div>
+                
+                <div class="format-grid">
+                    <div class="format-card glass-card">
+                        <div class="format-icon">👥</div>
+                        <h3>Group Stage</h3>
+                        <p>48 Teams divided into 3 Groups (Red, Green, Yellow). Top 3 from each group qualify directly to Grand Finals.</p>
+                    </div>
+                    <div class="format-card glass-card">
+                        <div class="format-icon">🛡️</div>
+                        <h3>Survival Stage</h3>
+                        <p>Teams ranked 4th-11th from each group. 24 teams battle for 16 spots in the Last Chance stage.</p>
+                    </div>
+                    <div class="format-card glass-card">
+                        <div class="format-icon">⚡</div>
+                        <h3>Last Chance</h3>
+                        <p>16 Teams from Survival Stage battle for the final 5 spots in the Grand Finals.</p>
+                    </div>
+                    <div class="format-card glass-card highlight-card">
+                        <div class="format-icon">💎</div>
+                        <h3>Grand Finals</h3>
+                        <p>16 elite teams compete over 18 total matches to determine the PMGC World Champion.</p>
+                    </div>
+                </div>
+ 
+                <div class="maps-section card" style="margin-top: 3rem;">
+                    <h3 style="margin-bottom: 2rem; color: var(--accent-color); text-align: center;">Official Map Pool</h3>
+                    <div class="maps-grid-v2" id="map-pool-container">
+                        <!-- Populated dynamically as individual cards -->
+                    </div>
+                </div>
+            </section>
+
+            <section id="awards" class="container">
+                <div class="section-header">
+                    <h2 class="glitch-text" data-text="Prize Pool & Special Awards">Prize Pool & Special Awards</h2>
+                    <p>$3,000,000 Total Prize Money</p>
+                </div>
+                
+                <div class="awards-grid">
+                    <div class="prize-distribution glass-card">
+                        <h3 style="color: var(--accent-gold); margin-bottom: 1.5rem; display: flex; align-items: center; gap: 10px;">
+                            <img src="https://liquipedia.net/commons/images/d/df/PUBG_Mobile_Global_Championship_lightmode.png" style="height:25px; filter: grayscale(1) brightness(2)sepia(1) hue-rotate(5deg) saturate(5);" referrerpolicy="no-referrer" onerror="this.style.display='none'"> 
+                            Top Tier Payouts
+                        </h3>
+                        <table class="prize-table">
+                            <thead>
+                                <tr>
+                                    <th>Placement</th>
+                                    <th>Team</th>
+                                    <th style="text-align: right;">Prize (USD)</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr style="background: rgba(255, 215, 0, 0.15);">
+                                    <td style="color: #ffd700; font-weight: bold;">🥇 1st Place</td>
+                                    <td>IHC Esports</td>
+                                    <td class="prize-amount">$453,500</td>
+                                </tr>
+                                <tr style="background: rgba(192, 192, 192, 0.1);">
+                                    <td style="color: #c0c0c0; font-weight: bold;">🥈 2nd Place</td>
+                                    <td>Stalwart Esports</td>
+                                    <td class="prize-amount">$263,000</td>
+                                </tr>
+                                <tr style="background: rgba(205, 127, 50, 0.1);">
+                                    <td style="color: #cd7f32; font-weight: bold;">🥉 3rd Place</td>
+                                    <td>Alpha7 Esports</td>
+                                    <td class="prize-amount">$184,000</td>
+                                </tr>
+                                <tr>
+                                    <td>4th - 5th</td>
+                                    <td>4Merical Vibes / D'Xavier</td>
+                                    <td class="prize-amount">~$132,000 avg</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="special-awards-container">
+                        <div class="award-card highlight-award">
+                            <div class="award-icon">🏆</div>
+                            <div class="award-info">
+                                <h4>Finals MVP (FMVP)</h4>
+                                <div class="award-winner">Zyol</div>
+                                <div class="award-meta">
+                                    <img src="https://flagcdn.com/16x12/mn.png" alt="Mongolia" referrerpolicy="no-referrer"> Mongolia • IHC Esports
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="award-card">
+                            <div class="award-icon">💥</div>
+                            <div class="award-info">
+                                <h4>Gunslinger</h4>
+                                <div class="award-winner">Revo</div>
+                                <div class="award-meta">
+                                    <img src="https://flagcdn.com/16x12/br.png" alt="Brazil" referrerpolicy="no-referrer"> Brazil • Alpha7 Esports
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="award-card">
+                            <div class="award-icon">💣</div>
+                            <div class="award-info">
+                                <h4>Grenade Master</h4>
+                                <div class="award-winner">MELA</div>
+                                <div class="award-meta">
+                                    <img src="https://flagcdn.com/16x12/th.png" alt="Thailand" referrerpolicy="no-referrer"> Thailand • FaZe Clan
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="award-card">
+                            <div class="award-icon">🧠</div>
+                            <div class="award-info">
+                                <h4>Field Commander (IGL)</h4>
+                                <div class="award-winner">Alex</div>
+                                <div class="award-meta">
+                                    <img src="https://flagcdn.com/16x12/mn.png" alt="Mongolia" referrerpolicy="no-referrer"> Mongolia • IHC Esports
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <p>&copy; 2024 PMGC Analysis Project. Data from Liquipedia.</p>
+            </div>
+        </footer>
+    </div>
+    <script type="module" src="./main.js"></script>
+</body>
+</html>
