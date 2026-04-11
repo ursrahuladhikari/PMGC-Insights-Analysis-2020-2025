@@ -1,4 +1,4 @@
-# PMGC Multi-Year Analysis Dashboard (2020-2025)
+# PMGC Insights & Analysis 2020-2025
 
 A comprehensive, data-driven esports dashboard for the **PUBG Mobile Global Championship (PMGC)**. This platform provides historical analysis, team performance transitions, and tournament insights spanning from the inaugural 2020 edition up to the 2025 championship.
 
