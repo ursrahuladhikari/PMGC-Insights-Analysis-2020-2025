@@ -289,36 +289,53 @@ function generateMockPlayers(year) {
 
 function updateDynamicText(year, info) {
     const ticker = document.getElementById("hero-ticker");
+    const finalistTeams = currentTournamentData.teams
+        .filter(t => t.isFinalist)
+        .sort((a, b) => (a.finalsRank || 99) - (b.finalsRank || 99));
+
     if (info) {
         ticker.innerHTML = `
             <div class="ticker-item">${info.winner} Crowned Champions</div>
             <div class="ticker-item">$${(info.prize_pool / 1000000).toFixed(1)}M Prize Pool</div>
             <div class="ticker-item">MVP: ${info.mvp.name}</div>
         `;
-        // Update Awards table
-        document.querySelector("#awards .prize-table tbody tr:nth-child(1) td:nth-child(2)").innerText = info.winner;
-        document.querySelector("#awards .prize-table tbody tr:nth-child(2) td:nth-child(2)").innerText = info.runner_up;
-        document.querySelector("#awards .prize-table tbody tr:nth-child(1) td:nth-child(3)").innerText = `$${(info.prize_pool * 0.15).toLocaleString()}`;
-        document.querySelector("#awards .prize-table tbody tr:nth-child(2) td:nth-child(3)").innerText = `$${(info.prize_pool * 0.1).toLocaleString()}`;
-
+        
         // Update MVP Award Card
-        document.querySelector(".highlight-award .award-winner").innerText = info.mvp.name;
-        document.querySelector(".highlight-award .award-meta").innerHTML = `<img src="https://flagcdn.com/16x12/un.png" referrerpolicy="no-referrer"> Global • ${info.mvp.team}`;
+        const mvpWinner = document.querySelector(".highlight-award .award-winner");
+        const mvpMeta = document.querySelector(".highlight-award .award-meta");
+        if (mvpWinner) mvpWinner.innerText = info.mvp.name;
+        if (mvpMeta) mvpMeta.innerHTML = `<img src="https://flagcdn.com/16x12/un.png" referrerpolicy="no-referrer"> Global • ${info.mvp.team}`;
+    }
 
-    } else {
-        ticker.innerHTML = `
-            <div class="ticker-item">50 Teams Participating</div>
-            <div class="ticker-item">$3,000,000 Prize Pool</div>
-            <div class="ticker-item">Istanbul, Turkey</div>
-        `;
-        // Reset to 2023 values
-        document.querySelector("#awards .prize-table tbody tr:nth-child(1) td:nth-child(2)").innerText = "IHC Esports";
-        document.querySelector("#awards .prize-table tbody tr:nth-child(2) td:nth-child(2)").innerText = "Stalwart Esports";
-        document.querySelector("#awards .prize-table tbody tr:nth-child(1) td:nth-child(3)").innerText = "$453,500";
-        document.querySelector("#awards .prize-table tbody tr:nth-child(2) td:nth-child(3)").innerText = "$263,000";
+    // Update Prize Payout Table Dynamically from Standings
+    if (finalistTeams.length >= 3) {
+        const p1 = finalistTeams[0];
+        const p2 = finalistTeams[1];
+        const p3 = finalistTeams[2];
+        const p4 = finalistTeams[3];
+        const p5 = finalistTeams[4];
 
-        document.querySelector(".highlight-award .award-winner").innerText = "Zyol";
-        document.querySelector(".highlight-award .award-meta").innerHTML = `<img src="https://flagcdn.com/16x12/mn.png" referrerpolicy="no-referrer"> Mongolia • IHC Esports`;
+        const row1 = document.querySelector("#awards .prize-table tbody tr:nth-child(1)");
+        const row2 = document.querySelector("#awards .prize-table tbody tr:nth-child(2)");
+        const row3 = document.querySelector("#awards .prize-table tbody tr:nth-child(3)");
+        const row4 = document.querySelector("#awards .prize-table tbody tr:nth-child(4)");
+
+        if (row1) {
+            row1.querySelector("td:nth-child(2)").innerText = p1.name;
+            if (info) row1.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.15).toLocaleString()}`;
+        }
+        if (row2) {
+            row2.querySelector("td:nth-child(2)").innerText = p2.name;
+            if (info) row2.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.1).toLocaleString()}`;
+        }
+        if (row3) {
+            row3.querySelector("td:nth-child(2)").innerText = p3.name;
+            if (info) row3.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.06).toLocaleString()}`;
+        }
+        if (row4 && p4 && p5) {
+            row4.querySelector("td:nth-child(2)").innerText = `${p4.name} / ${p5.name}`;
+            if (info) row4.querySelector("td:nth-child(3)").innerText = `~$${Math.round(info.prize_pool * 0.04).toLocaleString()} avg`;
+        }
     }
 }
 
