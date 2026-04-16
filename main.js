@@ -1,4 +1,7 @@
+import { inject } from '@vercel/analytics';
 import broadcastData from './data/broadcast_talent.js';
+
+inject();
 
 /* ==========================================================================
    LOADING SCREEN — Esports themed with particle canvas + progress bar
