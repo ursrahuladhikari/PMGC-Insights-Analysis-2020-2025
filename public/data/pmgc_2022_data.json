@@ -30,7 +30,7 @@
         "Memory",
         "Remember"
       ],
-      "logo": "./assets/logos/900px-Wolves_Esports_allmode.png",
+      "logo": "/assets/logos/900px-Wolves_Esports_allmode.png",
       "qualification": "Peacekeeper_Elite_League/2022/Summer",
       "isFinalist": true,
       "finalsRank": 11,
@@ -47,7 +47,7 @@
         "Fanatic",
         "Aces"
       ],
-      "logo": "./assets/logos/alter_ego_limax.png",
+      "logo": "/assets/logos/alter_ego_limax.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Indonesia",
       "isFinalist": true,
       "finalsRank": 14,
@@ -64,7 +64,7 @@
         "King",
         "Fro"
       ],
-      "logo": "./assets/logos/394px-Nova_Esports_&_Tencent_Video_allmode.png",
+      "logo": "/assets/logos/394px-Nova_Esports_&_Tencent_Video_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 9,
@@ -77,7 +77,7 @@
       "players": [
         "cc"
       ],
-      "logo": "./assets/logos/900px-LGD_Gaming_Dec_2019_allmode.png",
+      "logo": "/assets/logos/900px-LGD_Gaming_Dec_2019_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -95,7 +95,7 @@
         "Hasaki",
         "Boreas"
       ],
-      "logo": "./assets/logos/75px-Four_Angry_Men_darkmode.png",
+      "logo": "/assets/logos/75px-Four_Angry_Men_darkmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/PEL",
       "isFinalist": true,
       "finalsRank": 8,
@@ -106,7 +106,7 @@
       "region": "Other",
       "countryCode": "id",
       "players": [],
-      "logo": "./assets/logos/Bigetron RA.png",
+      "logo": "/assets/logos/Bigetron RA.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -122,7 +122,7 @@
         "RedFace",
         "Ly"
       ],
-      "logo": "./assets/logos/EVOS Reborn.png",
+      "logo": "/assets/logos/EVOS Reborn.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -139,7 +139,7 @@
         "MELA",
         "nOO"
       ],
-      "logo": "./assets/logos/The Infinity.png",
+      "logo": "/assets/logos/The Infinity.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -153,7 +153,7 @@
         "Ices",
         "Malon"
       ],
-      "logo": "./assets/logos/900px-Bacon_Time_2022_allmode.png",
+      "logo": "/assets/logos/900px-Bacon_Time_2022_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -170,7 +170,7 @@
         "uHigh",
         "SONIX7Days"
       ],
-      "logo": "./assets/logos/900px-Geek_Fam_2019_allmode.png",
+      "logo": "/assets/logos/900px-Geek_Fam_2019_allmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/MYSGPH",
       "isFinalist": true,
       "finalsRank": 10,
@@ -187,7 +187,7 @@
         "Jumper",
         "Vokey"
       ],
-      "logo": "./assets/logos/900px-4Rivals_2022_allmode.png",
+      "logo": "/assets/logos/900px-4Rivals_2022_allmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/MYSGPH",
       "isFinalist": false,
       "finalsRank": null,
@@ -200,7 +200,7 @@
       "players": [
         "Rabi"
       ],
-      "logo": "./assets/logos/356px-D'Xavier_allmode.png",
+      "logo": "/assets/logos/356px-D'Xavier_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -214,7 +214,7 @@
         "Bensu",
         "Soa"
       ],
-      "logo": "./assets/logos/75px-Box_Gaming_2019_allmode.png",
+      "logo": "/assets/logos/75px-Box_Gaming_2019_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -231,7 +231,7 @@
         "Action",
         "Senator"
       ],
-      "logo": "./assets/logos/Godlike_Stalwart_lightmode.png",
+      "logo": "/assets/logos/Godlike_Stalwart_lightmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/South_Asia",
       "isFinalist": true,
       "finalsRank": 4,
@@ -242,7 +242,7 @@
       "region": "Other",
       "countryCode": "mn",
       "players": [],
-      "logo": "./assets/logos/75px-IHC_ESPORTS_allmode.png",
+      "logo": "/assets/logos/75px-IHC_ESPORTS_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
@@ -253,7 +253,7 @@
       "region": "Other",
       "countryCode": "pk",
       "players": [],
-      "logo": "./assets/logos/i8 Esports.png",
+      "logo": "/assets/logos/i8 Esports.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -269,7 +269,7 @@
         "BANDAR",
         "iD7"
       ],
-      "logo": "./assets/logos/75px-R8_Esports_2022_darkmode.png",
+      "logo": "/assets/logos/75px-R8_Esports_2022_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -282,7 +282,7 @@
       "players": [
         "RAOUF"
       ],
-      "logo": "./assets/logos/900px-Nigma_Galaxy_full_darkmode.png",
+      "logo": "/assets/logos/900px-Nigma_Galaxy_full_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -297,7 +297,7 @@
         "MARSHALL",
         "LA"
       ],
-      "logo": "./assets/logos/75px-ONE_MILLION_ESPORTS_2022_allmode.png",
+      "logo": "/assets/logos/75px-ONE_MILLION_ESPORTS_2022_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -313,7 +313,7 @@
         "Calse",
         "Ray"
       ],
-      "logo": "./assets/logos/900px-S2G_Esports_allmode.png",
+      "logo": "/assets/logos/900px-S2G_Esports_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 1,
@@ -327,7 +327,7 @@
         "Enjoyy7",
         "SonHP"
       ],
-      "logo": "./assets/logos/900px-Beşiktaş_Esports_2019_allmode.png",
+      "logo": "/assets/logos/900px-Beşiktaş_Esports_2019_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -342,7 +342,7 @@
         "victor",
         "robb"
       ],
-      "logo": "./assets/logos/Game-Lord_New.png",
+      "logo": "/assets/logos/Game-Lord_New.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -355,7 +355,7 @@
       "players": [
         "Koops"
       ],
-      "logo": "./assets/logos/900px-Pittsburgh_Knights_2021_full_lightmode.png",
+      "logo": "/assets/logos/900px-Pittsburgh_Knights_2021_full_lightmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -372,7 +372,7 @@
         "ElianKidd",
         "Fernan"
       ],
-      "logo": "./assets/logos/75px-Furious_Gaming_2021_darkmode.png",
+      "logo": "/assets/logos/75px-Furious_Gaming_2021_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -389,7 +389,7 @@
         "Diego",
         "Magrelin"
       ],
-      "logo": "./assets/logos/75px-Keyd_Stars_2022_allmode.png",
+      "logo": "/assets/logos/75px-Keyd_Stars_2022_allmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Bra",
       "isFinalist": false,
       "finalsRank": null,
@@ -406,7 +406,7 @@
         "Revo",
         "Swaguin"
       ],
-      "logo": "./assets/logos/Alpha7 Esports.png",
+      "logo": "/assets/logos/Alpha7 Esports.png",
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Bra",
       "isFinalist": true,
       "finalsRank": 3,
@@ -419,7 +419,7 @@
       "players": [
         "TI"
       ],
-      "logo": "./assets/logos/EmTek_StormX_full_darkmode.png",
+      "logo": "/assets/logos/EmTek_StormX_full_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -436,7 +436,7 @@
         "Dooms",
         "Qx"
       ],
-      "logo": "./assets/logos/75px-NS_Redforce_allmode.png",
+      "logo": "/assets/logos/75px-NS_Redforce_allmode.png",
       "qualification": "PUBG_Mobile_Pro_Series/2022/Fall/Finals",
       "isFinalist": false,
       "finalsRank": null,
@@ -453,7 +453,7 @@
         "Devine",
         "Ka"
       ],
-      "logo": "./assets/logos/75px-REJECT_2020_darkmode.png",
+      "logo": "/assets/logos/75px-REJECT_2020_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -467,7 +467,7 @@
         "Missile",
         "Naoto"
       ],
-      "logo": "./assets/logos/919px-Donuts_USG_alternative_full_lightmode.png",
+      "logo": "/assets/logos/919px-Donuts_USG_alternative_full_lightmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -484,7 +484,7 @@
         "OSAL",
         "Ssung"
       ],
-      "logo": "./assets/logos/222px-DAMWON_Gaming_2021_darkmode.png",
+      "logo": "/assets/logos/222px-DAMWON_Gaming_2021_darkmode.png",
       "qualification": "PUBG_Mobile_Rivals_Cup/2022",
       "isFinalist": false,
       "finalsRank": null,
@@ -499,7 +499,7 @@
         "TIGERX",
         "KENG"
       ],
-      "logo": "./assets/logos/75px-Buriram_United_Esports_allmode.png",
+      "logo": "/assets/logos/75px-Buriram_United_Esports_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 12,
@@ -510,7 +510,7 @@
       "region": "Other",
       "countryCode": "un",
       "players": [],
-      "logo": "./assets/logos/336px-FaZe_Clan_November_2021_darkmode.png",
+      "logo": "/assets/logos/336px-FaZe_Clan_November_2021_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -523,7 +523,7 @@
       "players": [
         "Esso"
       ],
-      "logo": "./assets/logos/300px-TEM_Entertainment_allmode.png",
+      "logo": "/assets/logos/300px-TEM_Entertainment_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -540,7 +540,7 @@
         "Oliyo",
         "Syamil"
       ],
-      "logo": "./assets/logos/192px-Yoodo_Alliance_allmode.png",
+      "logo": "/assets/logos/192px-Yoodo_Alliance_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/2022/Fall",
       "isFinalist": false,
       "finalsRank": null,
@@ -558,7 +558,7 @@
         "Bangpen",
         "Sky"
       ],
-      "logo": "./assets/logos/900px-Genesis_Dogma_2021_allmode.png",
+      "logo": "/assets/logos/900px-Genesis_Dogma_2021_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/2022/Fall",
       "isFinalist": false,
       "finalsRank": null,
@@ -571,7 +571,7 @@
       "players": [
         "RuL"
       ],
-      "logo": "./assets/logos/794px-DRS_GAMING_full_allmode.png",
+      "logo": "/assets/logos/794px-DRS_GAMING_full_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 2,
@@ -582,7 +582,7 @@
       "region": "Other",
       "countryCode": "un",
       "players": [],
-      "logo": "./assets/logos/900px-Skylightz_Gaming_new_allmode.png",
+      "logo": "/assets/logos/900px-Skylightz_Gaming_new_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -599,7 +599,7 @@
         "Suyog",
         "Legend"
       ],
-      "logo": "./assets/logos/Trained_To_Kill_2020_full_darkmode.png",
+      "logo": "/assets/logos/Trained_To_Kill_2020_full_darkmode.png",
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 13,
@@ -610,7 +610,7 @@
       "region": "Other",
       "countryCode": "sa",
       "players": [],
-      "logo": "./assets/logos/POWR Esports.png",
+      "logo": "/assets/logos/POWR Esports.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -626,7 +626,7 @@
         "RAGNAR",
         "SaTaN"
       ],
-      "logo": "./assets/logos/900px-Geekay_Esports_2024_allmode.png",
+      "logo": "/assets/logos/900px-Geekay_Esports_2024_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Middle_East_and_Africa/Championship/2022/Fall",
       "isFinalist": false,
       "finalsRank": null,
@@ -637,7 +637,7 @@
       "region": "Other",
       "countryCode": "un",
       "players": [],
-      "logo": "./assets/logos/75px-Titan_Gaming_darkmode.png",
+      "logo": "/assets/logos/75px-Titan_Gaming_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -654,7 +654,7 @@
         "Federal",
         "Gxlden"
       ],
-      "logo": "./assets/logos/Influence Chemin.png",
+      "logo": "/assets/logos/Influence Chemin.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 16,
@@ -671,7 +671,7 @@
         "NENEBETE",
         "Vitali"
       ],
-      "logo": "./assets/logos/315px-INCO_GAMING_full_darkmode.png",
+      "logo": "/assets/logos/315px-INCO_GAMING_full_darkmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 7,
@@ -688,7 +688,7 @@
         "ScreaaM",
         "Potro"
       ],
-      "logo": "./assets/logos/900px-Team_Queso_2021_allmode.png",
+      "logo": "/assets/logos/900px-Team_Queso_2021_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall",
       "isFinalist": false,
       "finalsRank": null,
@@ -704,7 +704,7 @@
         "Mequ",
         "Tix"
       ],
-      "logo": "./assets/logos/75px-HVVP_darkmode.png",
+      "logo": "/assets/logos/75px-HVVP_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -720,7 +720,7 @@
         "Soulless",
         "Lut"
       ],
-      "logo": "./assets/logos/75px-Fire_Flux_Esports_allmode.png",
+      "logo": "/assets/logos/75px-Fire_Flux_Esports_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 15,
@@ -735,7 +735,7 @@
         "MONKY",
         "SKILL"
       ],
-      "logo": "./assets/logos/437px-MadBulls_allmode.png",
+      "logo": "/assets/logos/437px-MadBulls_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -750,7 +750,7 @@
         "Fluketh",
         "SchwepX"
       ],
-      "logo": "./assets/logos/900px-Vampire_Esports_2022_full_darkmode.png",
+      "logo": "/assets/logos/900px-Vampire_Esports_2022_full_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
@@ -767,7 +767,7 @@
         "YOUSSEF",
         "Powerful"
       ],
-      "logo": "./assets/logos/75px-Team_Falcons_2022_allmode.png",
+      "logo": "/assets/logos/75px-Team_Falcons_2022_allmode.png",
       "qualification": "PUBG_Mobile_World_Invitational/2022",
       "isFinalist": false,
       "finalsRank": null,

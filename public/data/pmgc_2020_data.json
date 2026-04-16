@@ -25,7 +25,7 @@
       "region": "Other",
       "countryCode": "id",
       "players": [],
-      "logo": "./assets/logos/900px-Bigetron_by_Vitality_full_darkmode.png",
+      "logo": "/assets/logos/900px-Bigetron_by_Vitality_full_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
@@ -39,7 +39,7 @@
         "Solkay",
         "Lova"
       ],
-      "logo": "./assets/logos/326px-Futbolist_Esports_2017_allmode.png",
+      "logo": "/assets/logos/326px-Futbolist_Esports_2017_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 12,
@@ -57,7 +57,7 @@
         "BERNA",
         "Krey"
       ],
-      "logo": "./assets/logos/Elites_United_Team.png",
+      "logo": "/assets/logos/Elites_United_Team.png",
       "qualification": "Host Country Invite",
       "isFinalist": false,
       "finalsRank": null,
@@ -68,7 +68,7 @@
       "region": "Other",
       "countryCode": "id",
       "players": [],
-      "logo": "./assets/logos/Aerowolf.png",
+      "logo": "/assets/logos/Aerowolf.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 13,
@@ -79,7 +79,7 @@
       "region": "Other",
       "countryCode": "th",
       "players": [],
-      "logo": "./assets/logos/Secret_Jin_lightmode.png",
+      "logo": "/assets/logos/Secret_Jin_lightmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
@@ -96,7 +96,7 @@
         "Earnny",
         "Beer11"
       ],
-      "logo": "./assets/logos/900px-Rex_Regum_Qeon_allmode.png",
+      "logo": "/assets/logos/900px-Rex_Regum_Qeon_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 11,
@@ -113,7 +113,7 @@
         "Gewwy",
         "2Stop"
       ],
-      "logo": "./assets/logos/900px-POWER888_ESPORTS_2020_allmode.png",
+      "logo": "/assets/logos/900px-POWER888_ESPORTS_2020_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 14,
@@ -126,7 +126,7 @@
       "players": [
         "iShot"
       ],
-      "logo": "./assets/logos/900px-Team_Secret_full_darkmode.png",
+      "logo": "/assets/logos/900px-Team_Secret_full_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 7,
@@ -144,7 +144,7 @@
         "NovaX",
         "Leon"
       ],
-      "logo": "./assets/logos/461px-Abrupt_Slayers_2021.png",
+      "logo": "/assets/logos/461px-Abrupt_Slayers_2021.png",
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 16,
@@ -160,7 +160,7 @@
         "AJ",
         "Gyal"
       ],
-      "logo": "./assets/logos/794px-DRS_GAMING_full_allmode.png",
+      "logo": "/assets/logos/794px-DRS_GAMING_full_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -177,7 +177,7 @@
         "6NiN3",
         "RxJax"
       ],
-      "logo": "./assets/logos/330px-A1_eSports_allmode.png",
+      "logo": "/assets/logos/330px-A1_eSports_allmode.png",
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 15,
@@ -194,7 +194,7 @@
         "Carrilho",
         "Federal"
       ],
-      "logo": "./assets/logos/loops.png",
+      "logo": "/assets/logos/loops.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Season_2",
       "isFinalist": false,
       "finalsRank": null,
@@ -211,7 +211,7 @@
         "Ravenn",
         "KingG"
       ],
-      "logo": "./assets/logos/The_Unnamed.png",
+      "logo": "/assets/logos/The_Unnamed.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Season_2",
       "isFinalist": false,
       "finalsRank": null,
@@ -227,7 +227,7 @@
         "Echooo",
         "FameBoi"
       ],
-      "logo": "./assets/logos/Execute_Esports_2020.png",
+      "logo": "/assets/logos/Execute_Esports_2020.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -244,7 +244,7 @@
         "ViTU2K",
         "Mafioso"
       ],
-      "logo": "./assets/logos/A7_eSports_darkmode.png",
+      "logo": "/assets/logos/A7_eSports_darkmode.png",
       "qualification": "PUBG_Mobile_Pro_League/Americas/Season_2",
       "isFinalist": true,
       "finalsRank": 9,
@@ -258,7 +258,7 @@
         "OldBoy",
         "Tix"
       ],
-      "logo": "./assets/logos/900px-Natus_Vincere_2021_darkmode.png",
+      "logo": "/assets/logos/900px-Natus_Vincere_2021_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 4,
@@ -272,7 +272,7 @@
         "SeLim",
         "Ray"
       ],
-      "logo": "./assets/logos/900px-Digital_Athletics.png",
+      "logo": "/assets/logos/900px-Digital_Athletics.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 8,
@@ -287,7 +287,7 @@
         "rolkis",
         "reeves"
       ],
-      "logo": "./assets/logos/75px-GODSENT_darkmode.png",
+      "logo": "/assets/logos/75px-GODSENT_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
@@ -299,7 +299,7 @@
       "countryCode": "un",
       "players": [],
       "qualification": "Global Stage",
-      "logo": "./assets/logos/900px-Konina_Power_full_darkmode.png",
+      "logo": "/assets/logos/900px-Konina_Power_full_darkmode.png",
       "isFinalist": true,
       "finalsRank": 6,
       "totalPoints": 239
@@ -315,7 +315,7 @@
         "Xinhe",
         "QingChen"
       ],
-      "logo": "./assets/logos/Four_Angry_Men_darkmode.png",
+      "logo": "/assets/logos/Four_Angry_Men_darkmode.png",
       "qualification": "Peacekeeper_Elite_League/2020/Points#Results",
       "isFinalist": true,
       "finalsRank": 2,
@@ -332,7 +332,7 @@
         "Paraboy",
         "Order"
       ],
-      "logo": "./assets/logos/1070px-Nova_Esports_lightmode.png",
+      "logo": "/assets/logos/1070px-Nova_Esports_lightmode.png",
       "qualification": "Peacekeeper_Elite_League/2020/Points",
       "isFinalist": true,
       "finalsRank": 1,
@@ -349,7 +349,7 @@
         "sQxuOcO",
         "Lufa"
       ],
-      "logo": "./assets/logos/900px-Blue_Bees_2019_lightmode.png",
+      "logo": "/assets/logos/900px-Blue_Bees_2019_lightmode.png",
       "qualification": "PUBG_Mobile_Japan_League/Season_0",
       "isFinalist": false,
       "finalsRank": null,
@@ -365,7 +365,7 @@
         "FAVIAN",
         "InonixOvO"
       ],
-      "logo": "./assets/logos/Archer_Gaming_darkmode.png",
+      "logo": "/assets/logos/Archer_Gaming_darkmode.png",
       "qualification": "PUBG_Mobile_Street_Challenge/2020/Fall",
       "isFinalist": false,
       "finalsRank": null,
@@ -377,7 +377,7 @@
       "countryCode": "mn",
       "players": [],
       "qualification": "Global Stage",
-      "logo": "./assets/logos/369px-Z3US_eSports_Full.png",
+      "logo": "/assets/logos/369px-Z3US_eSports_Full.png",
       "isFinalist": true,
       "finalsRank": 3,
       "totalPoints": 292

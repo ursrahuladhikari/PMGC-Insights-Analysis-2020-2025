@@ -177,7 +177,7 @@ async function loadYearData(year) {
     const anchorSection = currentVisibleSection;
 
     try {
-        const response = await fetch(`./data/pmgc_${year}_data.json?t=${Date.now()}`);
+        const response = await fetch(`/data/pmgc_${year}_data.json?t=${Date.now()}`);
         const data = await response.json();
 
         document.getElementById("hero-subtitle").innerText = `${year} Analysis & Insights`;
@@ -216,10 +216,10 @@ async function loadYearData(year) {
                 if (map === "Miramar") desc = "The Sniper's Nest";
                 if (map === "Sanhok") desc = "The Jungle Chaos";
 
-                const imgPath = `./assets/maps/${map.toLowerCase()}.png`;
+                const imgPath = `/assets/maps/${map.toLowerCase()}.png`;
                 return `
                 <div class="map-card-v2 glass-card">
-                    <img src="${imgPath}" alt="${map}" referrerpolicy="no-referrer" onerror="this.src='./assets/pmgc_game_maps.png'">
+                    <img src="${imgPath}" alt="${map}" referrerpolicy="no-referrer" onerror="this.src='/assets/pmgc_game_maps.png'">
                     <div class="map-info-v2">
                         <h4>${map}</h4>
                         <small>${desc}</small>
@@ -632,7 +632,7 @@ function renderStandingsTable(teams) {
         row.innerHTML = `
             <td class="rank-cell">#${team.finalsRank}</td>
             <td style="display: flex; align-items: center; gap: 10px;">
-                <img src="${team.logo}" alt="" style="width: 30px; height: 30px; border-radius: 4px; object-fit: contain;" onerror="this.src='./assets/logos/default.png'">
+                <img src="${team.logo}" alt="" style="width: 30px; height: 30px; border-radius: 4px; object-fit: contain;" onerror="this.src='/assets/logos/default.png'">
                 <strong>${team.name}</strong>
             </td>
             <td>
