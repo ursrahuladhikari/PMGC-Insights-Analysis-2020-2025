@@ -166,6 +166,7 @@ inject();
 
 let currentYear = 2023;
 let currentFilterState = "all";
+let currentMode = "participants"; // Track if we are in Participants grid or Finals table
 let currentVisibleSection = "hero";
 let isSwitchingYear = false;
 let isTeamsExpanded = false;
@@ -668,6 +669,7 @@ function setupFilters(data) {
         modeFinalsBtn.parentNode.replaceChild(newModeFinalsBtn, modeFinalsBtn);
 
         newModeParticipantsBtn.addEventListener("click", () => {
+            currentMode = "participants";
             newModeParticipantsBtn.classList.add("active");
             newModeParticipantsBtn.style.background = "rgba(0,242,255,0.15)";
             newModeParticipantsBtn.style.color = "#fff";
@@ -689,6 +691,7 @@ function setupFilters(data) {
         });
 
         newModeFinalsBtn.addEventListener("click", () => {
+            currentMode = "finals";
             newModeFinalsBtn.classList.add("active");
             newModeFinalsBtn.style.background = "rgba(0,242,255,0.15)";
             newModeFinalsBtn.style.color = "#fff";
@@ -764,8 +767,12 @@ function setupFilters(data) {
     }
 
     // Preserve filter state across year data loads
-    const activeBtn = Array.from(freshBtns).find(b => b.getAttribute('data-region') === currentFilterState) || Array.from(freshBtns).find(b => b.getAttribute('data-region') === 'all');
-    if (activeBtn) activeBtn.click();
+    if (currentMode === "finals") {
+        newModeFinalsBtn.click();
+    } else {
+        const activeBtn = Array.from(freshBtns).find(b => b.getAttribute('data-region') === currentFilterState) || Array.from(freshBtns).find(b => b.getAttribute('data-region') === 'all');
+        if (activeBtn) activeBtn.click();
+    }
 }
 
 function setupNavigation() {
