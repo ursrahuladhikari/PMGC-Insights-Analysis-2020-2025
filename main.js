@@ -1,7 +1,5 @@
-import { inject } from '@vercel/analytics';
 import broadcastData from './data/broadcast_talent.js';
 
-inject();
 
 /* ==========================================================================
    LOADING SCREEN — Esports themed with particle canvas + progress bar
@@ -170,6 +168,7 @@ let currentMode = "participants"; // Track if we are in Participants grid or Fin
 let currentVisibleSection = "hero";
 let isSwitchingYear = false;
 let isTeamsExpanded = false;
+let currentTournamentData = null;
 
 async function loadYearData(year) {
     if (isSwitchingYear) return;
@@ -247,10 +246,11 @@ async function loadYearData(year) {
             totalPoints: t.totalPoints || null
         }));
 
+        currentTournamentData = { teams: mappedTeams };
         renderOverview({ teams: mappedTeams });
         renderTeams(mappedTeams);
         renderTopPlayers(data.topPlayers || generateMockPlayers(year));
-        setupFilters({ teams: mappedTeams });
+        setupFilters(); // No longer passing data
 
         renderTournamentProcess(year);
         
@@ -649,7 +649,10 @@ function renderStandingsTable(teams) {
     });
 }
 
-function setupFilters(data) {
+function setupFilters() {
+    const data = currentTournamentData;
+    if (!data) return;
+
     const filterBtns = document.querySelectorAll(".filter-btn");
     const tableContainer = document.getElementById("standings-table-container");
     const teamsGrid = document.getElementById("teams-grid");
@@ -657,35 +660,31 @@ function setupFilters(data) {
     const regionFiltersBox = document.getElementById("region-filters");
     const expandContainer = document.getElementById("teams-expand-container");
 
-    // Stitch MCP Segmented Toggle UI Logic
     const modeParticipantsBtn = document.getElementById("mode-participants");
     const modeFinalsBtn = document.getElementById("mode-finals");
 
+    let activeFinalsBtn = null;
+
     if (modeParticipantsBtn && modeFinalsBtn) {
-        // Clone and replacing removes previous ghost listeners
         const newModeParticipantsBtn = modeParticipantsBtn.cloneNode(true);
         const newModeFinalsBtn = modeFinalsBtn.cloneNode(true);
         modeParticipantsBtn.parentNode.replaceChild(newModeParticipantsBtn, modeParticipantsBtn);
         modeFinalsBtn.parentNode.replaceChild(newModeFinalsBtn, modeFinalsBtn);
+        activeFinalsBtn = newModeFinalsBtn;
 
         newModeParticipantsBtn.addEventListener("click", () => {
             currentMode = "participants";
             newModeParticipantsBtn.classList.add("active");
             newModeParticipantsBtn.style.background = "rgba(0,242,255,0.15)";
             newModeParticipantsBtn.style.color = "#fff";
-            newModeParticipantsBtn.style.boxShadow = "0 0 15px rgba(0,242,255,0.1)";
-
             newModeFinalsBtn.classList.remove("active");
             newModeFinalsBtn.style.background = "transparent";
-            newModeFinalsBtn.style.color = "var(--text-secondary)";
-            newModeFinalsBtn.style.boxShadow = "none";
 
             if (tableContainer) tableContainer.style.display = "none";
             if (teamsGrid) teamsGrid.style.display = "grid";
             if (regionFiltersBox) regionFiltersBox.style.display = "flex";
-            if (expandContainer && data.teams.length > 12) expandContainer.style.display = "block";
+            if (expandContainer && currentTournamentData.teams.length > 12) expandContainer.style.display = "block";
 
-            // Trigger active region click to render the grid
             const activeRegionBtn = document.querySelector(".filter-btn.active") || document.querySelector('.filter-btn[data-region="all"]');
             if (activeRegionBtn) activeRegionBtn.click();
         });
@@ -695,32 +694,26 @@ function setupFilters(data) {
             newModeFinalsBtn.classList.add("active");
             newModeFinalsBtn.style.background = "rgba(0,242,255,0.15)";
             newModeFinalsBtn.style.color = "#fff";
-            newModeFinalsBtn.style.boxShadow = "0 0 15px rgba(0,242,255,0.1)";
-
             newModeParticipantsBtn.classList.remove("active");
             newModeParticipantsBtn.style.background = "transparent";
-            newModeParticipantsBtn.style.color = "var(--text-secondary)";
-            newModeParticipantsBtn.style.boxShadow = "none";
 
             if (tableContainer) tableContainer.style.display = "block";
             if (teamsGrid) teamsGrid.style.display = "none";
             if (regionFiltersBox) regionFiltersBox.style.display = "none";
             if (expandContainer) expandContainer.style.display = "none";
 
-            const filteredTeams = data.teams
+            const filteredTeams = currentTournamentData.teams
                 .filter(t => t.isFinalist)
                 .sort((a, b) => (a.finalsRank || 99) - (b.finalsRank || 99));
             renderStandingsTable(filteredTeams);
         });
     }
 
-    // Remove existing region listeners by cloning elements
     filterBtns.forEach(btn => {
         const newBtn = btn.cloneNode(true);
         btn.parentNode.replaceChild(newBtn, btn);
     });
 
-    // Re-select fresh buttons
     const freshBtns = document.querySelectorAll(".filter-btn");
 
     freshBtns.forEach((btn) => {
@@ -733,42 +726,34 @@ function setupFilters(data) {
             let filteredTeams;
 
             if (region === "all") {
-                filteredTeams = data.teams;
-                if (countDisplay) countDisplay.innerText = filteredTeams.length;
-                renderTeams(filteredTeams);
+                filteredTeams = currentTournamentData.teams;
             } else {
-                filteredTeams = data.teams.filter((t) => t.region.includes(region));
-                if (countDisplay) countDisplay.innerText = filteredTeams.length;
-                renderTeams(filteredTeams);
+                filteredTeams = currentTournamentData.teams.filter((t) => t.region.includes(region));
             }
+            if (countDisplay) countDisplay.innerText = filteredTeams.length;
+            renderTeams(filteredTeams);
         });
     });
 
-    // Expand Teams Binding
     const expandBtn = document.getElementById("teams-expand-btn");
-    // Clear old binding by cloning
     if (expandBtn) {
         const newExpandBtn = expandBtn.cloneNode(true);
         expandBtn.parentNode.replaceChild(newExpandBtn, expandBtn);
         newExpandBtn.addEventListener("click", () => {
             isTeamsExpanded = !isTeamsExpanded;
-            // Get currently active filter to re-render
             const region = currentFilterState;
             let filteredTeams;
             if (region === "all") {
-                filteredTeams = data.teams;
-            } else if (region === "Finalist") {
-                filteredTeams = data.teams.filter(t => t.isFinalist).sort((a,b) => (a.finalsRank || 99) - (b.finalsRank || 99));
+                filteredTeams = currentTournamentData.teams;
             } else {
-                filteredTeams = data.teams.filter((t) => t.region.includes(region));
+                filteredTeams = currentTournamentData.teams.filter((t) => t.region.includes(region));
             }
             renderTeams(filteredTeams);
         });
     }
 
-    // Preserve filter state across year data loads
-    if (currentMode === "finals") {
-        newModeFinalsBtn.click();
+    if (currentMode === "finals" && activeFinalsBtn) {
+        activeFinalsBtn.click();
     } else {
         const activeBtn = Array.from(freshBtns).find(b => b.getAttribute('data-region') === currentFilterState) || Array.from(freshBtns).find(b => b.getAttribute('data-region') === 'all');
         if (activeBtn) activeBtn.click();
