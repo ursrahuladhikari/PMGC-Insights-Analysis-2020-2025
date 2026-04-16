@@ -337,10 +337,12 @@ header {
   top: 0;
   left: 0;
   width: 100%;
+  max-width: 100vw;
   z-index: 1000;
   background: rgba(10, 11, 16, 0.8);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--glass-border);
+  overflow: hidden;
 }
 
 #main-nav {
@@ -1701,14 +1703,15 @@ footer {
   }
 
   /* Tables wrapper */
-  .stats-table-wrapper {
-    overflow-x: auto;
-    overflow-y: hidden;
-  }
-
+  .stats-table-wrapper,
+  .table-responsive,
   .prize-distribution {
     overflow-x: auto;
     overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    width: 100%;
+    margin-right: 0;
+    margin-left: 0;
   }
 
   table {
