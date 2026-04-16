@@ -289,11 +289,13 @@ function generateMockPlayers(year) {
 
 function updateDynamicText(year, info) {
     const ticker = document.getElementById("hero-ticker");
+    const totalPrizeEl = document.getElementById("awards-total-prize");
     const finalistTeams = currentTournamentData.teams
         .filter(t => t.isFinalist)
         .sort((a, b) => (a.finalsRank || 99) - (b.finalsRank || 99));
 
     if (info) {
+        if (totalPrizeEl) totalPrizeEl.innerText = `$${info.prize_pool.toLocaleString()} Total Prize Money`;
         ticker.innerHTML = `
             <div class="ticker-item">${info.winner} Crowned Champions</div>
             <div class="ticker-item">$${(info.prize_pool / 1000000).toFixed(1)}M Prize Pool</div>
@@ -308,33 +310,24 @@ function updateDynamicText(year, info) {
     }
 
     // Update Prize Payout Table Dynamically from Standings
-    if (finalistTeams.length >= 3) {
-        const p1 = finalistTeams[0];
-        const p2 = finalistTeams[1];
-        const p3 = finalistTeams[2];
-        const p4 = finalistTeams[3];
-        const p5 = finalistTeams[4];
-
-        const row1 = document.querySelector("#awards .prize-table tbody tr:nth-child(1)");
-        const row2 = document.querySelector("#awards .prize-table tbody tr:nth-child(2)");
-        const row3 = document.querySelector("#awards .prize-table tbody tr:nth-child(3)");
-        const row4 = document.querySelector("#awards .prize-table tbody tr:nth-child(4)");
-
-        if (row1) {
-            row1.querySelector("td:nth-child(2)").innerText = p1.name;
-            if (info) row1.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.15).toLocaleString()}`;
+    if (finalistTeams.length >= 5) {
+        const rows = document.querySelectorAll("#awards .prize-table tbody tr");
+        
+        if (rows[0]) {
+            rows[0].querySelector("td:nth-child(2)").innerText = finalistTeams[0].name;
+            if (info) rows[0].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.15).toLocaleString()}`;
         }
-        if (row2) {
-            row2.querySelector("td:nth-child(2)").innerText = p2.name;
-            if (info) row2.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.1).toLocaleString()}`;
+        if (rows[1]) {
+            rows[1].querySelector("td:nth-child(2)").innerText = finalistTeams[1].name;
+            if (info) rows[1].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.1).toLocaleString()}`;
         }
-        if (row3) {
-            row3.querySelector("td:nth-child(2)").innerText = p3.name;
-            if (info) row3.querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.06).toLocaleString()}`;
+        if (rows[2]) {
+            rows[2].querySelector("td:nth-child(2)").innerText = finalistTeams[2].name;
+            if (info) rows[2].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.06).toLocaleString()}`;
         }
-        if (row4 && p4 && p5) {
-            row4.querySelector("td:nth-child(2)").innerText = `${p4.name} / ${p5.name}`;
-            if (info) row4.querySelector("td:nth-child(3)").innerText = `~$${Math.round(info.prize_pool * 0.04).toLocaleString()} avg`;
+        if (rows[3]) {
+            rows[3].querySelector("td:nth-child(2)").innerText = `${finalistTeams[3].name} / ${finalistTeams[4].name}`;
+            if (info) rows[3].querySelector("td:nth-child(3)").innerText = `~$${Math.round(info.prize_pool * 0.04).toLocaleString()} avg`;
         }
     }
 }
