@@ -1,0 +1,346 @@
+{
+  "2020": [
+    {
+      "name": "Loops",
+      "currentLogo": "./assets/logos/loops.png"
+    }
+  ],
+  "2021": [
+    {
+      "name": "GodLike Esports",
+      "currentLogo": "./assets/logos/godlike_esports.png"
+    },
+    {
+      "name": "Bigetron RA",
+      "currentLogo": "./assets/logos/bigetron_ra.png"
+    },
+    {
+      "name": "Genesis Dogma GIDS",
+      "currentLogo": "./assets/logos/genesis_dogma_gids.png"
+    },
+    {
+      "name": "Black Dragons e-Sports",
+      "currentLogo": "./assets/logos/black_dragons_e_sports.png"
+    },
+    {
+      "name": "1907 Fenerbahçe Esports",
+      "currentLogo": "./assets/logos/1907_fenerbah_e_esports.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "currentLogo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "Kaos Next Rüya",
+      "currentLogo": "./assets/logos/kaos_next_r_ya.png"
+    }
+  ],
+  "2022": [
+    {
+      "name": "Alter Ego LIMAX",
+      "currentLogo": "./assets/logos/alter_ego_limax.png"
+    },
+    {
+      "name": "Bigetron RA",
+      "currentLogo": "./assets/logos/bigetron_ra.png"
+    },
+    {
+      "name": "EVOS Reborn",
+      "currentLogo": "./assets/logos/evos_reborn.png"
+    },
+    {
+      "name": "i8 Esports",
+      "currentLogo": "./assets/logos/i8_esports.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "currentLogo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "Genesis Dogma GIDS",
+      "currentLogo": "./assets/logos/genesis_dogma_gids.png"
+    },
+    {
+      "name": "POWR Esports",
+      "currentLogo": "./assets/logos/powr_esports.png"
+    },
+    {
+      "name": "Influence Chemin",
+      "currentLogo": "./assets/logos/influence_chemin.png"
+    }
+  ],
+  "2023": [
+    {
+      "name": "S2G Esports",
+      "currentLogo": "./assets/logos/s2g_esports.png"
+    },
+    {
+      "name": "Titan Esports Club",
+      "currentLogo": "./assets/logos/titan_esports_club.png"
+    },
+    {
+      "name": "HAIL Esports",
+      "currentLogo": "./assets/logos/hail_esports.png"
+    },
+    {
+      "name": "DRS Gaming",
+      "currentLogo": "./assets/logos/drs_gaming.png"
+    },
+    {
+      "name": "Gaimin Gladiators",
+      "currentLogo": "./assets/logos/gaimin_gladiators.png"
+    },
+    {
+      "name": "Team Weibo",
+      "currentLogo": "./assets/logos/team_weibo.png"
+    },
+    {
+      "name": "Tianba",
+      "currentLogo": "./assets/logos/tianba.png"
+    },
+    {
+      "name": "Six Two Eight",
+      "currentLogo": "./assets/logos/six_two_eight.png"
+    },
+    {
+      "name": "Persija Evos",
+      "currentLogo": "./assets/logos/persija_evos.png"
+    },
+    {
+      "name": "Vampire Esports",
+      "currentLogo": "./assets/logos/vampire_esports.png"
+    },
+    {
+      "name": "Yoodo Alliance",
+      "currentLogo": "./assets/logos/yoodo_alliance.png"
+    },
+    {
+      "name": "D'Xavier",
+      "currentLogo": "./assets/logos/d_xavier.png"
+    },
+    {
+      "name": "Genesis Esports",
+      "currentLogo": "./assets/logos/genesis_esports.png"
+    },
+    {
+      "name": "Stalwart Esports",
+      "currentLogo": "./assets/logos/stalwart_esports.png"
+    },
+    {
+      "name": "AgonxI8 Esports",
+      "currentLogo": "./assets/logos/agonxi8_esports.png"
+    },
+    {
+      "name": "Nigma Galaxy",
+      "currentLogo": "./assets/logos/nigma_galaxy.png"
+    },
+    {
+      "name": "Falcons White",
+      "currentLogo": "./assets/logos/falcons_white.png"
+    },
+    {
+      "name": "N Hyper Esports",
+      "currentLogo": "./assets/logos/n_hyper_esports.png"
+    },
+    {
+      "name": "Team Queso",
+      "currentLogo": "./assets/logos/team_queso.png"
+    },
+    {
+      "name": "Loops",
+      "currentLogo": "./assets/logos/loops.png"
+    },
+    {
+      "name": "Next Rüya",
+      "currentLogo": "./assets/logos/next_r_ya.png"
+    },
+    {
+      "name": "MadBulls",
+      "currentLogo": "./assets/logos/madbulls.png"
+    },
+    {
+      "name": "Alter Ego Ares",
+      "currentLogo": "./assets/logos/alter_ego_ares.png"
+    },
+    {
+      "name": "Fa",
+      "currentLogo": "./assets/logos/fa.png"
+    },
+    {
+      "name": "Bigetron Red Villains",
+      "currentLogo": "./assets/logos/bigetron_red_villains.png"
+    },
+    {
+      "name": "Xerxia Esports",
+      "currentLogo": "./assets/logos/xerxia_esports.png"
+    },
+    {
+      "name": "Morph GPX",
+      "currentLogo": "./assets/logos/morph_gpx.png"
+    },
+    {
+      "name": "SEM9",
+      "currentLogo": "./assets/logos/sem9.png"
+    },
+    {
+      "name": "BRA Esports",
+      "currentLogo": "./assets/logos/bra_esports.png"
+    },
+    {
+      "name": "Major Pride",
+      "currentLogo": "./assets/logos/major_pride.png"
+    },
+    {
+      "name": "Melise Esports",
+      "currentLogo": "./assets/logos/melise_esports.png"
+    },
+    {
+      "name": "Konina Power",
+      "currentLogo": "./assets/logos/konina_power.png"
+    },
+    {
+      "name": "De Muerte",
+      "currentLogo": "./assets/logos/de_muerte.png"
+    },
+    {
+      "name": "4Merical Vibes",
+      "currentLogo": "./assets/logos/4merical_vibes.png"
+    },
+    {
+      "name": "NB Esports",
+      "currentLogo": "./assets/logos/nb_esports.png"
+    },
+    {
+      "name": "IHC Esports",
+      "currentLogo": "./assets/logos/ihc_esports.png"
+    },
+    {
+      "name": "Seventh Element",
+      "currentLogo": "./assets/logos/seventh_element.png"
+    },
+    {
+      "name": "Quest Esports",
+      "currentLogo": "./assets/logos/quest_esports.png"
+    },
+    {
+      "name": "Brute Force",
+      "currentLogo": "./assets/logos/brute_force.png"
+    },
+    {
+      "name": "NASR Esports",
+      "currentLogo": "./assets/logos/nasr_esports.png"
+    },
+    {
+      "name": "RUKH eSports",
+      "currentLogo": "./assets/logos/rukh_esports.png"
+    },
+    {
+      "name": "Influence Rage",
+      "currentLogo": "./assets/logos/influence_rage.png"
+    },
+    {
+      "name": "Intense Game",
+      "currentLogo": "./assets/logos/intense_game.png"
+    },
+    {
+      "name": "iNCO Gaming",
+      "currentLogo": "./assets/logos/inco_gaming.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "currentLogo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "DUKSAN Esports",
+      "currentLogo": "./assets/logos/duksan_esports.png"
+    },
+    {
+      "name": "Dplus",
+      "currentLogo": "./assets/logos/dplus.png"
+    },
+    {
+      "name": "REJECT",
+      "currentLogo": "./assets/logos/reject.png"
+    },
+    {
+      "name": "BEENOSTORM",
+      "currentLogo": "./assets/logos/beenostorm.png"
+    },
+    {
+      "name": "Nongshim RedForce",
+      "currentLogo": "./assets/logos/nongshim_redforce.png"
+    }
+  ],
+  "2024": [
+    {
+      "name": "Alter Ego Ares",
+      "currentLogo": "./assets/logos/alter_ego_ares.png"
+    },
+    {
+      "name": "D'Xavier",
+      "currentLogo": "./assets/logos/d_xavier.png"
+    },
+    {
+      "name": "RRQ RYU",
+      "currentLogo": "./assets/logos/rrq_ryu.png"
+    },
+    {
+      "name": "Bigetron Knights",
+      "currentLogo": "./assets/logos/bigetron_knights.png"
+    },
+    {
+      "name": "Falcons Force",
+      "currentLogo": "./assets/logos/falcons_force.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "currentLogo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "The Vicious LATAM",
+      "currentLogo": "./assets/logos/the_vicious_latam.png"
+    },
+    {
+      "name": "Regnum Carya Bra",
+      "currentLogo": "./assets/logos/regnum_carya_bra.png"
+    },
+    {
+      "name": "RC BRA Esports",
+      "currentLogo": "./assets/logos/rc_bra_esports.png"
+    },
+    {
+      "name": "CAG OSAKA",
+      "currentLogo": "./assets/logos/cag_osaka.png"
+    }
+  ],
+  "2025": [
+    {
+      "name": "D'Xavier",
+      "currentLogo": "./assets/logos/d_xavier.png"
+    },
+    {
+      "name": "Alpha7 Esports",
+      "currentLogo": "./assets/logos/alpha7_esports.png"
+    },
+    {
+      "name": "Alter Ego Ares",
+      "currentLogo": "./assets/logos/alter_ego_ares.png"
+    },
+    {
+      "name": "Alliance MY",
+      "currentLogo": "./assets/logos/alliance_my.png"
+    },
+    {
+      "name": "Natus Vincere",
+      "currentLogo": "./assets/logos/natus_vincere.png"
+    },
+    {
+      "name": "NMG",
+      "currentLogo": "./assets/logos/nmg.png"
+    },
+    {
+      "name": "Weibo Gaming",
+      "currentLogo": "./assets/logos/weibo_gaming.png"
+    }
+  ]
+}

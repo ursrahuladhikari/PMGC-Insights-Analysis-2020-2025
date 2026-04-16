@@ -1,0 +1,2 @@
+Alpha7 Esports -> ./assets/PMGC_2023/alpha7_esports.png
+Nongshim RedForce -> ./assets/PMGC_2023/nongshim_redforce.png

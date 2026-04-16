@@ -1,0 +1,692 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2023}}
+{{PMGC 2023 Navbox}}
+<section begin="PMGC2023Tabs"/>{{Tabs static
+|name1=Overview				|link1=PUBG_Mobile_Global_Championship/2023
+|name2=Group Stage			|link2=PUBG_Mobile_Global_Championship/2023/Group_Stage
+|name3=Survival Stage		|link3=PUBG_Mobile_Global_Championship/2023/Survival_Stage
+|name4=Last Chance			|link4=PUBG_Mobile_Global_Championship/2023/Last_Chance
+|name5=Grand Finals			|link5=PUBG_Mobile_Global_Championship/2023/Grand_Finals
+|name6=Qualification		|link6=PUBG_Mobile_Global_Championship/2023/Qualification
+|name7=Statistics			|link7=PUBG_Mobile_Global_Championship/2023/Statistics
+|name8=Additional Content	|link8=PUBG_Mobile_Global_Championship/2023/Additional_Content
+}}<section end="PMGC2023Tabs"/>
+{{Infobox league
+|game= |highlighted=true
+|liquipediatier=1
+|name=PUBG Mobile Global Championship 2023
+|tickername=PMGC 2023
+|shortname=2023
+|image=PUBG Mobile Global Championship lightmode.png |imagedark=PUBG Mobile Global Championship darkmode.png
+|icon=PUBG Mobile Global Championship icon lightmode.png |icondarkmode=PUBG Mobile Global Championship icon darkmode.png
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=KRAFTON
+|organizer2=Level Infinite
+|organizer3=VSPO
+|organizer4= |organizer4-link=
+|sponsor=
+|mode=squads |perspective=tpp
+|team_number=50
+|type=Offline
+|device=[https://www.infinixmobility.com/GT-10-PRO Infinix GT 10 Pro]
+|country=Turkey |city=Istanbul |venue=Ülker Sports and Event Hall |venuelink=https://en.wikipedia.org/wiki/Ülker_Sports_and_Event_Hall |venuedesc=Grand Finals
+|country2=Malaysia |city2=Kuala Lumpur
+|venue2=Battle Arena |venue2link=https://battle-arena.my/ |venue2desc=League
+|sdate=2023-11-02 |edate=2023-12-10
+|prizepoolusd=3,000,000
+|web=https://esports.pubgmobile.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|tiktok=pubgmobileesports
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=@PUBGMOBILEEsports
+|previous=PUBG_Mobile_Global_Championship/2022{{!}}2022
+|next=PUBG_Mobile_Global_Championship/2024{{!}}2024
+}}
+
+'''PUBG Mobile Global Championship 2023''' is the final event of the 2023 PUBG Mobile competitive season.
+
+==About==
+===Broadcast Talent===
+{{Tabs dynamic|name1=English|name2=Turkish|name3=SEA|name4=South Asia|name5=Arabic|name6=Europe|name7=Americas|name8=East Asia|hide-showall=true}}<!--
+EN
+-->{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=(League Stage) Stage Host |lang=en
+|b1=TashBunny
+|b2=ChuChu
+}}
+{{BroadcasterCard
+|position=(Grand Finals) Stage Host |lang=en
+|b1=Banks
+}}
+{{BroadcasterCard |position=Desk Host |lang=en
+|b1=JKaplan
+|b2=HotJukes
+}}
+{{box|break}}
+{{BroadcasterCard |position=English Analyst |lang=en
+|b1=Maxman
+|b2=Kaelaris
+|b3=The7WG
+|b4=Cameron Davis
+}}
+{{BroadcasterCard |position=English Commentator |lang=en
+|b1=John Allen
+|b2=Blank
+|b3=Jacky	|b3name=Jack Peters |b3flag=uk
+|b4=ZooTay
+}}
+{{box|end}}<!--
+TR
+-->{{Tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=League Desk Host / Grand Finals Stage Host |lang=tr
+|b1=Tintin
+}}
+{{box|break}}
+{{BroadcasterCard |position=Turkish Analyst |lang=tr
+|b1=Yargic Tony
+|b2=Seyid
+}}
+{{BroadcasterCard |position=Turkish Commentator |lang=tr
+|b1=Scott
+|b2=SencerEZ
+|b3=Erman Yasar
+|b4=Kaan Kural |b4flag=tr<!--
+|b3=Cansehmus
+-->}}
+{{box|end}}<!--
+SEA
+-->{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Indonesian Host |lang=id
+|b1=Donna
+|b2=Windy
+}}
+{{BroadcasterCard |position=Indonesian Analyst |lang=id
+|b1=El Dogee
+|b2=Odidieu
+|b3=Junior
+|b4=Wolfy
+}}
+{{BroadcasterCard |position=Indonesian Commentator |lang=id
+|b1=Pasta
+|b2=Wolfy
+|b3=Sanskuy
+|b4=Jelly
+}}
+{{BroadcasterCard |position=Malay Host |lang=my
+|b1=Emi
+|b2=Kyrul
+}}
+{{BroadcasterCard |position=Malay Analyst |lang=my
+|b1=Soultannn
+|b2=J Hunter
+}}
+{{BroadcasterCard |position=Malay Commentator |lang=my
+|b1=OnTheGo
+|b2=J Hunter
+|b3=Kyrul
+|b4=TopCast
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Thai Host |lang=th
+|b1=Aoeyjiwa
+}}
+{{BroadcasterCard |position=Thai Analyst |lang=th
+|b1=BeCrazy
+}}
+{{BroadcasterCard |position=Thai Commentator |lang=th
+|b1=Zaffer
+|b2=Archz
+|b3=Ffame
+}}
+{{BroadcasterCard |position=Vietnamese Commentator |lang=vn
+|b1=Cường OT
+|b2=Loki |b2link=Loki (Nguyen Thanh Trung)
+|b3=Kuook
+|b4=Tuấn Tái
+|b5=Huy Lova
+|b6=VietOP
+|b7=Hữu Nghĩa
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Burmese Commentator |lang=mm
+|b1=Blingx
+|b2=Sammy
+|b3=Zan
+}}
+{{BroadcasterCard |position=Tagalog Commentator |lang=ph
+|b1=BekBek
+|b2=PhauloB
+|b3=Reyrey
+|b4=QueenToyo
+|b5=AyaPlays
+}}
+{{BroadcasterCard |position=Khmer Commentator |lang=kh
+|b1=BiqDaddy
+|b2=STALKER
+|b3=Crim
+}}
+{{box|end}}<!--
+SA
+-->{{Tabs dynamic/tab|4}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Urdu Commentator |lang=pk
+|b1=RZ
+|b2=Aladdin
+|b3=Aadi	|b3link=Aadi (Pakistani caster)
+|b4=Gaming Portal
+}}
+{{box|break}}
+{{BroadcasterCard |position=Nepali Commentator |lang=np
+|b1=Bipul
+|b2=AnshYT
+|b3=Mandip Casts
+|b4=MrHyozu
+}}
+{{BroadcasterCard |position=Mongolian Commentator |lang=mn
+|b1=Wise
+|b2=Tuvshintugs
+}}
+{{box|end}}<!--
+Arabic
+-->{{Tabs dynamic/tab|5}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Arabic Host |lang=ar
+|b1=Sandstorm
+|b2=L3GEND
+}}
+{{BroadcasterCard |position=Arabic Analyst |lang=ar
+|b1=Kayyali
+|b2=Mao
+|b3=K0de
+|b4=Starfall
+}}
+{{box|break}}
+{{BroadcasterCard |position=Arabic Commentator |lang=ar
+|b1=Youcef
+|b2=Almola
+|b3=Mo3taz
+|b4=Flanker
+}}
+{{box|end}}<!--
+EU
+-->{{Tabs dynamic/tab|6}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Russian Broadcast Director |lang=ru
+|b1=Starboy
+}}
+{{BroadcasterCard |position=Russian Commentator |lang=ru
+|b1=Coldstar
+|b2=Fenix
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Kazakh Commentator |lang=kz
+|b1=LastHero
+|b2=Gonzo
+}}
+{{box|break}}
+{{BroadcasterCard |position=Uzbek Commentator |lang=uz
+|b1=EAGLE BRO |b1flag=uz
+|b2=RHYTHM
+}}
+{{box|end}}<!--
+AM
+-->{{Tabs dynamic/tab|7}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Portuguese Commentator |lang=ptbr
+|b1=Khaya
+|b2=Pew3x
+|b3=MurilloShooow
+|b4=Ferzote
+|b5=Hads |b5flag=br
+}}
+{{box|break}}
+{{BroadcasterCard |position=Spanish Commentator |lang=esmx
+|b1=Jaguar70
+|b2=KevinMPV
+|b3=KILLER
+|b4=Daphne
+|b5=Gatik
+|b6=Frata
+}}
+{{box|end}}
+<!--
+East Asia
+-->{{Tabs dynamic/tab|8}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Mandarin Commentator |lang=cn
+|b1=
+|b2=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Korean Caster |lang=kr
+|b1=Park Han-eol
+|b2=Kim Hee-joo |b2flag=kr
+}}
+{{BroadcasterCard |position=Korean Commentator |lang=kr
+|b1=Park Dong-jin
+|b2=Kim Dong-yeon
+|b3=Bino |b3flag=kr
+|b4=Shin Jung-min
+|b5=FINALE
+|b6=WH0RU
+|b7=Kura |b7flag=kr
+|b8=ONBA
+|b9=ZZP
+|b10=NOVA |b10link=NOVA (Korean player)
+}}
+{{box|break}}
+{{BroadcasterCard |position=Japanese Commentator |lang=jp
+|b1=Junyou Yamauchi
+|b2=RintoXD
+|b3=Zussy
+|b4=OooDa
+|b5=Shinichiro
+}}
+{{BroadcasterCard |position=Japanese Guest Commentator |lang=jp
+|b1=Purio |b1flag=jp
+|b2=p1r
+|b3=heko
+|b4=Critical Tomato
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Format===
+* '''League:''''' November 2nd - 26th, 2023 in {{FlagNoLink|my}} Kuala Lumpur, Malaysia
+** '''Group Stage:''''' Nov 2nd - 19th, 2023
+*** 48 teams, divided equally into 3 groups of 16.
+*** Each group play exclusively in a certain week of 24 matches:
+**** Each week consist of 4 matchdays.
+**** Each matchday consist of 6 matches.
+*** {{Bgcolortext|up|Top 3 teams of each group}} advance to ''Grand Finals''.
+*** {{Bgcolortext|stayup|4th - 11th place of each group}} advance to ''Survival Stage''.
+*** {{Bgcolortext|down|Bottom 5 teams of each group}} are eliminated.<div style=margin-top:10px></div>
+** '''Survival Stage:''''' Nov 22nd - 24th, 2023
+*** 24 teams, divided equally into 3 groups of 8.
+*** Each group play 6 matches per day for a total of 18 matches across 3 days in a ''Round-Robin format''.
+*** {{Bgcolortext|stayup|Top 16 teams}} advance to ''Last Chance''.
+*** {{Bgcolortext|down|Bottom 8 teams}} are eliminated.<div style=margin-top:10px></div>
+** '''Last Chance:''''' Nov 25th - 26th, 2023
+*** 16 teams.
+*** 12 matches.
+*** {{Bgcolortext|up|Top 5 teams}} advance to ''Grand Finals''.
+*** {{Bgcolortext|down|Bottom 11 teams}} are eliminated.
+<div style=margin-top:15px></div>
+* '''Grand Finals:''''' December 8th - 10th, 2023 in {{FlagNoLink|tr}} Istanbul, Türkiye
+** 16 teams:
+*** {{Bgcolortext|up|14 teams}} from ''League Stage
+*** {{Bgcolortext|seedup|2 teams}} directly invited
+** 18 matches
+<br/>
+{{Points10|showtb=true}}
+
+====Schedules====
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=2| Tournament Schedule
+|-
+! Stage
+! width=180px| Matchdays
+|-
+| '''Group Green'''
+| Nov 2nd - 5th
+|-
+| '''Group Red'''
+| Nov 9th - 12th
+|-
+| '''Group Yellow'''
+| Nov 16th - 19th
+|-
+| '''Survival Stage'''
+| Nov 22nd - 24th
+|-
+| '''Last Chance'''
+| Nov 25th - 26th
+|-
+| '''Grand Finals'''
+| Dec 8th - 10th
+|}
+{{box|break}}<div class="table-responsive">
+{{MapRotation|SEEEMM|margin-top=10px}}</div>
+{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=453500|{{Opponent|ihc esports}} }}
+|{{Slot|usdprize=263000|{{Opponent|ste mn}} }}
+|{{Slot|usdprize=184000|{{Opponent|alpha7}} }}
+|{{Slot|usdprize=144000|{{Opponent|4mv}} }}
+|{{Slot|usdprize=121000|{{Opponent|dxavier}} }}
+|{{Slot|usdprize=105000|{{Opponent|faze}} }}
+|{{Slot|usdprize=107000|{{Opponent|nongshim redforce}} }}
+|{{Slot|usdprize=98000 |{{Opponent|team weibo}} }}
+|{{Slot|usdprize=47500 |{{Opponent|titan esports club}} }}
+|{{Slot|usdprize=94000 |{{Opponent|six two eight}} }}
+|{{Slot|usdprize=42500 |{{Opponent|s2g esports}} }}
+|{{Slot|usdprize=90000 |{{Opponent|loops}} }}
+|{{Slot|usdprize=78000 |{{Opponent|persija evos}} }}
+|{{Slot|usdprize=85000 |{{Opponent|major pride}} }}
+|{{Slot|usdprize=71250 |{{Opponent|yoodo alliance}} }}
+|{{Slot|usdprize=78000 |{{Opponent|morph gpx}} }}
+<!--Last Chance-->
+|{{Slot|usdprize=38,500 |{{Opponent|team queso}} |date=2023-11-26 }}
+|{{Slot|usdprize=40,250 |{{Opponent|btr rv}} |date=2023-11-26 }}
+|{{Slot|usdprize=35,750 |{{Opponent|inco gaming}} |date=2023-11-26 }}
+|{{Slot|usdprize=39,500 |{{Opponent|influence rage}} |date=2023-11-26 }}
+|{{Slot|usdprize=35,750 |{{Opponent|duksan esports}} |date=2023-11-26 }}
+|{{Slot|usdprize=36,500 |{{Opponent|reject}} |date=2023-11-26 }}
+|{{Slot|usdprize=35,500 |{{Opponent|rukh esports}} |date=2023-11-26 }}
+|{{Slot|usdprize=37,750 |{{Opponent|ngx arabia}} |date=2023-11-26 }}
+|{{Slot|usdprize=33,750 |{{Opponent|brute force}} |date=2023-11-26 }}
+|{{Slot|usdprize=36,250 |{{Opponent|madbulls}} |date=2023-11-26 }}
+|{{Slot|usdprize=30,750 |{{Opponent|gaimin gladiators}} |date=2023-11-26 }}
+<!--Survival Stage-->
+|{{Slot|usdprize=28,500 |{{Opponent|sem9}} |date=2023-11-24 }}
+|{{Slot|usdprize=31,000 |{{Opponent|dplus}} |date=2023-11-24 }}
+|{{Slot|usdprize=28,000 |{{Opponent|nasr esports}} |date=2023-11-24 }}
+|{{Slot|usdprize=28,000 |{{Opponent|nbes}} |date=2023-11-24 }}
+|{{Slot|usdprize=27,500 |{{Opponent|melise esports}} |date=2023-11-24 }}
+|{{Slot|usdprize=27,500 |{{Opponent|alter ego ares}} |date=2023-11-24 }}
+|{{Slot|usdprize=27,500 |{{Opponent|n hyper esports}} |date=2023-11-24 }}
+|{{Slot|usdprize=25,000 |{{Opponent|quest esports}} |date=2023-11-24 }}
+<!--Group Stage-->
+|{{Slot|usdprize=22,000	|{{Opponent|tianba|date=2023-11-05}}<!--GrpGreen12-->
+						|{{Opponent|intense game|date=2023-11-12}}<!--GrpRed12-->
+				 		|{{Opponent|vampire esports|date=2023-11-19}}<!--GrpYellow12-->
+						}}
+|{{Slot|usdprize=21,500	|{{Opponent|falcons white|date=2023-11-05}}<!--GrpGreen13-->
+						|{{Opponent|next ruya|date=2023-11-12}}<!--GrpRed13-->
+				 		|{{Opponent|de muerte|date=2023-11-19}}<!--GrpYellow13-->
+						}}
+|{{Slot|usdprize=21,000	|{{Opponent|bra esports|date=2023-11-05}}<!--GrpGreen14-->
+						|{{Opponent|7e|date=2023-11-12}}<!--GrpRed14-->
+				 		|{{Opponent|genesis esports|date=2023-11-19}}<!--GrpYellow14-->
+						}}
+|{{Slot|usdprize=20,500 |{{Opponent|agi8|date=2023-11-05}}<!--GrpGreen15-->
+						|{{Opponent|hail esports th|date=2023-11-12}}<!--GrpRed15-->
+				 		|{{Opponent|drs gaming|date=2023-11-19}}<!--GrpYellow15-->
+						}}
+|{{Slot|usdprize=20,000	|{{Opponent|xerxia|date=2023-11-05}}<!--GrpGreen16-->
+						|{{Opponent|konina power|date=2023-11-12}}<!--GrpRed16-->
+				 		|{{Opponent|beenostorm|date=2023-11-19}}<!--GrpYellow16-->
+						}}
+|adjacentContent=
+{{AwardPrizePool
+|{{Slot |award=MVP 				|{{Opponent|Zyol|flag=mn|team=ihc esports}} }}
+|{{Slot |award=Gunslinger 		|{{Opponent|Zyol|flag=mn|team=ihc esports}} }}
+|{{Slot |award=Grenade Master	|{{Opponent|MELA|flag=th|team=faze}} }}
+|{{Slot |award=Field Medic 		|{{Opponent|ParaJin|flag=vn|team=dxavier}} }}
+}}
+}}
+===Base Prize Distribution===
+{{box|start|padding=1em}}
+====League Stage====
+The ''League Stage'' has a total prize pool of $1,580,000 {{Abbr/USD}}, and is distributed as follows:
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $10,000 (for each team)
+|}
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Group Stage (per group)
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $40,000 		|| {{Placement|9}}	|| $13,500
+|-
+| {{Placement|2}}	|| $39,000 		|| {{Placement|10}}	|| $13,000
+|-
+| {{Placement|3}}	|| $38,000 		|| {{Placement|11}}	|| $12,500
+|-
+| {{Placement|4}}	|| $16,000 		|| {{Placement|12}}	|| $12,000
+|-
+| {{Placement|5}}	|| $15,500 		|| {{Placement|13}}	|| $11,500
+|-
+| {{Placement|6}}	|| $15,000		|| {{Placement|14}}	|| $11,000
+|-
+| {{Placement|7}}	|| $14,500		|| {{Placement|15}}	|| $10,500
+|-
+| {{Placement|8}}	|| $14,000		|| {{Placement|16}}	|| $10,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Survival Stage
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $10,000 		|| {{Placement|9}}	|| $8,000 		|| {{Placement|17}}	|| $6,000
+|-
+| {{Placement|2}}	|| $9,750 		|| {{Placement|10}}	|| $7,750		|| {{Placement|18}}	|| $5,500
+|-
+| {{Placement|3}}	|| $9,500  		|| {{Placement|11}}	|| $7,500		|| {{Placement|19}}	|| $5,000
+|-
+| {{Placement|4}}	|| $9,250 		|| {{Placement|12}}	|| $7,250 		|| {{Placement|20}}	|| $4,500
+|-
+| {{Placement|5}}	|| $9,000 		|| {{Placement|13}}	|| $7,000		|| {{Placement|21}}	|| $4,000
+|-
+| {{Placement|6}}	|| $8,750 		|| {{Placement|14}}	|| $6,750		|| {{Placement|22}}	|| $3,500
+|-
+| {{Placement|7}}	|| $8,500		|| {{Placement|15}}	|| $6,500		|| {{Placement|23}}	|| $3,000
+|-
+| {{Placement|8}}	|| $8,250		|| {{Placement|16}}	|| $6,250		|| {{Placement|24}}	|| $2,500
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Last Chance
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $10,000 		|| {{Placement|9}}	|| $4,500
+|-
+| {{Placement|2}}	|| $8,500 		|| {{Placement|10}}	|| $4,000
+|-
+| {{Placement|3}}	|| $7,500 		|| {{Placement|11}}	|| $3,500
+|-
+| {{Placement|4}}	|| $7,000 		|| {{Placement|12}}	|| $3,000
+|-
+| {{Placement|5}}	|| $6,500 		|| {{Placement|13}}	|| $2,500
+|-
+| {{Placement|6}}	|| $6,000		|| {{Placement|14}}	|| $2,000
+|-
+| {{Placement|7}}	|| $5,500		|| {{Placement|15}}	|| $1,500
+|-
+| {{Placement|8}}	|| $5,000		|| {{Placement|16}}	|| $1,000
+|}
+{{box|end}}
+{{box|break}}
+
+====Grand Finals====
+The ''Grand Finals'' has a total prize pool of $1,420,000 {{Abbr/USD}}.
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $15,000 (for each team)
+|}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Grand Finals
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $400,000		|| {{Placement|9}}	|| $32,500
+|-
+| {{Placement|2}}	|| $200,000		|| {{Placement|10}}	|| $30,000
+|-
+| {{Placement|3}}	|| $120,000		|| {{Placement|11}}	|| $27,500
+|-
+| {{Placement|4}}	|| $80,000 		|| {{Placement|12}}	|| $25,000
+|-
+| {{Placement|5}}	|| $62,000 		|| {{Placement|13}}	|| $22,500
+|-
+| {{Placement|6}}	|| $51,000		|| {{Placement|14}}	|| $20,000
+|-
+| {{Placement|7}}	|| $42,000		|| {{Placement|15}}	|| $17,500
+|-
+| {{Placement|8}}	|| $35,000		|| {{Placement|16}}	|| $15,000
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|tcht=190|playerinfo=true}}
+===Grand Finals===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=S2G Esports |flag=tr
+|p1=Sylas|p1wins=1
+|p2=Calse|p2wins=1
+|p3=RayZ|p3wins=1
+|p4=HamsiG|p4wins=1
+|c=For1st
+|c2=Bluffist|c2flag=tr
+|qualifier=Host Country
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Titan Esports Club |flag=cn
+|p1=bamboo
+|p2=SuKi
+|p3=97
+|p4=shadow|p4link=狼影
+|p5=Justin|p5link=Justin (Luo Xiongjie) |p5flag=cn
+|c=小马Neo
+|qualifier=[[Peacekeeper Elite League/2023/Points|PEL Points]]
+}}
+{{box|end}}
+
+===League Stage===
+{{box|start|padding=2em|max-width=1400px}}
+{{TeamCard
+|team=HAIL Esports |link=HAIL Esports Thailand |flag=th
+|p1=TIGERx
+|p2=Nuttinz
+|p3=cSkyOnly
+|p4=GETSLOW
+|p5=Flash
+|c=SAGOTBAI
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/Points/Thailand|PMWI Special Invite]]
+|inotes={{NoteBig|n1=The champion of [[PUBG_Mobile_World_Invitational/2023|PMWI]] (Vampire Esports) earned their region an additional slot for the PMGC League Stage which is given through [[PUBG_Mobile_Global_Championship/2023/Points|PMGC Qualification Points]].<ref>{{cite web|url=https://twitter.com/EsportsPUBGM/status/1674311770180308992|title=2023 PUBG MOBILE WORLD INVITATIONAL FEATURES UPDATE!|author=[https://twitter.com/EsportsPUBGM PUBG MOBILE Esports]|date=2023-06-29}}</ref>}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DRS Gaming |flag=np
+|p1=DeltaX
+|p2=KillerYT
+|p3=RulzSR
+|p4=Gyantey
+|p5=Sang
+|c=|cflag=
+|qualifier=Special Invite #1
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Gaimin Gladiators |flag=world
+|p1=KITSUNÉ
+|p2=Matic
+|p3=Mequ
+|p4=Tixzy
+|c=Qwizzy|cflag=ru
+|qualifier=Special Invite #2
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Weibo |flag=cn
+|p1=Suk|p1flag=cn
+|p2=YMao|p2flag=cn
+|p3=MingSkr|p3flag=cn
+|p4=Gap|p4flag=cn |p4link=DaoShi
+|p5=Huan|p5flag=cn |p5link=环
+|p6=|p6flag=
+|c=扶摇|cflag=cn
+
+|qualifier=[[Peacekeeper Elite League/2023/Points|PEL Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Tianba |flag=cn
+|p1=TianYu|p1flag=cn |p1link=天宇	
+|p2=Ydd|p2flag=cn |p2link=Ydd (Liu Bo) 
+|p3=Qz|p3flag=cn
+|p4=Ly|p4flag=cn
+|p5=Ren|p5flag=cn |p5link=任
+|p6=|p6flag=
+|c=Carrot|cflag=cn
+|qualifier=[[Peacekeeper Elite League/2023/Points|PEL Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Six Two Eight |flag=cn
+|p1=33z|p1flag=cn
+|p2=SuNan|p2flag=cn
+|p3=Xing|p3flag=cn |p3link=派大兴
+|p4=YuYang|p4flag=cn
+|p5=HeRo7|p5flag=cn |p5link=杰
+|p6=浪渡|p6flag=cn
+|c=老虎911|cflag=cn
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/PEL|PEL Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Persija Evos |flag=id
+|p1=Zuxxy
+|p2=Luxxy
+|p3=RedFace
+|p4=Misery
+|p5=Linxx
+|p6=Gotten	|p6flag=id |p6link=Gugunco
+|c=S1nyo|cflag=id|c2=La Flame|flag2=id
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/Points/Indonesia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Vampire Esports |flag=th
+|p1=Stoned
+|p2=SchwepXz
+|p3=nOOzy
+|p4=TonyK
+|p5=Rvenclaw
+|p6=Fluketh
+|c=SIRTANNY|cflag=
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/Points/Thailand|Thailand Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Yoodo Alliance |flag=my
+|p1=Repoboy
+|p2=FlaxOP 
+|p3=AdikLuq
+|p4=Oliyo
+|p5=Iftar
+|c=Luppy|cflag=my
+|c2=MosGoku |c2flag=my
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/Points/Malaysia|Malaysia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=D'Xavier |flag=vn
+|p1=Lamborghini
+|p2=CHUA
+|p3=Franky	|p3link=Franky (Vietnamese Player)
+|p4=ParaJin
+|p5=LeVis	|p5link=ViCoi
+|c=Ge
+|qualifier=[[PUBG_Mobile_Global_Championship/2023/Points/

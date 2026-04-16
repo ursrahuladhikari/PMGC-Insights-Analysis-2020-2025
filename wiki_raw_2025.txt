@@ -1,0 +1,577 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2025}}{{Liquipedia links/PUBGUnited2025}}{{2025 Circuit Navbox|state1=uncollapsed}}{{PMGC 2025 Tabs}}
+{{Infobox league
+|liquipediatier=1 |highlighted=true
+|name=PUBG Mobile Global Championship 2025
+|tickername=PMGC 2025
+|shortname=2025
+|image=PUBG Mobile Global Championship 2024 lightmode.png |imagedark=PUBG Mobile Global Championship 2024 darkmode.png
+|icon=PUBG Mobile Global Championship 2024 icon lightmode.png |icondarkmode=PUBG Mobile Global Championship 2024 icon darkmode.png
+|caption='''"This Is The #1 You're Looking For"'''
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=KRAFTON
+|organizer2=Level Infinite
+|organizer3=Hero Esports
+|sponsor=[https://www.infinixmobility.com/ Infinix]
+|mode=squads |perspective=tpp
+|team_number=40
+|type=Offline
+|device=[https://www.infinixmobility.com/GT-30-Pro Infinix GT 30 Pro]
+|country=Thailand|country2=Thailand |city=Bangkok|city2=Samut Prakan
+|venue=Siam Paragon |venuelink=https://www.siamparagon.co.th/ |venuedesc=Grand Finals
+|venue2=Imperial World Samrong |venue2link=https://www.facebook.com/ImperialWorldSamrong |venue2desc=League
+|sdate=2025-11-24 |edate=2025-12-14
+|prizepoolusd=3,000,000
+|web=https://esports.pubgmobile.com/ |web2=https://pubgunited.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|tiktok=pubgmobileesports
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=@PUBGMOBILEEsports
+|previous=PUBG_Mobile_Global_Championship/2024{{!}}2024
+|next=PUBG_Mobile_Global_Championship/2026{{!}}2026
+}}
+
+'''PUBG Mobile Global Championship 2025''' is the final event of the 2025 PUBG Mobile competitive season. 
+
+The event is one half of the '''[[esports:PUBG_United/2025|PUBG United]]''' event, a month long event where both the {{LeagueIconSmall/pubg mobile global championship|date=2025-12-14|}} '''PMGC''' and the {{LeagueIconSmall/custom|icon=PUBG Global Championship 2023 allmode.png|link=pubg:PUBG_Global_Championship/2025|}}''' [[pubg:PUBG Global Championship/2025|PUBG Global Championship]] (PC version)''' is held together as a single event.<ref>{{Cite web|url=https://pubgesports.com/en/news/9122 |title=This November, PUBG UNITED 2025 comes to Bangkok, Thailand! |author='''PUBG Esports''' |date=2025-09-08}}</ref>
+
+==About==
+===Format===
+* '''The Gauntlet:''''' November 24th - 26th, 2025 at Imperial World Samrong, {{FlagNoLink|th}} Samut Prakan
+** {{Bgcolortext|stayup|16 qualified teams}} from respective Regional Championships.
+** 18 matches (6 each day).
+** {{Bgcolortext|up|Top 7 teams}} advance to ''Grand Finals''.
+** {{Bgcolortext|stay|Remaining teams}} advance to ''Group Stage''.
+<div style="margin-top:12px"></div>
+* '''Group Stage:''''' November 28th - 30th & December 2nd - 4th, 2025 at Imperial World Samrong, {{FlagNoLink|th}} Samut Prakan
+** 32 teams, divided equally into 2 groups of 16:
+*** {{Bgcolortext|stayup|Remaining qualified teams}} from respective Regional Championships/PMGC Points.
+*** {{Bgcolortext|stay|9 teams}} from The Gauntlet
+** Each group plays 18 matches across 3 matchdays.
+** {{Bgcolortext|up|Top 3 teams from each group}} advance to ''Grand Finals''.
+** {{Bgcolortext|stay|4th - 11th placed teams from each group}} advance to ''Last Chance.
+** {{Bgcolortext|down|Bottom 5 teams of each group}} are eliminated.
+<div style="margin-top:12px"></div>
+* '''Last Chance:''''' December 6th - 7th, 2025 at Imperial World Samrong, {{FlagNoLink|th}} Samut Prakan
+** 16 teams:
+*** {{Bgcolortext|stayup|4th - 11th placed teams}} from each group of Group Stage.
+** 12 matches (6 each day).
+** {{Bgcolortext|up|Top 2 teams}} advance to ''Grand Finals''.
+** {{Bgcolortext|down|The rest}} are eliminated.
+<div style="margin-top:12px"></div>
+* '''Grand Finals:''''' December 12th - 14th, 2025 at Siam Paragon, {{FlagNoLink|th}} Bangkok
+** 16 teams:
+*** {{Bgcolortext|stayup|7 teams}} from The Gauntlet
+*** {{Bgcolortext|stayup|6 teams}} from Group Stage
+*** {{Bgcolortext|stayup|2 teams}} from Last Chance
+*** {{Bgcolortext|stayup|1 team}} as Host Country Invitee
+** 18 matches (6 each day).
+** '''Smash Rule''' is applied in Day 3. {{SmashRule|margin-left=2em|section=SmashRuleGF|matchpoint=Top 1's point after Match #12 + 10|maxmatch=6}}
+<br/>
+{{Points10|showtb=true}}
+
+====Schedule====
+<div class="table-responsive">
+{| class="wikitable" style="text-align:center;margin-top:7px"
+|-
+! colspan="7"| {{LeagueIconSmall/pubg mobile global championship|date=2025-12-14|}} 2025 PMGC Tournament Calendar
+|-
+! width="75px"| Mon
+! width="75px"| Tue
+! width="75px"| Wed
+! width="75px"| Thu
+! width="75px"| Fri
+! width="75px"| Sat
+! width="75px"| Sun
+|-
+| '''Nov&nbsp;24'''
+| '''Nov&nbsp;25'''
+| '''Nov&nbsp;26'''
+| '''Nov&nbsp;27'''
+| '''Nov&nbsp;28'''
+| '''Nov&nbsp;29'''
+| '''Nov&nbsp;30'''
+|-
+| colspan="3" class="bg-lightblue"| The Gauntlet
+| class="bg-neutral"| 
+| colspan="3" class="bg-up"| Group Stage (Green)
+|-
+| '''Dec&nbsp;1'''
+| '''Dec&nbsp;2'''
+| '''Dec&nbsp;3'''
+| '''Dec&nbsp;4'''
+| '''Dec&nbsp;5'''
+| '''Dec&nbsp;6'''
+| '''Dec&nbsp;7'''
+|-
+| class="bg-neutral"| 
+| colspan="3" class="bg-up"| Group Stage (Red)
+| class="bg-neutral"| 
+| colspan="2" class="bg-staydown"| Last Chance
+|-
+| '''Dec&nbsp;8'''
+| '''Dec&nbsp;9'''
+| '''Dec&nbsp;10'''
+| '''Dec&nbsp;11'''
+| '''Dec&nbsp;12'''
+| '''Dec&nbsp;13'''
+| '''Dec&nbsp;14'''
+|-
+| colspan="4" class="bg-neutral"| 
+| colspan="3" class="gold-bg-alt"| Grand Finals
+|}</div>
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=555,000|{{Opponent|alpha7 esports}} }}
+|{{Slot|usdprize=304,000|{{Opponent|ulf esports}} }}
+|{{Slot|usdprize=199,500|{{Opponent|alpha gaming}} }}
+|{{Slot|usdprize=163,000|{{Opponent|thundertalk gaming}} }}
+|{{Slot|usdprize=130,000|{{Opponent|dplus}} }}
+|{{Slot|usdprize=127,000|{{Opponent|drx}} }}
+|{{Slot|usdprize=120,500|{{Opponent|dxavier}} }}
+|{{Slot|usdprize=94,000 |{{Opponent|alter ego ares}} }}
+|{{Slot|usdprize=99,000 |{{Opponent|goat team}} }}
+|{{Slot|usdprize=100,000|{{Opponent|regnum carya esports}} }}
+|{{Slot|usdprize=101,500|{{Opponent|madbulls}} }}
+|{{Slot|usdprize=87,000 |{{Opponent|earena}} }}
+|{{Slot|usdprize=95,000 |{{Opponent|r8 esports}} }}
+|{{Slot|usdprize=87,000 |{{Opponent|kara esports}} }}
+|{{Slot|usdprize=27,500 |{{Opponent|vampire esports}} }}
+|{{Slot|usdprize=61,500 |{{Opponent|team flash}} }}
+<!--Last Chance-->
+|{{Slot|usdprize=34,500|date=2025-12-07|{{Opponent|weibo gaming}} }}
+|{{Slot|usdprize=33,500|date=2025-12-07|{{Opponent|influence rage}} }}
+|{{Slot|usdprize=33,500|date=2025-12-07|{{Opponent|inner circle esports}} }}
+|{{Slot|usdprize=30,000|date=2025-12-07|{{Opponent|9z team}} }}
+|{{Slot|usdprize=31,500|date=2025-12-07|{{Opponent|loops}} }}
+|{{Slot|usdprize=30,000|date=2025-12-07|{{Opponent|alliance my}} }}
+|{{Slot|usdprize=30,500|date=2025-12-07|{{Opponent|arcred}} }}
+|{{Slot|usdprize=37,000|date=2025-12-07|{{Opponent|wolves esports}} }}
+|{{Slot|usdprize=30,000|date=2025-12-07|{{Opponent|geekay esports}} }}
+|{{Slot|usdprize=28,000|date=2025-12-07|{{Opponent|team falcons}} }}
+|{{Slot|usdprize=26,500|date=2025-12-07|{{Opponent|boars gaming}} }}
+|{{Slot|usdprize=27,500|date=2025-12-07|{{Opponent|burmese ghouls}} }}
+|{{Slot|usdprize=28,000|date=2025-12-07|{{Opponent|gen.g esports mena}} }}
+|{{Slot|usdprize=25,500|date=2025-12-07|{{Opponent|papara supermassive}} }}
+<!--Group Stage-->
+|{{Slot
+	|{{Opponent|tianba|usdprize=22,500|date=2025-11-30}}
+	|{{Opponent|virtus.pro|usdprize=26,500|date=2025-12-04}}
+	}}
+|{{Slot
+	|{{Opponent|gs team|usdprize=24,500|date=2025-11-30}}
+	|{{Opponent|twisted minds|usdprize=22,000|date=2025-12-04}}
+	}}
+|{{Slot
+	|{{Opponent|orangutan|usdprize=25,500|date=2025-11-30}}
+	|{{Opponent|true rippers|usdprize=21,000|date=2025-12-04}}
+	}}
+|{{Slot|usdprize=20,500
+	|{{Opponent|reject|date=2025-11-30}}
+	|{{Opponent|etsh esports|date=2025-12-04}}
+	}}
+|{{Slot|usdprize=20,000
+	|{{Opponent|team secret|date=2025-11-30}}
+	|{{Opponent|nuclear zone|date=2025-12-04}}
+	}}
+|adjacentContent=
+	{{AwardPrizePool|freetext1=Prize|cutafter=5
+	|{{Slot|award=Grand Finals MVP	|freetext1=Porsche Cayenne|{{Opponent|TOP|flag=mn|team=alpha gaming}} }}
+	|{{Slot|award=Best IGL			|{{Opponent|Rosemary|flag=id|team=alter ego ares}} }}
+	|{{Slot|award=Eagle Eye			|{{Opponent|Kecth|flag=tr|team=ulf esports}} }}
+	|{{Slot|award=Grenade Master	|{{Opponent|AMOORI|flag=|team=r8 esports}} }}
+	|{{Slot|award=Field Medic		|{{Opponent|CEOLATER|flag=tr|team=kara esports}} }}
+	}}
+}}
+
+===Base Prize Distribution===
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan="4"| The Gauntlet
+|-
+! colspan="2"| Total
+| colspan="2"| '''$429,000'''
+|-
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $60,000 		|| {{Placement|9}}	|| $5,500
+|-
+| {{Placement|2}}	|| $58,000 		|| {{Placement|10}}	|| $5,000
+|-
+| {{Placement|3}}	|| $57,000 		|| {{Placement|11}}	|| $4,500
+|-
+| {{Placement|4}}	|| $56,000 		|| {{Placement|12}}	|| $4,000
+|-
+| {{Placement|5}}	|| $55,000 		|| {{Placement|13}}	|| $3,500
+|-
+| {{Placement|6}}	|| $54,000		|| {{Placement|14}}	|| $3,000
+|-
+| {{Placement|7}}	|| $53,000		|| {{Placement|15}}	|| $2,500
+|-
+| {{Placement|8}}	|| $6,000		|| {{Placement|16}}	|| $2,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan="4"| Group Stage (per group)
+|-
+! colspan="2"| Total
+| colspan="2"| '''$439,000'''
+|-
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $46,000 		|| {{Placement|9}}	|| $24,000
+|-
+| {{Placement|2}}	|| $45,000 		|| {{Placement|10}}	|| $23,500
+|-
+| {{Placement|3}}	|| $44,000  	|| {{Placement|11}}	|| $23,000
+|-
+| {{Placement|4}}	|| $26,500 		|| {{Placement|12}}	|| $22,500
+|-
+| {{Placement|5}}	|| $26,000 		|| {{Placement|13}}	|| $22,000
+|-
+| {{Placement|6}}	|| $25,500 		|| {{Placement|14}}	|| $21,000
+|-
+| {{Placement|7}}	|| $25,000		|| {{Placement|15}}	|| $20,500
+|-
+| {{Placement|8}}	|| $24,500		|| {{Placement|16}}	|| $20,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan="4"| Last Chance
+|-
+! colspan="2"| Total
+| colspan="2"| '''$93,000'''
+|-
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $10,000 		|| {{Placement|9}}	|| $5,500
+|-
+| {{Placement|2}}	|| $9,500 		|| {{Placement|10}}	|| $5,000
+|-
+| {{Placement|3}}	|| $8,500 		|| {{Placement|11}}	|| $4,500
+|-
+| {{Placement|4}}	|| $8,000 		|| {{Placement|12}}	|| $4,000
+|-
+| {{Placement|5}}	|| $7,500 		|| {{Placement|13}}	|| $3,500
+|-
+| {{Placement|6}}	|| $7,000		|| {{Placement|14}}	|| $3,000
+|-
+| {{Placement|7}}	|| $6,500		|| {{Placement|15}}	|| $2,500
+|-
+| {{Placement|8}}	|| $6,000		|| {{Placement|16}}	|| $2,000
+|}
+{{box|break}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan="4"| Grand Finals
+|-
+! colspan="2"| Total
+| colspan="2"| '''$1,600,000'''
+|-
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+! width="70px"| Place
+! width="70px"| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $500,000		|| {{Placement|9}}	|| $55,000
+|-
+| {{Placement|2}}	|| $250,000		|| {{Placement|10}}	|| $50,000
+|-
+| {{Placement|3}}	|| $150,000		|| {{Placement|11}}	|| $45,000
+|-
+| {{Placement|4}}	|| $105,000 	|| {{Placement|12}}	|| $40,000
+|-
+| {{Placement|5}}	|| $85,000 		|| {{Placement|13}}	|| $35,000
+|-
+| {{Placement|6}}	|| $75,000		|| {{Placement|14}}	|| $30,000
+|-
+| {{Placement|7}}	|| $67,500		|| {{Placement|15}}	|| $27,500
+|-
+| {{Placement|8}}	|| $60,000		|| {{Placement|16}}	|| $25,000
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|tcht=190|playerinfo=true}}
+===Grand Finals Invited===
+{{TeamCard
+|flag=th|team=Vampire Esports
+|p1=MEOWLA|p1link=MELA
+|p2=nOOzy
+|p3=Gewwy
+|p4=lazarus|p4link=SchwepXz
+|p5=2ed3ull
+|p6=TonyK
+|t2title=Staff
+|t2c1=MaFia
+|t2c2=2Stopz|t2c2pos={{Abbr|AC|Assistant Coach}}
+|placement=6
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2022|date=2022-11-10}} 2022
+|qualifier=[[PUBG_Mobile_Global_Championship/2025/Points/Southeast Asia|Host Country Invite]]
+}}
+
+===The Gauntlet Qualified===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=D'Xavier|flag=vn
+|p1=LeVis|p1flag=vn
+|p2=Lamborghini
+|p3=ParaJin
+|p4=NadeTii
+|p5=Shin
+|t2title=Staff
+|t2c1=Ge
+|placement=5
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2021|date=2021-11-30}}{{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2023|date=2023-11-02}} 2021, 2023
+|qualifier=[[PUBG_Mobile_Super_League/Southeast Asia/2025/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=eArena|flag=th
+|p1=Jowker
+|p2=MORMAN
+|p3=Nc2
+|p4=SAKURA	|p4flag=th
+|p5=TernyK	|p5flag=th
+|t2title=Staff
+|t2c1=Rvenclaw
+|qualifier=[[PUBG_Mobile_Super_League/Southeast Asia/2025/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Virtus.pro|flag=asia
+|p1=MALOYYY 
+|p2=Voston|p2flag=md
+|p3=MilkyWay
+|p4=ERAGON|p4flag=ru
+|p5=FURIA
+|t2title=Staff
+|t2c1=Kompot_trash
+|placement=47-49
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2024|date=2024-10-31}} 2024
+|qualifier=[[PUBG_Mobile_Super_League/Central and South Asia/2025/Fall|PMSL CSA]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Alpha Gaming|flag=mn
+|p1=DOK
+|p2=Zyol|p2wins=1
+|p3=TOP
+|p4=REFUS
+|p5=EAST<!--
+|p6=B4RON-->
+|t2title=Staff
+|t2c1=Archer
+|qualifier=[[PUBG_Mobile_Super_League/Central and South Asia/2025/Fall|PMSL CSA]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Madbulls|flag=asia
+|p1=TULIKA
+|p2=LEMON
+|p3=FLIP
+|p4=PUSHER
+|c=
+|placement=26
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2023|date=2023-11-02}} 2023
+|qualifier=[[PUBG_Mobile_Super_League/Central and South Asia/2025/Fall|PMSL CSA]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=tr |team=Regnum Carya Esports
+|p1=Sylas	|p1flag= |p1wins=1
+|p2=Loxy	|p2flag= 
+|p3=Wild	|p3flag=
+|p4=Zwolf	|p4flag=
+|p5=	|p5flag=
+|t2title=Staff
+|t2c1=Apocalyp|t2c1pos={{Abbr|C|Coach}}
+|placement=2
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2024|date=2024-10-31}} 2024
+|qualifier=[[PUBG_Mobile_Super_League/Europe/2025/Fall|PMSL Europe]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=tr |team=ULF Esports
+|p1=Kecth
+|p2=Eren7
+|p3=Scarface
+|p4=Soulless
+|p5=
+|t2title=Staff
+|t2c1=For1st|t2c1flag=tr|t2c1pos={{Abbr|C|Coach}}
+|qualifier=[[PUBG_Mobile_Super_League/Europe/2025/Fall|PMSL Europe]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=tr |team=Kara Esports
+|p1=CEOLATER
+|p2=Lewis
+|p3=Marso
+|p4=Poser
+|t2title=Staff
+|t2c1=Bluffist|t2c1pos={{Abbr|C|Coach}}
+|qualifier=[[PUBG_Mobile_Super_League/Europe/2025/Fall|PMSL Europe]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=iq |team=GS Team |link=GS Esports
+|p1=J3far|p1flag=iq |p1link=J3
+|p2=D3S|p2flag=iq
+|p3=ICON77|p3flag=iq
+|p4=AMIR|p4flag=iq
+|p5=Esport|p5flag=iq
+|t2title=Staff
+|t2c1=DRSGON|t2c1flag=iq|t2c1pos={{Abbr|C|Coach}}
+|qualifier=[[PUBG_Mobile_Super_League/MENA/2025/Fall|PMSL MENA]]<br><small>(formerly [[PUBG_Mobile_Global_Championship/2025/Points/MENA|KSA Points]])</small>
+|inotes={{NoteBig
+|n1=The [[/Points/MENA|KSA Points]] slot is transferred to '''GS Team''' (PMSL MENA #4) as [[Gen.G Esports MENA|Gen.G Esports]] (#1 KSA Points) secured their Gauntlet slot in [[PUBG_Mobile_Super_League/MENA/2025/Fall|PMSL MENA]].
+|n2=Nov 14th - {{Team|GS Esports}} replaces {{Team|Gen.G Esports MENA}} in the Gauntlet Stage due to the latter team having issues on an ongoing visa process.<ref name="gs in gauntlet">{{Cite web|url=https://www.instagram.com/p/DRCwQECki-M/?img_index=2 |title=ANNOUNCEMENT |author=PUBG Mobile Esports |date=2025-11-14}}</ref>
+	}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=R8 Esports|flag=sa
+|p1=PrEStlGe
+|p2=AMOORI |p2link=3More	
+|p3=iD7
+|p4=Marth
+|p5=Damar
+|p6=SKTON
+|t2title=Staff
+|t2c1=Starzh|t2c1pos={{Abbr|C|Coach}}
+|placement=20-21
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2021|date=2021-11-30}} 2021
+|qualifier=[[PUBG_Mobile_Super_League/MENA/2025/Fall|PMSL MENA]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Geekay Esports|flag=sa
+|p1=NIRZED
+|p2=KEVIN	
+|p3=RAGNARoK
+|p4=SAFG|p4flag=sa	
+|p5=BERLIN
+|p6=SSS|p6flag=sa|p6link=SSS (Saudi player)
+|t2title=Staff
+|t2c1=Feitan|t2c1pos={{Abbr|C|Coach}}
+|placement=33
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2022|date=2022-11-10}} 2022
+|qualifier=[[PUBG_Mobile_Super_League/MENA/2025/Fall|PMSL MENA]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=usca |team=Wolves Esports
+|p1=Koops
+|p2=Baton	
+|p3=Dorin |p3link=DORIN23
+|p4=Higor
+|p5=Juancho
+|t2title=Staff
+|t2c1=Joyboy|t2c1pos={{Abbr|C|Coach}}
+|t2c2=Redzone|t2c2flag=eg|t2c2pos={{Abbr|A|Analyst}}
+|placement=11
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2022|date=2022-11-10}} 2022
+|qualifier=[[PUBG_Mobile_Super_League/Americas/2025/Fall|PMSL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=br|team=Alpha7 Esports
+|p1=Carrilho
+|p2=Revo
+|p3=Guizão
+|p4=Obscure
+|p5=Mafioso
+|t2title=Staff
+|t2c1=Dadin|t2c1pos={{Abbr|C|Coach}}
+|placement=3
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2022|date=2022-11-10}}{{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2023|date=2023-11-02}} 2022, 2023
+|qualifier=[[PUBG_Mobile_Super_League/Americas/2025/Fall|PMSL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=ThunderTalk Gaming|flag=cn
+|p1=King |p1wins=2
+|p2=Ajay
+|p3=Xing
+|p4=TianYu
+|p5=SiTing|p5flag=cn
+|t2title=Staff
+|t2c1=OldWhite|t2c1link=老白|t2c1pos={{Abbr|C|Coach}}
+|placement=13
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2024|date=2024-10-31}} 2024
+|qualifier=[[Peacekeeper_Elite_League/2025/Summer|Peacekeeper Elite League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Orangutan  |flag=in
+|p1=Aaru
+|p2=AKop
+|p3=WizzGOD
+|p4=Attanki
+|t2p1=RonaK
+|qualifier=[[Battlegrounds_Mobile_India_Showdown/2025|India Showdown]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=DRX |flag=kr
+|p1=Cyxae
+|p2=HYUNBIN
+|p3=Qx
+|p4=SOEZ
+|t2title=Staff
+|t2c1=Bigfafa|t2c1flag=kr
+|placement=6
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2024|date=2024-10-31}} 2024
+|qualifier=[[Battlegrounds_Mobile India_International Cup/2025|International Cup]]
+}}
+{{box|end}}
+
+===Group Stage Qualified===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|flag=id|team=Alter Ego Ares
+|p1=Alva
+|p2=Rosemary
+|p3=Krypton
+|p4=Snape
+|p5=Moana	
+|t2title=Staff
+|t2c1=Hzlnuts	|t2c1pos={{Abbr|C|Coach}}
+|t2c2=Badru		|t2c2pos={{Abbr|C|Coach}}
+|t2c3=MxMoree	|t2c3pos={{Abbr|A|Analyst}}
+|placement=33
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2023|date=2023-11-02}} 2023
+|qualifier=[[PUBG_Mobile_Global_Championship/2025/Points/Southeast_Asia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=my|team=Alliance MY
+|p1=KLUQ |p1link=AdikLuq
+|p2=Oliyo
+|p3=JimmyOP
+|p4=Iftar	|p4team=todak
+|p5=Xynboy	|p5flag=my
+|p6=LeonDZ	
+|t2title=Staff
+|t2c1=MosGoku
+|placement=15
+|placementicon={{LeagueIconSmall/pubg_mobile_global_championship|PUBG_Mobile_Global_Championship/2023|date=2023-11-02}} 2023
+|qualifier=[[PUBG_Mobile_Global_Championship/2025/Points/Southeast_Asia|Malaysia Points]]
+|inotes={{NoteBig|n1=Alliance parted ways with CelcomDigi, and rebrand back as [[Alliance MY|Alliance]].<ref>{{Cite web|url=https://www.instagram.com/p/DQq68lmDERH/ |title=Thank you @celcomdigi for believing in our players, our fans, and in what Malaysian esports can be. |author=[[Alliance MY]] |date=2025-11-05}}</ref>}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=vn|team=Team Flash
+|p1=Win		|p1flag=vn
+|p2=Zhi

@@ -1,0 +1,564 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2020}}
+{{World League Fall Navbox}}
+{{PMGC2020Tabs}}
+{{Infobox league
+|liquipediatier=1 |highlighted=true
+|name=PUBG Mobile Global Championship 2020
+|tickername=PMGC 2020
+|shortname=2020
+|image=PUBG Mobile Global Championship lightmode.png  |imagedark=PUBG Mobile Global Championship darkmode.png
+|icon=PUBG Mobile Global Championship icon lightmode.png |icondarkmode=PUBG Mobile Global Championship icon darkmode.png
+|type=Offline & Online
+|team_number=24
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=PUBG Corporation
+|organizer2=Tencent Games
+|organizer3=ESL
+|sponsor=[https://www.qualcomm.com/ Qualcomm]<br>[https://www.mountaindew.com/ Mountain Dew]<br>[https://www.oneplus.com/ OnePlus]<br>[https://www.nimo.tv/ NimoTV]
+|mode=squads|perspective=tpp
+|prizepoolusd=2,000,000
+|country=United Arab Emirates |country2=World
+|venue=Hilton Al Habtoor City<br>Habtoor Palace Dubai |venuedesc=''(Grand Finals only)''
+|sdate=2020-11-24 |edate=2021-01-26
+|web=https://esports.pubgmobile.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=channel/UCmeeY9kzNswUpbYyJntb3Aw
+|next=PUBG_Mobile_Global_Championship/2021{{!}}2021
+}}
+
+The '''PUBG Mobile Global Championship 2020''' is the final event of the 2020 PUBG Mobile competitive season. <br/>
+24 of the best teams from around the world have been invited or have qualified for the event.
+
+==About==
+* During the League Stage, a certain number of teams competed from Dubai, UAE or Maldives to minimize ping disadvantage.
+* Day 3 of Week 1 Super Weekend matches were postponed to December 4th, and Week 2 Super Weekend postponed to December 5th - 7th.<ref name="New Schedule">{{cite web|url=https://twitter.com/EsportsPUBGM/status/1334159084967387142?s=20|title=The PUBG MOBILE Global Championship updated schedule|author='''PUBG Mobile Esports'''|date=2020-12-02}}</ref>
+* Due to three players testing positive for COVID-19, the Finals were not played in the Coca-Cola Arena but instead with all the players being isolated and playing on a dedicated network.<ref name="New Schedule 2">{{cite web|url=https://www.facebook.com/PUBGMESPORTSOFFICIAL/posts/468881657851550|title=PUBG MOBILE Global Championship Finals Announcement:|author='''PUBG Mobile Esports'''|date=2021-01-20}}</ref>
+** This also led to some technical difficulties which meant that after the first day (January 21st) the matches were postponed until the 24th when the tournament resumed.<ref name="postponed">{{cite web|url=https://www.facebook.com/PUBGMESPORTSOFFICIAL/posts/470316877708028|title=Dear PUBG MOBILE Esports fans|author='''PUBG Mobile Esports'''|date=2021-01-22}}</ref><ref name="postponed 2">{{cite web|url=https://www.facebook.com/PUBGMESPORTSOFFICIAL/posts/470846317655084|title=Dear PUBG MOBILE Esports fans|author='''PUBG Mobile Esports'''|date=2021-01-23}}</ref>
+
+===Format===
+* '''League Stage:''''' November 24th - December 20th, 2020
+** 24 teams are drawn into 3 groups.<!--
+*** {{Team|btr ra}} invited as the [[PUBG_Mobile_World_League/2020/East|PMWL 2020 East Champion]]
+*** {{Team|futbolist}} invited as the [[PUBG_Mobile_World_League/2020/West|PMWL 2020 West Champion]]
+*** {{Team|elites united team}} invited as the Host Country Invite
+*** {{Bgcolortext|stayup|Top 5 team}} from [[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia Season 2]]
+*** {{Bgcolortext|stayup|Top 4 teams}} from [[PUBG_Mobile_Pro_League/Americas/Season_2|PMPL Americas Season 2]]
+*** {{Bgcolortext|stayup|Top 4 teams}} from [[EMEA_League/2020|EMEA League 2020]]
+*** {{Bgcolortext|stayup|Top 3 teams}} from [[PUBG_Mobile_Pro_League/South_Asia/Season_2|PMPL South Asia Season 2]]
+*** {{Bgcolortext|stayup|Top 2 teams}} from [[Peacekeeper_Elite_League/2020/Points|PEL 2020 Points]]
+*** {{Bgcolortext|stayup|Winners}} of [[PUBG_Mobile_Street_Challenge/2020/Fall|PMSC 2020 2nd Half]], [[PUBG Mobile Japan League/Season 0|Japan League S0]] & [[PUBG_Mobile_Global_Championship/2020/Qualifier|PMGC 2020 Qualifier]]-->
+** 4 Weeks of League, each week with 2 Stages:
+*** '''Weekdays:''' (Total 12 matches each week)
+**** Round-robin Format: Each team plays 8 matches total in a week, every Tuesday & Wednesday.
+**** {{Bgcolortext|up|Top 16 teams}} qualify to that week's ''Super Weekend''
+*** '''Super Weekend:''' (Total 15 matches each week)
+**** Single-lobby Format: 16 teams play 15 matches total in a week; every Friday, Saturday & Sunday.
+** ''Only points of each ''Super Weekend'' is cumulated towards league standings.
+** {{Bgcolortext|up|Top 16 teams}} advance to ''Grand Finals
+<div style="margin-top:1em"></div>
+* '''Grand Finals:''''' January 21st - 26th, 2021
+** 16 teams.
+** 29 Matches ''(originally 24 matches)''
+<br/>
+{{Points15}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot |usdprize=712,500|{{Opponent|nova cn}} }}
+|{{Slot |usdprize=505,250|{{Opponent|4am mobile}} }}
+|{{Slot |usdprize=108,000|{{Opponent|zeus esports}} }}
+|{{Slot |usdprize=47,000 |{{Opponent|natus vincere}} }}
+|{{Slot |usdprize=154,250|{{Opponent|bigetron ra}} }}
+|{{Slot |usdprize=73,750 |{{Opponent|koninapower}} }}
+|{{Slot |usdprize=24,250 |{{Opponent|secret m}} }}
+|{{Slot |usdprize=47,500 |{{Opponent|klas digital athletics}} }}
+|{{Slot |usdprize=21,000 |{{Opponent|a7 esports}} }}
+|{{Slot |usdprize=33,000 |{{Opponent|secret jin}} }}
+|{{Slot |usdprize=88,000 |{{Opponent|rrq athena}} }}
+|{{Slot |usdprize=24,500 |{{Opponent|futbolist}} }}
+|{{Slot |usdprize=17,250 |{{Opponent|aerowolf limax}} }}
+|{{Slot |usdprize=16,250 |{{Opponent|power888}} }}
+|{{Slot |usdprize=11,500 |{{Opponent|a1 esports}} }}
+|{{Slot |usdprize=15,500 |{{Opponent|abrupt slayers}} }}
+|{{Slot |usdprize=6,000	 |{{Opponent|blue bees mobile}} }}
+|{{Slot |usdprize=6,000	 |{{Opponent|godsent}} }}
+|{{Slot |usdprize=6,000	 |{{Opponent|execute esports}} }}
+|{{Slot |usdprize=6,000	 |{{Opponent|drs gaming}} }}
+|{{Slot |usdprize=5,000	 |{{Opponent|archer gaming}} }}
+|{{Slot |usdprize=5,000	 |{{Opponent|the unnamed}} }}
+|{{Slot |usdprize=5,000	 |{{Opponent|elites united team}} }}
+|{{Slot |dq=true |{{Opponent|loops}} }}
+}}
+===Awards===
+{{box|start|padding=2em}}
+* '''League Stage:'''
+{{AwardPrizePool|cutafter=8
+|{{Slot |award=League MVP|usdprize=10,000|{{Opponent|33Svan|flag=cn|team=4am}} }}
+|{{Slot |award=Combat Medic|usdprize=0|{{Opponent|Ryzen|flag=id|team=bigetron ra}} }}
+|{{Slot |award=Grenade Master|usdprize=0|{{Opponent|Ryzen|flag=id|team=bigetron ra}} }}
+|{{Slot |award=Headshot Master|usdprize=0|{{Opponent|Gonzo|flag=kz|team=koninapower}} }}
+|{{Slot |award=Week 1 MVP|usdprize=0|{{Opponent|Zuxxy|flag=id|team=bigetron ra}} }}
+|{{Slot |award=Week 2 MVP|usdprize=0|{{Opponent|Ryzen|flag=id|team=bigetron ra}} }}
+|{{Slot |award=Week 3 MVP|usdprize=0|{{Opponent|Ryzen|flag=id|team=bigetron ra}} }}
+|{{Slot |award=Week 4 MVP|usdprize=0|{{Opponent|33Svan|flag=cn|team=4am}} }}
+}}
+{{box|break}}
+* '''Grand Finals:'''
+{{AwardPrizePool|cutafter=6
+|{{Slot |award=Finals MVP|usdprize=10,000|{{Opponent|Suk|link=Suk_(Feng_Shujie)|flag=cn|team=4am}} }}
+|{{Slot |award=The Gunslinger|usdprize=0|{{Opponent|Suk|link=Suk_(Feng_Shujie)|flag=cn|team=4am}} }}
+|{{Slot |award=Eagle Eye|usdprize=0|{{Opponent|Beer11|flag=th|team=rrq athena}} }}
+|{{Slot |award=Grenade Master|usdprize=0|{{Opponent|Ryzen|flag=id|team=bigetron ra}} }}
+|{{Slot |award=The Survivor|usdprize=0|{{Opponent|DANTE|flag=bd|team=a1 esports}} }}
+|{{Slot |award=Field Medic|usdprize=0|{{Opponent|Lovazin|flag=tr|team=futbolist}} }}
+}}
+{{box|end}}<div style=margin-top:10px/>
+:'''MVP Formula''':
+<div class="table-responsive">[[File:2020_MVP_PUBG_Mobile.png|900px|link=]]</div>
+
+==Participants==
+{{TeamCardToggleButton|tcht=190|playerinfo=true}}
+===Invited Teams===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|flag=id|team=Bigetron RA
+|p1=Zuxxy	|p1flag=id
+|p2=Luxxy	|p2flag=id
+|p3=Ryzen	|p3flag=id
+|p4=Microboy|p4flag=id
+|p5=Alice	|p5flag=id|p5link=Alice (Maureen Gabriella)
+|p6=LiQuiD
+|c=S1nyo	|cflag=id
+|qualifier=[[PUBG_Mobile_World_League/2020/East|PMWL East Champion]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=tr|team=Futbolist
+|p1=Solkay	|p1flag=tr
+|p2=Lovazin	|p2flag=tr
+|p3=Raum	|p3flag=tr
+|p4=Lutz	|p4flag=tr
+|c=iMCMV|cflag=tr
+|qualifier=[[PUBG_Mobile_World_League/2020/West|PMWL West Champion]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=ph|team=Elites United Team
+|p1=VeryGood	|p1flag=ph
+|p2=VeryYummy	|p2flag=ph
+|p3=47			|p3flag=ae
+|p4=VeryNice	|p4flag=ph
+|p5=BERNA		|p5flag=ph
+|p6=Krey		|p6flag=ph
+|qualifier=Host Country Invite
+}}
+{{box|end}}
+
+===Qualified Teams===
+{{box|start|padding=2em|max-width=1200px}}
+{{TeamCard
+|flag=id|team=Aerowolf LIMAX
+|p1=Hzlnuts|p1flag=id
+|p2=Spaov|p2flag=id
+|p3=Renalre|p3flag=id
+|p4=Potato|p4flag=id
+|p5=SuperUna|p5flag=id
+|c=Defiand|cflag=id
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=th|team=Secret Jin
+|p1=GZ|p1flag=th
+|p2=KENGZO|p2flag=th
+|p3=TWOKAY|p3flag=th
+|p4=COSMOS|p4flag=th
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=3,4
+|flag=th|team=RRQ Athena
+|p1=G9|p1flag=th
+|p2=D2E|p2flag=th
+|p3=Senior|p3flag=th
+|p4=Earnny|p4flag=th
+|p5=Beer11|p5flag=th
+|c=Voo
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=th|team=POWER888 KPS
+|p1=Korpaii|p1flag=th
+|p2=Ices|p2flag=th
+|p3=TT|p3flag=th
+|p4=Gewwy|p4flag=th
+|p5=2Stopz|p5flag=th
+|c=Fame
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=my|team=Team Secret
+|p1=iShotz|p1flag=my
+|p2=MADTOI|p2flag=th
+|p3=uHigh|p3flag=my
+|p4=Rex|p4flag=my|p4link=Rex (Malaysian Player)
+|c=JangS|cflag=my
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Season_2|PMPL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=np|team=Abrupt Slayers
+|p1=HeavenXD|p1flag=np
+|p2=King|p2flag=np |p2link= King (Nepalese Player)
+|p3=Charii|p3flag=np
+|p4=JokeR|p4flag=np 
+|p5=NovaX|p5flag=np
+|p6=Leon|p6flag=np
+|qualifier=[[PUBG_Mobile_Pro_League/South_Asia/Season_2|PMPL South Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=np|team=DRS GAMING
+|p1=MafiaNinja|p1flag=np
+|p2=Nima|p2flag=np
+|p3=AJ|p3flag=np
+|p4=Gyalzen|p4flag=np
+|p5=Blend|p5flag=np
+|p6=Agent|p6flag=np
+|qualifier=[[PUBG_Mobile_Pro_League/South_Asia/Season_2|PMPL South Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=bd|team=A1 eSports
+|p1=SiNiSTER|p1flag=bd
+|p2=Shoikot	|p2flag=bd
+|p3=DANTE	|p3flag=bd
+|p4=6NiN3	|p4flag=bd 
+|p5=RxJax	|p5flag=bd
+|c=Brigadier'71|cflag=bd|c2=DeathG
+|qualifier=[[PUBG_Mobile_Pro_League/South_Asia/Season_2|PMPL South Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=5,6
+|flag=br|team=Loops
+|p1=Dadin|p1flag=br
+|p2=Caiowski|p2flag=br
+|p3=Gxlden|p3flag=br
+|p4=Carrilho|p4flag=br
+|p5=Federal|p5flag=br
+|c=
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Season_2|PMPL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=vn|team=The Unnamed
+|p1=Bucky|p1flag=vn
+|p2=PiuPiu|p2flag=vn
+|p3=Ran|p3flag=vn
+|p4=Q|p4flag=vn
+|p5=Ravenn|p5flag=vn
+|p6=KingG|p6flag=vn
+|c=|cflag=
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Season_2|PMPL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=us|team=Execute Esports
+|p1=ItsFate|p1flag=us
+|p2=KillSwitch|p2flag=mm
+|p3=Echooo|p3flag=us
+|p4=FameBoiz|p4flag=vn
+|p5=ZooTay|p5flag=us
+|p6=Prophecy|p6flag=us
+|c=|cflag=
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Season_2|PMPL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=br|team=A7 eSports
+|p1=Law|p1flag=br
+|p2=Senab|p2flag=br
+|p3=Swaguin|p3flag=br
+|p4=ViTU2K|p4flag=br
+|p5=Mafioso|p5flag=br
+|p6=
+|c=THC
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Season_2|PMPL Americas]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=world|team=Natus Vincere
+|p1=OldBoy|p1flag=ua
+|p2=Tixzy|p2flag=ru
+|p3=Matic|p3flag=ru
+|p4=Mequ|p4flag=ru
+|p5=|p5flag=
+|p6=|p6flag=
+|c=|cflag=
+|qualifier=[[EMEA_League/2020|EMEA League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=1
+|flag=tr|team=Klas Digital Athletics
+|p1=SeLim|p1flag=tr
+|p2=RayZ|p2flag=tr
+|p3=Soulless|p3flag=tr
+|p4=Sylas|p4flag=tr
+|p5=|p5flag=
+|c=SIXMO|cflag=tr
+|qualifier=[[EMEA_League/2020|EMEA League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=eu|team=GODSENT
+|p1=marley|p1flag=ch
+|p2=rolkis|p2flag=lt
+|p3=reeves|p3flag=ie
+|p4=zuku|p4flag=es
+|p5=navy|p5flag=nl
+|p6=Victor|p6flag=fr
+|c=Lazy|cflag=ru
+|qualifier=[[EMEA_League/2020|EMEA League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=8
+|flag=kz|team=Konina Power
+|p1=Gonzo|p1flag=kz
+|p2=AXZCER|p2flag=kz
+|p3=RobdiNNi|p3flag=mn
+|p4=BLVCKwhite|p4flag=by
+|p5=DGR|p5flag=kz
+|p6=FROZEN|p6flag=ru
+|c=|cflag=
+|qualifier=[[EMEA_League/2020|EMEA League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=cn|team=Four Angry Men
+|p1=Suk|p1flag=cn|p1link=Suk_(Feng_Shujie)
+|p2=33Svan|p2flag=cn
+|p3=Hasaki|p3flag=cn
+|p4=Xinhe|p4flag=cn
+|p5=QingChen|p5flag=cn
+|c=Kenny|cflag=cn|clink=Kenny (Gu Xianjun)
+|c2=阿琦|c2flag=cn
+|qualifier=[[Peacekeeper_Elite_League/2020/Points#Results|PEL Championship Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=7
+|flag=cn|team=Nova Esports|link=Nova Esports China
+|p1=Coolboy|p1flag=cn
+|p2=Jimmy|p2flag=cn
+|p3=King|p3flag=cn
+|p4=Paraboy|p4flag=cn
+|p5=Order|p5flag=cn
+|c=颜色|cflag=cn
+|c2=Shmily
+|qualifier=[[Peacekeeper_Elite_League/2020/Points|PEL Championship Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=jp|team=BLUE BEES
+|p1=ReijiOcO|p1flag=jp
+|p2=aitochan|p2flag=jp
+|p3=Devine|p3flag=jp
+|p4=sQxuOcO|p4flag=jp
+|p5=Lufa|p5flag=jp
+|c=Gil|cflag=jp
+|qualifier=[[PUBG_Mobile_Japan_League/Season_0|Japan League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|notes=2
+|flag=kr|team=Archer Gaming
+|p1=EunSu|p1flag=kr
+|p2=Ssung|p2flag=kr
+|p3=FAVIAN|p3flag=kr
+|p4=InonixOvO|p4flag=kr
+|p5=|p5flag=
+|c=GamingTV|cflag=kr
+|qualifier=[[PUBG_Mobile_Street_Challenge/2020/Fall|Street Challenge]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=mn|team=ZEUS ESPORTS
+|p1=Undaak|p1flag=mn
+|p2=Ronin|p2flag=mn
+|p3=Zyol|p3flag=mn
+|p4=Abely|p4flag=mn
+|p5=ICY|p5flag=mn
+|p6=|p6flag=
+|c=|cflag=
+|qualifier=[[PUBG_Mobile_Global_Championship/2020/Qualifier|PMGC Qualifier]]
+}}
+{{box|end}}
+{{NoteBig
+|n1='''Digital Athletics''' acquired the roster of '''[[Klas Game Esports]]''' and formed '''[[Klas Digital Athletics]]'''.<ref name="da kg">{{cite web|url=https://twitter.com/Digitalaths/status/1322252019323801600?s=20|title=Tamamıyla yenilenmiş PUBG Mobile kadromuzu sizinle paylaşmaktan gurur duyuyoruz.|publisher=twitter|author=Digital Athletics|date=2020-10-30}}</ref>
+|n2='''Archer Restart''' renamed to '''[[Archer Gaming]]'''.<ref name="archer">{{cite web|url=https://www.youtube.com/post/UgwuLSkkBwwtDSD3qV14AaABCQ|title=팀명 변경 알림|publisher=youtube|author=ArcherTV|date=2020-11-11}}</ref>
+|n3='''RRQ Athena''''s coach, [[Voo]] resigned after match 3 of week 1 Day 2 league stage.<ref name="voo leaves">{{cite web|url=https://www.facebook.com/chayut.voo/posts/10223760732556466|title=GGWP RRQ.AThena job done|publisher=facebook|author=Voo|date=2020-11-25}}</ref>
+|n4='''RRQ Athena''''s coach, [[Voo]] returned to the team after week 1 Super Weekend Day 1 league stage.<ref name="voo rejoin">{{cite web|url=https://www.facebook.com/chayut.voo/posts/10223781364952263|title=อิอิ|publisher=facebook|author=Voo|date=2020-11-28}}</ref><ref name="voo rejoin g9">{{cite web|url=https://www.facebook.com/RRQ.G9/posts/1109098259560220|title=พวกผมสำนึกผิดไปขอโทษพี่วูแล้วกลับไปลุยต่อครับ|publisher=facebook|author=G9|date=2020-11-28}}</ref>
+|n5=[[Dadin]] announces his departure after Week 2 league player day 2.<ref name="dadin leaves">{{cite web|url=https://www.instagram.com/stories/dadinho5k/2455405911454059716/|title=Fui convidado pela esl a ser removido da pmgc por decisao da ceo da loops, entao em breve estarei voltando para o Brasil|publisher=instagram|author=Dadin|date=2020-12-03}}</ref>
+|n6=[[Loops]] disqualified from the tournament over player misconduct.<ref name="loops disqualified"/>
+|n7='''Nova Esports''''s coach, [[颜色]] leaves the team after league stage finished.<ref name="li yang leaves">{{cite web|url=https://weibo.com/6657502552/JzLmGDXgM|title=NV-XQF和平精英分部人员变动公告|publisher=[[Nova Esports]]|date=2020-12-23}}</ref>
+|n8=[[FROZEN]] replaced [[RobdiNNi]] in ''Finals'' due to the epidemiological situation in Mongolia.<ref name="frozen replaced">{{cite web|url=https://www.instagram.com/p/CJd2HudAGRT/|title=Unfortunately, RobdiNNi will not be able to take part in the PUBG Mobile Global Championship Finals in January due to the epidemiological situation in Mongolia, but we are happy to announce that he will be replaced by one of the best players in CIS and Europe|date=2020-12-31|publisher=[[Konina Power]]}}</ref>
+}}
+
+==Results==
+==={{Stage|League Stage}}===
+<section begin="Group Draw"/><div class="table-responsive">
+{| class="wikitable" style="text-align:left; margin-top: 0px;"
+|-
+!width=240px|Group A
+!width=240px|Group B
+!width=240px|Group C 
+|-
+|{{Team|aerowolf limax}} 
+|{{Team|secret jin }}   
+|{{Team|rrq athena}}
+|-
+|{{Team|power888 kps}}  
+|{{Team|abrupt slayers}} 
+|{{Team|execute esports}} 
+|-
+|{{Team|loops}}   
+|{{Team|the unnamed }}   
+|{{Team|navi mobile}}  
+|-
+|{{Team|drs gaming}} 
+|{{Team|klas digital athletics}} 
+|{{Team|bigetron ra}}  
+|-
+|{{Team|godsent}} 
+|{{Team|4am mobile}} 
+|{{Team|ftb mobile}} 
+|-
+|{{Team|nova cn}} 
+|{{Team|zeus esports}}
+|{{Team|secret m}} 
+|-
+|{{Team|archer gaming}} 
+|{{Team|a7 esports }} 
+|{{Team|a1 esports }} 
+|-
+|{{Team|blue bees}} 
+|{{Team|koninapower }} 
+|{{Team|elites united team}}
+|}</div><section end="Group Draw"/>
+'''''[[/League/Matches|Click here for detailed League match results]]
+{{box|start|padding=1em}}
+{{LPDB storage|false}}{{#section:PUBG_Mobile_Global_Championship/2020/League/Matches|Results}}{{LPDB storage|true}}
+{{box|break}}
+{{Legend|up=1|down=1|margin-top=10|uptitle=Qualified for '''[[#Finals|Grand Finals]]'''}}
+{{box|end}}	
+==={{Stage|Grand Finals}}===
+{{LPDB storage|false}}{{#section:PUBG_Mobile_Global_Championship/2020/Finals|Results}}{{LPDB storage|true}}
+
+==Broadcast==
+===Talents===
+{{Tabs dynamic|name1=English|name2=Middle East|name3=SEA|name4=LATAM|name5=South Asia|name6=Asia|name7=European|This=1|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=English Host|lang=English
+|b1=JKaplan
+}}
+{{BroadcasterCard
+|position=English Analyst|lang=English
+|b1=Maxman
+|b2=Deman
+|b3=The7WorldsGaming |b3flag=us
+}}
+{{box|break|padding=2em}}
+{{BroadcasterCard
+|position=English Commentator|lang=English
+|b1=John Allen
+|b2=Blank
+|b3=HotJukes 
+|b4=Mustache Dave
+|b5=Imperium
+|b6=ChuChu
+|b7=Sir_Cloud
+|b8=Icybaby12
+}}
+{{box|end}}
+{{Tabs dynamic/tab|2}}
+{{broadcasterCard
+|position=Arabic Commentator
+|b1=Starfall
+|b2=Kayyali|b2flag=ps
+|b3=K0de
+}}
+{{Tabs dynamic/tab|3}}
+{{box|start|padding=2em}}
+{{broadcasterCard
+|position=Thai Commentator|lang=thai
+|b1=Zaffer
+|b2=Fame
+|b3=Voo
+|b4=KirosZ
+|b5=Aomdi
+|b6=Archz|b3flag=th
+}}
+{{BroadcasterCard
+|position=Thai Analyst|lang=Thai
+|b1=BOM
+}}
+{{box|break|padding=2em}}
+{{broadcasterCard
+|position=Malaysia Commentator|lang=Bahasa Melayu
+|b1=J Hunter
+|b2=OnTheGo
+|b3=Emi Mohamad
+|b4=Soultannn |b4name= |b4flag=my 
+|b5=ChuChu
+|b6=Sir_Cloud
+|b7=Qontra
+}}
+{{box|break|padding=2em}}
+{{broadcasterCard
+|position=Indonesian Commentator|lang=bahasa
+|b1=Pasta
+|b2=Wolfy
+|b3=Donna
+|b4=Sanskuy
+|b5=Jelly
+|b6=Windy |b4name=Windy Amalia Nabila Putri |b4flag=id
+}}
+{{BroadcasterCard
+|position=Indonesian Analyst|lang=bahasa
+|b1=Wawa Mania
+|b2=El Dogee
+|b3=Junior|b3name=Agus Suharwan|b3flag=id
+}}
+{{box|break|padding=2em}}
+{{broadcasterCard
+|position=Vietnamese Commentator|lang=Vietnamese
+|b1=Cuong OT
+|b2=Huy Lova
+|b3=Trong Linh
+|b4=TungTT
+}}
+{{broadcasterCard
+|position=Burmese Commentator|lang=Burmese
+|b1=Blingx
+|b2=Irregular
+}}
+{{box|end}}
+{{Tabs dynamic/tab|4}}
+{{box|start|padding=2em}}
+{{BroadcasterCard
+|position=Spanish Host |lang=Spanish
+|b1=Emmet
+}}
+{{BroadcasterCard
+|position=Spa

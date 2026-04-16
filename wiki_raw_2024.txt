@@ -1,0 +1,705 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2024}}
+{{PMGC 2024 Navbox}}{{PMGC 2024 Tabs}}
+{{Infobox league
+|liquipediatier=1|highlighted=true
+|name=PUBG Mobile Global Championship 2024
+|tickername=PMGC 2024
+|shortname=2024
+|image=PUBG Mobile Global Championship 2024 lightmode.png |imagedark=PUBG Mobile Global Championship 2024 darkmode.png
+|icon=PUBG Mobile Global Championship 2024 icon lightmode.png |icondarkmode=PUBG Mobile Global Championship 2024 icon darkmode.png
+|caption='''"Flare Up"'''
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=KRAFTON
+|organizer2=Level Infinite
+|organizer3=VSPO
+|sponsor=[https://www.infinixmobility.com/ Infinix]<br>[https://www.ocoopa.com/ Ocoopa]<br>[https://qiddiya.com/en/ Qiddiya]<br>[https://www.americantourister.com/ America Tourister]
+|mode=squads |perspective=tpp
+|team_number=49
+|type=Offline
+|device=[https://www.infinixmobility.com/GT-20-Pro Infinix GT 20 Pro]
+|country=United Kingdom |city=London
+|venue=Excel Auditorium |venuelink=https://www.excel.london/organiser/venue-spaces/icc-auditorium |venuedesc=Grand Finals
+|country2=Malaysia |city2=Kuala Lumpur
+|venue2=OCM Indoor Sports Complex |venue2link=https://olympics.com.my/ |venue2desc=League Stage
+|sdate=2024-10-31 |edate=2024-12-08
+|prizepoolusd=3,000,000
+|web=https://esports.pubgmobile.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|tiktok=pubgmobileesports
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=@PUBGMOBILEEsports
+|previous=PUBG_Mobile_Global_Championship/2023{{!}}2023
+|next=PUBG_Mobile_Global_Championship/2025{{!}}2025
+}}
+
+'''PUBG Mobile Global Championship 2024''' is the final event of the 2024 PUBG Mobile competitive season.
+
+==About==
+* {{Team|4mv}} replaced {{Team|Brute Force}} for the Grand Finals due to the latter team being unable to obtain VISA. <ref name="4mv in GF">{{Cite web|url=https://www.instagram.com/p/DC-zddHseu8/ |title=2024 PMGC GRAND FINALS TEAM ANNOUNCEMENT |publisher='''PUBG Mobile Esports''' |date=2024-11-30}}</ref>
+<br>
+===Broadcast Talent===
+{{Tabs dynamic|name1=English|name2=SEA Broadcasts|name3=CSA Broadcasts|name4=EMEA Broadcasts|name5=Americas Broadcasts|name6=East Asia Broadcasts|hide-showall=true}}
+{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=(League Stage) Stage Host |lang=en
+|b1=The7WG
+}}
+{{BroadcasterCard
+|position=(Grand Finals) Stage Host |lang=en
+|b1=Banks
+|b2=Sandstorm
+}}
+{{BroadcasterCard |position=Desk Host |lang=en
+|b1=JKaplan
+}}
+{{box|break}}
+{{BroadcasterCard |position=English Analyst |lang=en
+|b1=Maxman
+|b2=HotJukes
+|b3=The7WG
+}}
+{{BroadcasterCard |position=English Commentator |lang=en
+|b1=John Allen
+|b2=Blank
+}}
+{{box|end}}<!--
+SEA
+-->{{Tabs dynamic/tab|2}}
+{{box|start|padding=2em}}
+{{BroadcasterCard |position=Indonesian Host |lang=id
+|b1=Donna
+|b2=Windy
+}}
+{{BroadcasterCard |position=Indonesian Analyst |lang=id
+|b1=Wolfy
+|b2=El Dogee
+|b3=Junior
+}}
+{{BroadcasterCard |position=Indonesian Caster |lang=id
+|b1=Pasta
+|b2=Jelly
+|b3=Sanskuy
+|b4=Windy
+}}
+{{BroadcasterCard |position=Malay Host |lang=my
+|b1=ChuChu
+|b2=Sir_Cloud
+}}
+{{BroadcasterCard |position=Malay Analyst/Caster |lang=my
+|b1=OnTheGo
+|b2=J Hunter
+|b3=Emi
+|b4=Soultannn
+|b5=TopCast
+}}
+{{BroadcasterCard |position=Thai Host |lang=th
+|b1=BeCrazy
+|b2=Aoeyjiwa
+}}
+{{BroadcasterCard |position=Thai Analyst |lang=th
+|b1=MADTOI<!--
+|b2=Joke
+-->}}
+{{BroadcasterCard |position=Thai Caster |lang=th
+|b1=Zaffer
+|b2=Archz
+|b3=Ffame
+|b4=BeCrazy
+|b5=Aoeyjiwa
+|b6=Glacius
+}}
+{{box|break}}
+{{BroadcasterCard |position=Vietnamese Commentator |lang=vn
+|b1=Cường OT
+|b2=Loki |b2link=Loki (Nguyen Thanh Trung)
+|b3=Kuook
+|b4=Tuấn Tái
+|b5=Huy Lova
+|b6=VietOP
+|b7=Trọng Linh
+}}
+{{BroadcasterCard |position=Burmese Commentator |lang=mm
+|b1=Blingx
+|b2=Mr Kout
+|b3=Zan
+|b4=Sammy
+|b5=Rowan |b5flag=mm
+|b6=Keedo |b6flag=mm
+}}
+{{BroadcasterCard |position=Tagalog Caster |lang=ph
+|b1=KukuTV
+|b2=PhauloB
+|b3=Reyrey
+|b4=QueenToyo
+|b5=AyaPlays
+|b6=VeenzG
+|b7=Sir Mox
+|b8=Guiang
+|b9=Osiris
+|b10=2PE |b10name=Cristopher Dizon |b10flag=ph
+|b11=Biboy Lang Pala |b11name=Mark Lester Mores |b11flag=ph
+}}
+{{BroadcasterCard |position=Khmer Commentator |lang=kh
+|b1=Ream Angkor
+|b2=BiqDaddy
+|b3=STALKER
+|b4=Crim
+}}
+{{box|end}}<!--
+CSA
+-->{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Bangla Caster |lang=bd
+|b1=FinixOP
+|b2=TimeBurner
+}}
+{{BroadcasterCard |position=Urdu Caster |lang=pk
+|b1=Aladdin
+|b2=Aadi	|b2link=Aadi (Pakistani caster)
+|b3=Gaming Portal
+}}
+{{BroadcasterCard |position=Nepali Caster |lang=np
+|b1=Bipul
+|b2=AnshYT
+|b3=Mandip Casts
+}}
+{{box|break}}
+{{BroadcasterCard |position=Mongolian Caster |lang=mn
+|b1=Wise
+|b2=Tuvshuun
+|b3=Tuugii
+}}
+{{BroadcasterCard |position=Russian Caster |lang=ru
+|b1=Coldstar
+|b2=Fenix
+}}
+{{BroadcasterCard |position=Uzbek Caster |lang=uz
+|b1=EAGLE BRO |b1flag=uz
+|b2=Ixa |b2name=Ilkhomjon Umarov |b2flag=uz
+}}
+{{box|end}}<!--
+EMEA
+-->{{Tabs dynamic/tab|4}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=Turkish Host |lang=tr
+|b1=Tintin
+}}<!--
+{{box|break}}
+{{BroadcasterCard |position=Turkish Analyst |lang=tr
+|b1=
+|b2=
+}}-->
+{{BroadcasterCard |position=Turkish Analyst/Caster |lang=tr
+|b1=Scott
+|b2=SencerEZ
+|b3=Yargic Tony
+|b4=Cansehmus
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Arabic Host |lang=ar
+|b1=Turki
+|b2=L3GEND
+}}
+{{BroadcasterCard |position=Arabic Analyst/Caster |lang=ar
+|b1=Almola
+|b2=Mo3taz
+|b3=W0lfCasts
+|b4=Youcef
+}}
+{{box|end}}<!--
+AM
+-->{{Tabs dynamic/tab|5}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Portuguese Host |lang=ptbr
+|b1=MurilloShooow
+}}
+{{BroadcasterCard |position=Portuguese Analyst |lang=ptbr
+|b1=Khaya
+|b2=Vespa
+|b3=Ferzote
+}}
+{{BroadcasterCard |position=Portuguese Commentator |lang=ptbr
+|b1=Hads
+|b2=Julia Brant
+}}
+{{box|break}}
+{{BroadcasterCard |position=Spanish Caster |lang=esmx
+|b1=Jaguar70
+|b2=KevinMPV
+|b3=KILLER
+|b4=Daphne
+|b5=Gatik
+|b6=Frata
+}}
+{{box|end}}<!--
+EA
+-->{{Tabs dynamic/tab|6}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Mandarin Commentator |lang=cn
+|b1=
+|b2=
+}}
+{{box|break|padding=1em}}<!--
+{{BroadcasterCard |position=Korean Caster |lang=kr
+|b1=Park Han-eol
+|b2=Kim Hee-joo |b2flag=kr
+}}-->
+{{BroadcasterCard |position=Korean Commentator |lang=kr<!--
+|b1=Park Dong-jin
+|b2=Kim Dong-yeon
+|b3=Bino |b3flag=kr
+|b4=Shin Jung-min
+|b5=FINALE
+|b6=WH0RU
+|b7=Kura |b7flag=kr
+|b8=ONBA
+|b9=ZZP
+|b10=NOVA |b10link=NOVA (Korean player)-->
+}}
+{{box|break}}
+{{BroadcasterCard |position=Japanese Commentator |lang=jp<!--
+|b1=Junyou Yamauchi
+|b2=RintoXD
+|b3=Zussy
+|b4=OooDa
+|b5=Shinichiro-->
+}}<!--
+{{BroadcasterCard |position=Japanese Guest Commentator |lang=jp
+|b1=Purio |b1flag=jp
+|b2=p1r
+|b3=heko
+|b4=Critical Tomato
+}}-->
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Format===
+* '''League:''''' October 31st - November 24th, 2024 in {{FlagNoLink|my}} Kuala Lumpur, Malaysia
+** '''Group Stage:''''' Oct 31st - Nov 17th, 2024
+*** 48 teams, divided equally into 3 groups of 16.
+*** Each group play exclusively in a certain week of 24 matches:
+**** Each week consist of 4 matchdays.
+**** Each matchday consist of 6 matches.
+*** {{Bgcolortext|up|Top 3 teams of each group}} advance to ''Grand Finals''.
+*** {{Bgcolortext|stayup|4th - 11th place of each group}} advance to ''Survival Stage''.
+*** {{Bgcolortext|down|Bottom 5 teams of each group}} are eliminated.<div style=margin-top:10px></div>
+** '''Survival Stage:''''' Nov 20th - 22nd, 2024
+*** 24 teams, divided equally into 3 groups of 8.
+*** Each group play 6 matches per day for a total of 18 matches across 3 days in a ''Round-Robin format''.
+*** {{Bgcolortext|stayup|Top 16 teams}} advance to ''Last Chance''.
+*** {{Bgcolortext|down|Bottom 8 teams}} are eliminated.<div style=margin-top:10px></div>
+** '''Last Chance:''''' Nov 23rd - 24th, 2024
+*** 16 teams.
+*** 12 matches.
+*** {{Bgcolortext|up|Top 6 teams}} advance to ''Grand Finals''.
+*** {{Bgcolortext|down|Bottom 10 teams}} are eliminated.
+<div style=margin-top:15px></div>
+* '''Grand Finals:''''' December 6th - 8th, 2024 in {{FlagNoLink|uk}} London, United Kingdom
+** 16 teams:
+*** {{Bgcolortext|stayup|9 teams}} from Group Stage
+*** {{Bgcolortext|stayup|6 teams}} from Last Chance
+*** {{Bgcolortext|stayup|1 Host Region team}} directly invited
+** 18 matches (6 each day).
+<br/>
+{{Points10|showtb=true}}
+
+====Schedules====
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=2| Tournament Schedule
+|-
+! Stage
+! Matchdays
+|-
+| '''Group Yellow'''
+| Oct 31 - Nov 3
+|-
+| '''Group Red'''
+| Nov 7 - 10
+|-
+| '''Group Green'''
+| Nov 14 - 17
+|-
+| '''Survival Stage'''
+| Nov 20 - 22
+|- 
+| '''Last Chance'''
+| Nov 23 - 24
+|-
+| '''Grand Finals'''
+| Dec 6 - 8
+|}
+{{box|break}}
+{{MapRotation|SEEEMM|margin-top=10px}}
+{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool |import=false
+<!--Grand Finals-->
+|{{Slot|usdprize=457,250|{{Opponent|dplus}} }}
+|{{Slot|usdprize=255,250|{{Opponent|rc bra}} }}
+|{{Slot|usdprize=183,000|{{Opponent|ngx mea}} }}
+|{{Slot|usdprize=144,000|{{Opponent|inf rage}} }}
+|{{Slot|usdprize=117,750|{{Opponent|voin}} }}
+|{{Slot|usdprize=115,000|{{Opponent|drx}} }}
+|{{Slot|usdprize=95,000 |{{Opponent|4mv}} }}
+|{{Slot|usdprize=100,000|{{Opponent|team spirit}} }}
+|{{Slot|usdprize=89,000 |{{Opponent|insilio}} }}
+|{{Slot|usdprize=94,000 |{{Opponent|tjb}} }}
+|{{Slot|usdprize=90,500 |{{Opponent|alpha7}} }}
+|{{Slot|usdprize=77,250 |{{Opponent|vicious latam}} }}
+|{{Slot|usdprize=85,500 |{{Opponent|tt cn}} }}
+|{{Slot|usdprize=78,000 |{{Opponent|flcf}} }}
+|{{Slot|usdprize=82,500 |{{Opponent|navi}} }}
+|{{Slot|usdprize=30,000 |{{Opponent|guild esports}} }}
+<!--Last Chance-->
+|{{Slot|dnf=true|usdprize=50,000 |date=2024-11-30 |{{Opponent|brute force}} }}
+|{{Slot|usdprize=37,500 |date=2024-11-24 |{{Opponent|dgstn77}} }}
+|{{Slot|usdprize=33,250 |date=2024-11-24 |{{Opponent|loops}} }}
+|{{Slot|usdprize=33,500 |date=2024-11-24 |{{Opponent|btr ra}} }}
+|{{Slot|usdprize=35,000 |date=2024-11-24 |{{Opponent|stalwart}} }}
+|{{Slot|usdprize=38,000 |date=2024-11-24 |{{Opponent|dxavier}} }}
+|{{Slot|usdprize=36,500 |date=2024-11-24 |{{Opponent|iw nrx}} }}
+|{{Slot|usdprize=34,250 |date=2024-11-24 |{{Opponent|miraen sejong}} }}
+|{{Slot|usdprize=35,750 |date=2024-11-24 |{{Opponent|major pride}} }}
+|{{Slot|usdprize=32,250 |date=2024-11-24 |{{Opponent|liquid}} }}
+<!--Survival Stage-->
+|{{Slot|usdprize=30,500 |date=2024-11-21 |{{Opponent|faze}} }}
+|{{Slot|usdprize=29,500 |date=2024-11-21 |{{Opponent|tianba}} }}
+|{{Slot|usdprize=27,500 |date=2024-11-21 |{{Opponent|queso}} }}
+|{{Slot|usdprize=28,000 |date=2024-11-21 |{{Opponent|inco gaming}} }}
+|{{Slot|usdprize=28,500 |date=2024-11-21 |{{Opponent|vampire esports}} }}
+|{{Slot|usdprize=28,500 |date=2024-11-21 |{{Opponent|i8}} }}
+|{{Slot|usdprize=26,000 |date=2024-11-21 |{{Opponent|roy esports}} }}
+|{{Slot|usdprize=26,500 |date=2024-11-21 |{{Opponent|zeus esports tr}} }}
+<!--Group Stage-->
+|{{Slot|usdprize=22,000
+		|{{Opponent|date=2024-11-03|horaa}}
+		|{{Opponent|date=2024-11-10|ihc}}
+		|{{Opponent|date=2024-11-17|rrq ryu}}
+		}}
+|{{Slot|usdprize=21,500
+		|{{Opponent|date=2024-11-03|twisted minds}}
+		|{{Opponent|date=2024-11-10|vengeance}}
+		|{{Opponent|date=2024-11-17|drs}}
+		}}
+|{{Slot|usdprize=21,000
+		|{{Opponent|date=2024-11-03|team harame bro}}
+		|{{Opponent|date=2024-11-10|alter ego ares}}
+		|{{Opponent|date=2024-11-17|alliance my}}
+		}}
+|{{Slot|usdprize=20,500
+		|{{Opponent|date=2024-11-03|rsg}}
+		|{{Opponent|date=2024-11-10|furia}}
+		|{{Opponent|date=2024-11-17|cag}}
+		}}
+|{{Slot|usdprize=20,000
+		|{{Opponent|date=2024-11-03|de muerte}}
+		|{{Opponent|date=2024-11-10|vp}}
+		|{{Opponent|date=2024-11-17|secret}}
+		}}
+|adjacentContent=
+	{{AwardPrizePool
+	|{{Slot|award=Finals MVP |{{Opponent|Nolbu|team=dplus}} }}
+	}}
+}}
+
+===Base Prize Distribution===
+{{box|start|padding=1em}}
+<h4>League Stage</h4>
+The ''League Stage'' has a total prize pool of $1,580,000 {{Abbr/USD}}, and is distributed as follows:
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $10,000 (for each team)
+|}
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Group Stage (per group)
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $40,000 		|| {{Placement|9}}	|| $13,500
+|-
+| {{Placement|2}}	|| $39,000 		|| {{Placement|10}}	|| $13,000
+|-
+| {{Placement|3}}	|| $38,000 		|| {{Placement|11}}	|| $12,500
+|-
+| {{Placement|4}}	|| $16,000 		|| {{Placement|12}}	|| $12,000
+|-
+| {{Placement|5}}	|| $15,500 		|| {{Placement|13}}	|| $11,500
+|-
+| {{Placement|6}}	|| $15,000		|| {{Placement|14}}	|| $11,000
+|-
+| {{Placement|7}}	|| $14,500		|| {{Placement|15}}	|| $10,500
+|-
+| {{Placement|8}}	|| $14,000		|| {{Placement|16}}	|| $10,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Survival Stage
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $10,000 		|| {{Placement|9}}	|| $8,000 		|| {{Placement|17}}	|| $6,000
+|-
+| {{Placement|2}}	|| $9,750 		|| {{Placement|10}}	|| $7,750		|| {{Placement|18}}	|| $5,500
+|-
+| {{Placement|3}}	|| $9,500  		|| {{Placement|11}}	|| $7,500		|| {{Placement|19}}	|| $5,000
+|-
+| {{Placement|4}}	|| $9,250 		|| {{Placement|12}}	|| $7,250 		|| {{Placement|20}}	|| $4,500
+|-
+| {{Placement|5}}	|| $9,000 		|| {{Placement|13}}	|| $7,000		|| {{Placement|21}}	|| $4,000
+|-
+| {{Placement|6}}	|| $8,750 		|| {{Placement|14}}	|| $6,750		|| {{Placement|22}}	|| $3,500
+|-
+| {{Placement|7}}	|| $8,500		|| {{Placement|15}}	|| $6,500		|| {{Placement|23}}	|| $3,000
+|-
+| {{Placement|8}}	|| $8,250		|| {{Placement|16}}	|| $6,250		|| {{Placement|24}}	|| $2,500
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Last Chance
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $10,000 		|| {{Placement|9}}	|| $4,500
+|-
+| {{Placement|2}}	|| $8,500 		|| {{Placement|10}}	|| $4,000
+|-
+| {{Placement|3}}	|| $7,500 		|| {{Placement|11}}	|| $3,500
+|-
+| {{Placement|4}}	|| $7,000 		|| {{Placement|12}}	|| $3,000
+|-
+| {{Placement|5}}	|| $6,500 		|| {{Placement|13}}	|| $2,500
+|-
+| {{Placement|6}}	|| $6,000		|| {{Placement|14}}	|| $2,000
+|-
+| {{Placement|7}}	|| $5,500		|| {{Placement|15}}	|| $1,500
+|-
+| {{Placement|8}}	|| $5,000		|| {{Placement|16}}	|| $1,000
+|}
+{{box|end}}
+{{box|break}}
+
+<h4>Grand Finals</h4>
+The ''Grand Finals'' has a total prize pool of $1,420,000 {{Abbr/USD}}.
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $15,000 (for each team)
+|}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Grand Finals
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $400,000		|| {{Placement|9}}	|| $32,500
+|-
+| {{Placement|2}}	|| $200,000		|| {{Placement|10}}	|| $30,000
+|-
+| {{Placement|3}}	|| $120,000		|| {{Placement|11}}	|| $27,500
+|-
+| {{Placement|4}}	|| $80,000 		|| {{Placement|12}}	|| $25,000
+|-
+| {{Placement|5}}	|| $62,000 		|| {{Placement|13}}	|| $22,500
+|-
+| {{Placement|6}}	|| $51,000		|| {{Placement|14}}	|| $20,000
+|-
+| {{Placement|7}}	|| $42,000		|| {{Placement|15}}	|| $17,500
+|-
+| {{Placement|8}}	|| $35,000		|| {{Placement|16}}	|| $15,000
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|tcht=190|playerinfo=true}}
+===Grand Finals===
+{{TeamCard
+|team=Guild Esports |flag=eu
+|p1=Azer
+|p2=EXO
+|p3=ZERO|p3link=ZERO (German player)
+|p4=Gegenotgg|p4flag=be
+|p5=Jakey|p5flag=np
+|p6=WAGNERZADA|p6flag=br
+|t2title=Staff
+|t2c1=MORGAN|t2c1flag=fr
+|t2c2=Wondu|t2c2flag=pt|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=Host Region Invite
+}}
+
+===League Stage===
+{{box|start|padding=2em|max-width=1400px}}
+{{TeamCard
+|team=Alter Ego Ares |flag=id
+|p1=Rosemary
+|p2=Hans4you
+|p3=Boycil
+|p4=Okta
+|p5=Alva
+|p6=Badru
+|t2title=Staff
+|t2c1=|t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=CelcomDigi Alliance |flag=my
+|p1=AdikLuq
+|p2=Oliyo
+|p3=JimmyOP
+|p4=FlaxOP
+|p5=LeonDZ
+|t2title=Staff
+|t2c1= MosGoku |t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|inotes={{NoteBig|n1=Oct 24th - Alliance partners with CelcomDigi, forming '''CelcomDigi Alliance (CDAL)'''.<ref name="cdal">{{Cite web |url=https://www.instagram.com/p/DBfbRGlCq2K/ |title=Welcome CelcomDigi as our new partner.|date=2024-10-24|publisher=[[CelcomDigi Alliance]]}}</ref>}}
+|qualifier=[[PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia|Malaysia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Vampire Esports |flag=th
+|p1=Stoned
+|p2=SchwepXz
+|p3=TonyK
+|p4=nOOzy
+|p5=Fluketh
+|p6=Rvenclaw
+|t2title=Staff
+|t2c1= |t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia|Thailand Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=D'Xavier |flag=vn
+|p1=Lamborghini
+|p2=CHUA
+|p3=LeVis
+|p4=ParaJin
+|p5=NadeTii
+|p6=
+|t2title=Staff
+|t2c1= Ge |t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia|Vietnam Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=<span style="font-size:90%">GETSO ROY Esports</span> |flag=vn
+|link=GETSO ROY Esports
+|p1=Jukay
+|p2= Porsche
+|p3=XuNoaz
+|p4=kha |p4link=TusK
+|p5=
+|p6=
+|t2title=Staff
+|t2c1=Silence|t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|inotes={{NoteBig|n1=Oct 10th - [[ROY Esports]] partners with [[Getso Esports]] forming '''GETSO ROY Esports''' for the [[PMGC 2024|2024 PUBG Mobile Global Championship]].<ref name="getso roy formed">{{Cite web |url=https://www.facebook.com/pubgmobile.royesports/posts/pfbid02t39HwhPoQBn5trXqtvy5WzA75rJGaFdoVFEsyMCHsvkT82W5K3Dzp9H14CG1MHu4l |title=THÔNG BÁO CHÍNH THỨC |trans_title=OFFICIAL ANNOUNCEMENT|publisher=[[ROY Esports]]|language={{FlagNoLink|vn}} ''Vietnamese''|date=2024-10-10}}</ref>}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Team Secret |flag=vn
+|p1=MaxLV
+|p2=BreaK
+|p3=Soaz
+|p4=TrangXIX
+|p5=Jikey
+|p6=
+|t2title=Staff
+|t2c1=Taka|t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=FaZe Clan |flag=th
+|p1=Vintorez
+|p2=MORMAN
+|p3=Onzenxs
+|p4=MELA
+|p5=9Noizz
+|p6=
+|t2title=Staff
+|t2c1=MaFia |t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=RRQ RYU |flag=id
+|p1=Asaa
+|p2=Fanatic
+|p3=Nerpehko
+|p4=noMrcy
+|p5=Snape
+|p6=
+|t2title=Staff
+|t2c1= Nougat|t2c1link=
+|t2c2=SVAFVEL|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bigetron Knights |flag=id
+|p1=Zuxxy
+|p2=GenFos
+|p3=Star
+|p4=Leonpvnk	|p4flag=id
+|p5=Lapar
+|p6=Hanzcill	|p6flag=id
+|t2title=Staff
+|t2c1=Kent|t2c1link=
+|t2c2=Karli|t2c2flag=id|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=VOIN Donkey ID |flag=id
+|p1=Potato
+|p2=V3xxy
+|p3=Mineral
+|p4=Zeta	|p4flag=id
+|p5=Reyzak	|p5flag=id
+|p6=
+|t2title=Staff
+|t2c1=Defiand|t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall|PMSL Southeast Asia]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=4Merical Vibes |flag=mn
+|p1=DOK
+|p2=APEX
+|p3=B4RON
+|p4=REFUS
+|p5=AERO
+|p6=
+|t2title=Staff
+|t2c1=Archer |t2c1link=
+|t2c2=|t2c2flag=|t2c2pos={{Abbr|A|Analyst}}
+|qualifier=[[PUBG_Mobile_Global_Championship/202

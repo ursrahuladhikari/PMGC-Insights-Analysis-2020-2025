@@ -1,0 +1,555 @@
+[
+  {
+    "name": "Wolves Esports",
+    "countryCode": "cn",
+    "players": [
+      "Beautiful",
+      "pickfeet",
+      "Memory",
+      "Remember"
+    ],
+    "region": "Other",
+    "qualification": "Peacekeeper_Elite_League/2022/Summer"
+  },
+  {
+    "name": "Alter Ego LIMAX",
+    "countryCode": "id",
+    "players": [
+      "Potato",
+      "Renalre",
+      "Ponbit",
+      "Fanatic",
+      "Aces"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Indonesia"
+  },
+  {
+    "name": "Nova Esports",
+    "countryCode": "cn",
+    "players": [
+      "Jimmy",
+      "paraboy",
+      "Order",
+      "King",
+      "Fro"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "LGD Gaming",
+    "countryCode": "cn",
+    "players": [
+      "cc"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Four Angry Men",
+    "countryCode": "cn",
+    "players": [
+      "33Svan",
+      "GoodXiao",
+      "Wwx",
+      "QingChen",
+      "Hasaki",
+      "Boreas"
+    ],
+    "region": "PEL",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/PEL"
+  },
+  {
+    "name": "Bigetron RA",
+    "countryCode": "id",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "EVOS Reborn",
+    "countryCode": "id",
+    "players": [
+      "Microboy",
+      "KF",
+      "RedFace",
+      "Ly"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "The Infinity",
+    "countryCode": "th",
+    "players": [
+      "NEaR",
+      "Logan",
+      "GodTunny",
+      "MELA",
+      "nOO"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Bacon Time",
+    "countryCode": "th",
+    "players": [
+      "Ices",
+      "Malon"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Geek Fam",
+    "countryCode": "my",
+    "players": [
+      "DamRUDE",
+      "Snipes",
+      "Mica",
+      "uHigh",
+      "SONIX7Days"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/MYSGPH"
+  },
+  {
+    "name": "4Rivals",
+    "countryCode": "my",
+    "players": [
+      "Appy",
+      "PEMBURU",
+      "Eypul",
+      "Jumper",
+      "Vokey"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/MYSGPH"
+  },
+  {
+    "name": "D'Xavier",
+    "countryCode": "vn",
+    "players": [
+      "Rabi"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Box Gaming",
+    "countryCode": "vn",
+    "players": [
+      "Bensu",
+      "Soa"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Godlike Stalwart",
+    "countryCode": "mn",
+    "players": [
+      "skryyy",
+      "TOP",
+      "pikA",
+      "Action",
+      "Senator"
+    ],
+    "region": "South Asia",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/South_Asia"
+  },
+  {
+    "name": "IHC ESPORTS",
+    "countryCode": "mn",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "i8 Esports",
+    "countryCode": "pk",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "R8 Esports",
+    "countryCode": "sa",
+    "players": [
+      "PrEStlGe",
+      "SKTON",
+      "BANDAR",
+      "iD7"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Nigma Galaxy",
+    "countryCode": "iq",
+    "players": [
+      "RAOUF"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "ONE MILLION ESPORTS",
+    "countryCode": "ma",
+    "players": [
+      "ELCHAPO",
+      "MARSHALL",
+      "LA"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "S2G Esports",
+    "countryCode": "tr",
+    "players": [
+      "Sylas",
+      "HamsiG",
+      "Calse",
+      "Ray"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Beşiktaş Esports",
+    "countryCode": "tr",
+    "players": [
+      "Enjoyy7",
+      "SonHP"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Game-Lord",
+    "countryCode": "fr",
+    "players": [
+      "akashi",
+      "victor",
+      "robb"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Knights",
+    "countryCode": "us",
+    "players": [
+      "Koops"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Furious Gaming",
+    "countryCode": "cl",
+    "players": [
+      "Milos",
+      "Trigga",
+      "Milovan",
+      "ElianKidd",
+      "Fernan"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Keyd Stars",
+    "countryCode": "br",
+    "players": [
+      "AdriaN",
+      "biel",
+      "ciello",
+      "Diego",
+      "Magrelin"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Bra"
+  },
+  {
+    "name": "Alpha7 Esports",
+    "countryCode": "br",
+    "players": [
+      "Carrilho",
+      "Mythic",
+      "Mafioso",
+      "Revo",
+      "Swaguin"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Bra"
+  },
+  {
+    "name": "emTek StormX",
+    "countryCode": "kr",
+    "players": [
+      "TI"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "NS RedForce",
+    "countryCode": "kr",
+    "players": [
+      "Sayden",
+      "IGL",
+      "SPORTA",
+      "Dooms",
+      "Qx"
+    ],
+    "region": "Korea",
+    "qualification": "PUBG_Mobile_Pro_Series/2022/Fall/Finals"
+  },
+  {
+    "name": "REJECT",
+    "countryCode": "jp",
+    "players": [
+      "Reiji",
+      "Duelo",
+      "JUSTES",
+      "Devine",
+      "Ka"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Donuts USG",
+    "countryCode": "jp",
+    "players": [
+      "Missile",
+      "Naoto"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "DAMWON Gaming",
+    "countryCode": "kr",
+    "players": [
+      "FAVIAN",
+      "FOREST",
+      "JUNI",
+      "OSAL",
+      "Ssung"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Rivals_Cup/2022"
+  },
+  {
+    "name": "Buriram United Esports",
+    "countryCode": "th",
+    "players": [
+      "cSkyOnly",
+      "TIGERX",
+      "KENG"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Fa",
+    "countryCode": "un",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "TEM Entertainment",
+    "countryCode": "th",
+    "players": [
+      "Esso"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Yoodo Alliance",
+    "countryCode": "my",
+    "players": [
+      "Repoboy",
+      "AdikLuq",
+      "Helton",
+      "Oliyo",
+      "Syamil"
+    ],
+    "region": "SEA",
+    "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/2022/Fall"
+  },
+  {
+    "name": "Genesis Dogma GIDS",
+    "countryCode": "id",
+    "players": [
+      "Star",
+      "niciL",
+      "DayboT",
+      "Booms",
+      "Bangpen",
+      "Sky"
+    ],
+    "region": "SEA",
+    "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/2022/Fall"
+  },
+  {
+    "name": "DRS Gaming",
+    "countryCode": "np",
+    "players": [
+      "RuL"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Skylight",
+    "countryCode": "un",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Trained To Kill",
+    "countryCode": "np",
+    "players": [
+      "Jane",
+      "SAND3SH",
+      "Rigg",
+      "Suyog",
+      "Legend"
+    ],
+    "region": "South Asia",
+    "qualification": "PUBG_Mobile_Pro_League/South_Asia/Championship/2022/Fall"
+  },
+  {
+    "name": "POWR Esports",
+    "countryCode": "sa",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Geekay Esports",
+    "countryCode": "sa",
+    "players": [
+      "Ghaith",
+      "Hope",
+      "RAGNAR",
+      "SaTaN"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Pro_League/Middle_East_and_Africa/Championship/2022/Fall"
+  },
+  {
+    "name": "Titan Gaming",
+    "countryCode": "un",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Influence Chemin",
+    "countryCode": "br",
+    "players": [
+      "Law",
+      "LiLBOY",
+      "Caiowski",
+      "Federal",
+      "Gxlden"
+    ],
+    "region": "Americas",
+    "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall"
+  },
+  {
+    "name": "iNCO Gaming",
+    "countryCode": "br",
+    "players": [
+      "Becker",
+      "ViTU2K",
+      "Squash",
+      "NENEBETE",
+      "Vitali"
+    ],
+    "region": "Americas",
+    "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall"
+  },
+  {
+    "name": "Team Queso",
+    "countryCode": "ar",
+    "players": [
+      "Ayala",
+      "Mystic",
+      "Reyes",
+      "ScreaaM",
+      "Potro"
+    ],
+    "region": "Americas",
+    "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall"
+  },
+  {
+    "name": "HVVP",
+    "countryCode": "un",
+    "players": [
+      "KITSUNÉ",
+      "Matic",
+      "Mequ",
+      "Tix"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Fire Flux Esports",
+    "countryCode": "tr",
+    "players": [
+      "Solkay",
+      "Kecth",
+      "Soulless",
+      "Lut"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "MadBulls",
+    "countryCode": "un",
+    "players": [
+      "EFFECT",
+      "MONKY",
+      "SKILL"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Vampire Esports",
+    "countryCode": "th",
+    "players": [
+      "Rvenclaw",
+      "Fluketh",
+      "SchwepX"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Team Falcons",
+    "countryCode": "sa",
+    "players": [
+      "DAMAR",
+      "LAST",
+      "nvrAlone",
+      "YOUSSEF",
+      "Powerful"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_World_Invitational/2022"
+  }
+]

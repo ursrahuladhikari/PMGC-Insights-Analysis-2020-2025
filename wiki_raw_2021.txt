@@ -1,0 +1,653 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2021}}
+{{PMGC 2021 Navbox}}
+{{PMGC2021Tabs}}
+{{Infobox league
+|liquipediatier=1 |highlighted=true
+|name=PUBG Mobile Global Championship 2021
+|tickername=PMGC 2021
+|shortname=2021
+|image=PUBG Mobile Global Championship lightmode.png |imagedark=PUBG Mobile Global Championship darkmode.png
+|icon=PUBG Mobile Global Championship icon lightmode.png |icondark=PUBG Mobile Global Championship icon darkmode.png
+|type=Online
+|team_number=41
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=KRAFTON
+|organizer2=Tencent Games
+|organizer3=VSPN
+|sponsor=[https://www.youtube.com/GAMING YouTube Gaming] <br> [https://www.oneplus.com/ OnePlus] <br> [https://www.stb.gov.sg/content/stb/en.html Singapore Tourism Board] <br> [https://www.singtel.com/ Singtel] <br> [https://www.fairmont.com/singapore/ Fairmont Singapore] <br> [https://www.sgga.org.sg/ SGGA]
+|mode=squads|perspective=tpp
+|prizepoolusd=6,000,000
+|country=World
+|sdate=2021-11-30 |edate=2022-01-23
+|web=https://esports.pubgmobile.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=channel/UCmeeY9kzNswUpbYyJntb3Aw
+|previous=PUBG_Mobile_Global_Championship/2020{{!}}2020
+|next=PUBG_Mobile_Global_Championship/2022{{!}}2022
+}}
+
+'''PUBG Mobile Global Championship 2021''' is the final event of the 2021 PUBG Mobile competitive season.
+
+==About==
+===Format===
+<small>'' The '''League''' and '''League Finals''' are divided into '''[[/East|East]]''' and '''[[/West|West]]''' divisions, and are held simultaneously.</small>
+* '''League:''''' November 30th - December 19th, 2021
+** 20 teams in each division.
+** 3 Weeks, each week with 2 Stages:
+*** '''Weekdays:''' (Total 10 matches each week)
+**** Round-Robin Format: Each team plays 8 matches total in a week; every Tuesday & Wednesday.
+**** {{Bgcolortext|up|Top 16 teams}} qualify to ''Super Weekend''.
+*** '''Super Weekend:''' (Total 15 matches each week)
+**** Single-Lobby Format: 16 Teams play 15 matches total in a week; every Friday, Saturday & Sunday.
+** ''Only points of each '''Super Weekend''' is cumulated towards league standings.
+** {{Bgcolortext|up|Top 16 teams from each division}} advance to their respective ''League Finals''.
+<div style="margin-top:15px"></div>
+* '''League Finals:''''' December 22nd - 24th, 2021
+** 16 teams in each division.
+** 18 matches (6 each day).
+** {{Bgcolortext|up|'''Top 9 teams from East'''}} and {{Bgcolortext|up|'''Top 6 teams from West'''}} advance to ''Grand Finals''.
+<div style="margin-top:15px"></div>
+* '''Grand Finals:''''' January 21st - 23rd, 2022
+** 16 teams:
+*** {{Bgcolortext|up|Top 9 teams}} from East League Finals
+*** {{Bgcolortext|up|Top 6 teams}} from West League Finals
+*** {{Bgcolortext|up|Winner}} of [[Battlegrounds_Mobile_India_Series/2021|Battlegrounds Mobile India Series 2021]]
+** 18 matches (6 each day).
+<br>
+{{Points15|killterm=elim}}
+<h4>Schedule</h4>
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=2| Tournament Schedule
+|-
+! Stage
+! Matchdays
+|-
+| '''League'''
+| Nov 30 - Dec 19, 2021
+|-
+| '''League Finals'''
+| Dec 22 - 24, 2021
+|-
+| '''Grand Finals'''
+| Jan 21 - 23, 2022
+|}
+<h4>Group & Map Rotation</h4>
+{{box|start}}
+<section begin="Group Rotation"/>
+{{Tabs dynamic
+|name1=Week 1 & 3
+|name2=Week 2
+|This=1
+}}
+{{Tabs dynamic/tab|1}}
+<div class="table-responsive">
+{| class="wikitable" style="text-align:center; margin:0 0 0 0"
+! rowspan=3| Match
+! colspan=4| Weekdays
+! Super Weekend
+|-
+! colspan=2 width=180px| Tuesday
+! colspan=2 width=180px| Wednesday
+! rowspan=2 width=150px| Friday — Sunday
+|-
+! Group !! Map !! Group !! Map
+|-
+! Match 1
+|rowspan=2 |'''ABCD'''|| Erangel||'''ABDE'''||Miramar||Erangel
+|-
+! Match 2
+| Miramar|| rowspan=2 |'''ACDE'''||Erangel|| Miramar
+|-
+! Match 3
+|rowspan=2 |'''ABCE'''|| Erangel|| Miramar||Erangel
+|-
+! Match 4
+| Miramar|| rowspan=2 |'''BCDE'''||Erangel|| Sanhok
+|-
+! Match 5
+|'''ABDE'''|| Erangel|| Miramar||Erangel
+|}
+</div>{{Tabs dynamic/tab|2}}<div class="table-responsive">
+{| class="wikitable" style="text-align:center;margin:0 0 0 0"
+! rowspan=3|Match
+! colspan=4| Weekdays
+! Super Weekend
+|-
+! colspan=2 width=180px| Tuesday
+! colspan=2 width=180px| Wednesday
+! rowspan=2 width=150px| Friday — Sunday
+|-
+! Group !! Map !! Group !! Map
+|-
+! Match 1
+|rowspan=2 |'''ABCD'''|| Erangel||'''ABDE'''||Sanhok||Erangel
+|-
+! Match 2
+| Sanhok|| rowspan=2 |'''ACDE'''||Erangel|| Miramar
+|-
+! Match 3
+|rowspan=2 |'''ABCE'''|| Erangel|| Sanhok||Erangel
+|-
+! Match 4
+| Sanhok|| rowspan=2 |'''BCDE'''||Erangel|| Sanhok
+|-
+! Match 5
+|'''ABDE'''|| Erangel|| Sanhok||Erangel
+|}</div>
+{{Tabs dynamic/end}}<section end="Group Rotation"/>{{box|end}}
+
+==Prize Pool==
+{{TeamPrizePool
+|{{Slot|usdprize=1,596,250|{{Opponent|nova cn}} }}
+|{{Slot|usdprize=805,000|{{Opponent|navi mobile}} }}
+|{{Slot|usdprize=381,750|{{Opponent|ngx arabia}} }}
+|{{Slot|usdprize=231,750|{{Opponent|s2g esports}} }}
+|{{Slot|usdprize=295,000|{{Opponent|dxavier}} }}
+|{{Slot|usdprize=482,500|{{Opponent|kaos next ruya}} }}
+|{{Slot|usdprize=173,000|{{Opponent|stalwart esports}} }}
+|{{Slot|usdprize=107,288|{{Opponent|six two eight}} }}
+|{{Slot|usdprize=130,750|{{Opponent|alpha7 esports}} }}
+|{{Slot|usdprize=106,000|{{Opponent|the infinity}} }}
+|{{Slot|usdprize=452,500|{{Opponent|damwon}} }}
+|{{Slot|usdprize=99,063	|{{Opponent|secret }} }}
+|{{Slot|usdprize=57,000	|{{Opponent|godlike esports}} }}
+|{{Slot|usdprize=95,338	|{{Opponent|4rivals}} }}
+|{{Slot|usdprize=95,500	|{{Opponent|fenerbahce}} }}
+|{{Slot|usdprize=153,500|{{Opponent|furious}} }}
+|{{Slot|date=2021-12-24
+	|{{Opponent|knights|usdprize=39,788}}
+	|{{Opponent|eastern stars|usdprize=39,063}}
+	|{{Opponent|besiktas|usdprize=38,338}}
+	}}
+|{{Slot|usdprize=37,613 |date=2021-12-24
+	|{{Opponent|rico infinity team}}
+	|{{Opponent|ghost}}
+	}}
+|{{Slot|usdprize=37,250 |date=2021-12-24
+	|{{Opponent|msc}}
+	|{{Opponent|aton esports}}
+	}}
+|{{Slot|usdprize=37,250 |date=2021-12-24
+	|{{Opponent|reject}}
+	|{{Opponent|rise}}
+	}}
+|{{Slot|usdprize=36,525 |date=2021-12-24
+	|{{Opponent|drs gaming}}
+	|{{Opponent|futbolist}}
+	}}
+|{{Slot|usdprize=36,525 |date=2021-12-24
+	|{{Opponent|cryptics}}
+	|{{Opponent|Unicorns of Love}}
+	}}
+|{{Slot|usdprize=35,075 |date=2021-12-24
+	|{{Opponent|gd gids}}
+	|{{Opponent|buluc chabtan}}
+	}}
+|{{Slot|usdprize=35,075 |date=2021-12-24
+	|{{Opponent|btr ra}}
+	|{{Opponent|madbulls}}
+	}}
+|{{Slot|usdprize=10,000 |date=2021-12-19
+	|{{Opponent|faze}}
+	|{{Opponent|smb}}
+	}}
+|{{Slot|usdprize=10,000 |date=2021-12-19
+	|{{Opponent|deadeyes guys}}
+	|{{Opponent|bd}}
+	}}
+|{{Slot|usdprize=10,000 |date=2021-12-19
+	|{{Opponent|tjb esports}}
+	|{{Opponent|xset}}
+	}}
+|{{Slot|usdprize=10,000 |date=2021-12-19
+	|{{Opponent|bc swell}}
+	|{{Opponent|queso}}
+	}}
+}}
+===Awards===
+{{AwardPrizePool|cutafter=11
+|{{Slot|award=Grand Finals - FMVP			|usdprize=10,000|{{Opponent|Order|flag=cn|team=nova cn}} }}
+|{{Slot|award=East League - Gunslinger    	|usdprize=2,000 |{{Opponent|TOP|flag=mn|team=stalwart esports}} }}
+|{{Slot|award=East League - Grenade Master	|usdprize=2,000 |{{Opponent|nOOzy|flag=th|team=the infinity}} }}
+|{{Slot|award=East League - Eagle Eyes    	|usdprize=2,000 |{{Opponent|YuYang|flag=cn|team=ste}} }}
+|{{Slot|award=East League - Survivor      	|usdprize=2,000 |{{Opponent|Ssung|flag=kr|team=dwg}} }}
+|{{Slot|award=East League - Medic         	|usdprize=2,000 |{{Opponent|skryyy|flag=mn|team=stalwart esports}} }}
+|{{Slot|award=West League - Gunslinger    	|usdprize=2,000 |{{Opponent|Mythic|flag=br|team=Rise Esports}} }}
+|{{Slot|award=West League - Grenade Master	|usdprize=2,000 |{{Opponent|Mythic|flag=br|team=Rise Esports}} }}
+|{{Slot|award=West League - Eagle Eyes    	|usdprize=2,000 |{{Opponent|BAZZI|flag=ro|team=eastern stars}} }}
+|{{Slot|award=West League - Survivor      	|usdprize=2,000 |{{Opponent|Garryx|flag=br|team=Rise Esports}} }}
+|{{Slot|award=West League - Medic         	|usdprize=2,000 |{{Opponent|SenaTexa|link=Senab|flag=br|team=a7 esports}} }}
+}}
+===Base Prize Distribution===
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=5| League<br><small>(same for both East and West)</small>
+|-
+! width=50px| Place
+! width=75px| $ {{Abbr/USD}}
+! width=50px| Place
+! width=75px| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $362,000 || {{Placement|9}}	|| $8,338
+|-
+| {{Placement|2}}	|| $145,000 || {{Placement|10}}	|| $7,613
+|-
+| {{Placement|3}}	|| $72,500 	|| {{Placement|11}}	|| $7,250
+|-
+| {{Placement|4}}	|| $36,250 	|| {{Placement|12}}	|| $7,250
+|-
+| {{Placement|5}}	|| $21,750 	|| {{Placement|13}}	|| $6,525
+|-
+| {{Placement|6}}	|| $14,500	|| {{Placement|14}}	|| $6,525
+|-
+| {{Placement|7}}	|| $9,788	|| {{Placement|15}}	|| $5,075
+|-
+| {{Placement|8}}	|| $9,063	|| {{Placement|16}}	|| $5,075
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=5| Grand Finals
+|-
+! width=50px| Place
+! width=75px| $ {{Abbr/USD}}
+! width=50px| Place
+! width=75px| $ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $1,500,000 	|| {{Placement|9}}	|| $34,500
+|-
+| {{Placement|2}}	|| $600,000 	|| {{Placement|10}}	|| $31,500
+|-
+| {{Placement|3}}	|| $300,000 	|| {{Placement|11}}	|| $30,000
+|-
+| {{Placement|4}}	|| $150,000 	|| {{Placement|12}}	|| $30,000
+|-
+| {{Placement|5}}	|| $90,000 		|| {{Placement|13}}	|| $27,000
+|-
+| {{Placement|6}}	|| $60,000		|| {{Placement|14}}	|| $27,000
+|-
+| {{Placement|7}}	|| $40,500		|| {{Placement|15}}	|| $21,000
+|-
+| {{Placement|8}}	|| $37,500		|| {{Placement|16}}	|| $21,000
+|}
+{{box|break}}
+{| class="wikitable" style="text-align:center; margin-top:10px"
+! colspan=2 | Participation Award (for all teams)
+|-
+! League
+| $10,000
+|-
+! League Finals
+| $20,000
+|-
+! Grand Finals
+| $30,000
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|tcht=210}}
+===Grand Finals===
+{{TeamCard
+|team=GodLike Esports |flag=in
+|p1=ZGOD	|p1flag=in
+|p2=Neyoo	|p2flag=in
+|p3=ClutchGod|p3flag=in
+|p4=JONATHAN|p4flag=in
+|p5=GHATAK	|p5flag=in
+|p6=Saumraj	|p6flag=in
+|qualifier=[[Battlegrounds_Mobile_India_Series/2021|BGIS 2021]]
+|inotes={{NoteBig
+	|n1={{team|GodLike Esports}} secure the spot as the team with the highest rank which holds all the travel requirements. <ref name="godlike pmgc">{{cite web|title=👏Please welcome GodLike Esports as the final team to compete at the PMGC Grand Finals 2021🔥!|author=PUBG Mobile Esports|url=https://www.facebook.com/PUBGMESPORTSOFFICIAL/posts/726784275394619}}</ref>
+	|n2={{team|GodLike Esports}} acquire {{Flag|in}} [[Saumraj]] on loan from {{team|skylightz gaming in}}. <ref name="saumraj loan">{{cite web|url=https://www.instagram.com/p/CY4bAXMtFUl/|title=With great honor, we are proud to announce that Team GodLike will be representing India in the PUBG Mobile Global Championship 2021: Grand Finals!|publisher=[[GodLike Esports]]|date=2022-01-19}}</ref>
+	}}
+}}
+
+===Eastern Division===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|flag=id|team=Bigetron RA
+|p1=Zuxxy|p1flag=id
+|p2=Luxxy|p2flag=id
+|p3=Ryzen|p3flag=id
+|p4=LiQuiD|p4flag=id
+|p5=KinGzz|p5flag=id
+|p6=uHigh|p6flag=my
+|c=JangS|cflag=my
+|c2=KinGzz|c2flag=id
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4|SEA Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=my|team=4Rivals
+|p1=PEMBURU|p1flag=my
+|p2=Appy|p2flag=my
+|p3=Rith|p3flag=my
+|p4=Eypul|p4flag=my
+|p5=Stoned|p5flag=my |p5link=Stoned (Malaysian Player)
+|p6=|p6flag=
+|c=Pasha|cflag=my
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4|SEA Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=th|team=MS Chonburi |link=MS Chonburi/Mobile
+|p1=PopZ|p1flag=th
+|p2=PONDz|p2flag=th
+|p3=TG13|p3flag=th
+|p4=Jazperr|p4flag=th
+|p5=Nc2|p5flag=th
+|p6=|p6flag=th
+|c=FFame|cflag=th
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4|SEA Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=th|team=FaZe Clan
+|link=FaZe Clan/Mobile
+|p1=BulShark|p1flag=th
+|p2=Vintorez|p2flag=th
+|p3=MR5|p3flag=th
+|p4=TonyK|p4flag=th
+|p5=Korpaii|p5flag=th
+|p6=Beer11|p6flag=th
+|c=MaFia|cflag=th
+|qualifier=[[PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4|SEA Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=sa|team=Rico Infinity Team
+|p1=SKTON|p1flag=sa
+|p2=ANAS|p2flag=
+|p3=Fhidan|p3flag=
+|p4=PrEStlGe|p4flag=sa
+|p5=Ywza3|p5flag=sa
+|p6=D7h|p6flag=sa
+|qualifier=[[PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1|MENA & South Asia Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=mn|team=Stalwart Esports
+|p1=skryyy
+|p2=TOP
+|p3=pikA
+|p4=Action
+|p5=APEX
+|p6=Senator
+|c=Senator
+|qualifier=[[PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1|MENA & South Asia Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=ma|team=Cryptics
+|p1=MARSHALL|p1flag=ma
+|p2=ELCHAPO|p2flag=ma
+|p3=LAZY|p3flag=ma
+|p4=SENKU|p4flag=ma
+|p5=Mourvd|p5flag=ma
+|c=|cflag=
+|qualifier=[[PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1|MENA & South Asia Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=np|team=Deadeyes Guys
+|p1=Shifu
+|p2=OnTop
+|p3=illusion|p3link=Illusion_(Nepalese_Player)
+|p4=Rated
+|p5=Fragboy|p5flag=np
+|p6=Turulove|p6flag=np
+|qualifier=[[PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1|MENA & South Asia Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=cn|team=Tong Jia Bao Esports
+|p1=attacker|p1flag=cn
+|p2=Hsir|p2flag=cn
+|p3=bamboo|p3flag=cn
+|p4=ManHAN|p4flag=cn
+|p5=Lon9z|p5flag=cn
+|p6=|p6flag=
+|c=夜语|cflag=cn
+|qualifier=[[Peacekeeper_Elite_Championship/2021|Peace Elite Championship]]
+|inotes={{NoteBig|n1=October 17th -  Due to the slot expansion and the cancellation of [[Peacekeeper_Elite_Championship/2021|Peacekeeper Elite Championship 2021]], '''{{Team|Tong Jia Bao Esports}}''' which originally qualified to the tournament is invited to PMGC.<ref name="tjb invite">{{cite web |url=https://www.weibo.com/7307175708/KD9ea0aE3|title=关于和平精英全球总决赛参赛资格的最新说明|date=2021-10-17|publisher=PEL和平精英职业联赛}}</ref>}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=cn|team=Six Two Eight
+|p1=DaoShi|p1flag=cn
+|p2=SuNan|p2flag=cn
+|p3=33z|p3flag=cn
+|p4=YuYang|p4flag=cn
+|p5=FlowerGe|p5flag=cn
+|p6=|p6flag=
+|c=Fruit|cflag=cn
+|qualifier=[[Peacekeeper_Elite_League/2021/Points|PEL Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=cn|team=Nova Esports
+|link=Nova Esports/China
+|image=NOVA 2021.png
+|p1=Jimmy|p1flag=cn
+|p2=Paraboy|p2flag=cn
+|p3=Order|p3flag=cn
+|p4=Mix6GG|p4flag=cn
+|p5=qc|p5flag=cn
+|p6=King|p6flag=cn
+|c=Hmx1v5|cflag=cn
+|c2=xiaorong|c2flag=cn
+|qualifier=[[Peacekeeper_Elite_League/2021/Points|PEL Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=jp|team=BC SWELL
+|p1=BruR4|p1flag=jp
+|p2=Critical Tomato|p2flag=jp
+|p3=Felicia|p3flag=jp
+|p4=JUSTHIS|p4flag=kr
+|p5=Zussy|p5flag=jp
+|p6=Skylar|p6flag=jp
+|c=soma|cflag=jp
+|qualifier=[[PUBG_Mobile_Rivals_Cup/Korea_vs_Japan/2021|Rivals Cup]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=id|team=Genesis Dogma GIDS
+|p1=NiciL|p1flag=id
+|p2=Star|p2flag=id
+|p3=Booms|p3flag=id
+|p4=DayboT|p4flag=id
+|p5=Blessing|p5flag=id
+|p6= |p6flag=
+|c=La Flame|cflag=id
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/Indonesia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=th|team=The Infinity
+|p1=NEaR|p1flag=th
+|p2=Logan|p2flag=th
+|p3=GodTunny|p3flag=th
+|p4=MELA|p4flag=th
+|p5=nOOzy|p5flag=th
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/Thailand|Thailand Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=my|team=Team Secret
+|p1=Fredo|p1flag=my
+|p2=IShotz|p2flag=my
+|p3=MADTOI|p3flag=th
+|p4=Jumper|p4flag=my
+|p5=Y2K|p5flag=my
+|p6=KiD|p6flag=my
+|c=Y2K |cflag=my
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/MYSG|MY/SG Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=vn|team=D'Xavier
+|p1=Rabiz|p1flag=vn
+|p2=Lamborghini|p2flag=vn
+|p3=Franky|p3link=Franky (Vietnamese Player)|p3flag=vn
+|p4=TDuc|p4flag=vn
+|p5=Ferrari|p5flag=vn
+|p6=GE|p6flag=vn
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/Vietnam|Vietnam Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=iq|team=Nigma Galaxy |link=Nigma Galaxy (Iraqi Team)
+|p1=RAOUF|p1flag=dz
+|p2=HixYE|p2flag=iq
+|p3=FREAK|p3flag=iq
+|p4=Lord|p4flag=iq
+|p5=Hamody|p5flag=iq
+|c=Savior|cflag=my
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/Arabia|Arabia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=np|team=DRS GAMING |link=
+|p1=MafiaNinja
+|p2=Nima
+|p3=AJ
+|p4=Gyalzen
+|p5=MrBORO
+|p6=Sang|p6flag=np
+|qualifier=[[PUBG_Mobile_Global_Championship/2021/Points/South Asia|South Asia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=kr|team=DAMWON Gaming
+|p1=Ssung|p1flag=kr
+|p2=Forest|p2flag=kr
+|p3=JUNI|p3flag=kr
+|p4=FAVIAN|p4flag=kr
+|c=LLLL|cflag=kr
+|qualifier=[[PUBG_Mobile_Pro_Series/2021/Fall|Pro Series]]
+|inotes={{NoteBig|n1=November 17th - '''{{Team|dwg mobile}}''' acquire the roster of '''{{Team|Warriors Esports}}'''.<ref name="dwg mobile"> {{cite web|url=https://www.instagram.com/p/CWXZdoOv63V/|title=DWG KIA PUBG Mobile Team|date=2021-11-17|publisher='''DWG KIA'''}}</ref>}} 
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=jp|team=REJECT
+|p1=SaRa|p1flag=jp
+|p2=Duelo|p2flag=jp
+|p3=lapis|p3flag=jp
+|p4=Devine|p4flag=jp
+|p5=Reiji|p5flag=jp
+|c=|cflag=jp
+|qualifier=[[PUBG_Mobile_Japan_League/Season 1|Japan League]]
+}}
+{{box|end}}
+
+===Western Division===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|flag=br|team=Rise Esports
+|p1=Mufasa|p1flag=br
+|p2=Nunes|p2flag=br
+|p3=Mythic|p3flag=br
+|p4=Garryx |p4flag=br
+|p5=LiLBOY|p5flag=br
+|p6=Federal|p6flag=br
+|c=Patife|cflag= br
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=us|team=XSET
+|p1=Jayy|p1flag=us
+|p2=Enigma|p2flag=us
+|p3=J7|p3flag=us
+|p4=KillSwitch|p4flag=
+|p5=POLO|p5flag=us
+|p6=|p6flag=
+|c=RoiiDz|cflag=us
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=us|team=Knights
+|p1=Koops|p1flag=us
+|p2=Chico|p2flag=us
+|p3=Alucard|p3flag=us
+|p4=Zenox|p4flag=us |p4link=Zenox (Mobile Player)
+|c=|cflag= 
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=ar|team=Team Queso
+|p1=Axeel|p1flag=ar
+|p2=Marco|p2flag=uy|p2link=Marco (Uruguyan Player)
+|p3=Ayala|p3flag=ar
+|p4=NitsuMEB|p4flag=ar
+|p5=Rema|p5flag=ar
+|p6=|p6flag=
+|c=Zoka|cflag=cl
+|c2=Lichaking
+|c3=Gabo|c3flag=pa
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=mx|team=Aton Esports
+|p1=Milos|p1flag=mx
+|p2=Asta|p2flag=mx
+|p3=Choco|p3flag=mx
+|p4=cardi|p4flag=uy
+|p5=S1MPLE|p5flag=ve
+|c=|cflag= 
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=br|team=Black Dragons e-Sports
+|p1=Romulozin|p1flag=br
+|p2=Gcgod|p2flag=br
+|p3=Gxlden|p3flag=br
+|p4=foquisin|p4flag=br
+|p5=Dex|p5flag=br
+|p6=|p6flag=
+|c=BigHead |cflag=br
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=co|team=Buluc Chabtan
+|p1=Reyes|p1flag=co
+|p2=Madeon|p2flag=co
+|p3=Fernan|p3flag=ve
+|p4=ElianKidd|p4flag=uy
+|c=Ganda|cflag=ar
+|qualifier=[[PUBG_Mobile_Pro_League/Americas/Championship/Season_2|Americas Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=world|team=MadBulls
+|link=
+|image=
+|p1=MONKY|p1flag=ru
+|p2=AGHORI|p2flag=ru
+|p3=YinYang|p3flag=kz
+|p4=EFFECT|p4flag=kg
+|p5=SLEEPYBOY|p5flag=ru
+|p6=|p6flag=
+|c=OK_BRO|cflag=by
+|qualifier=[[PUBG_Mobile_Pro_League/European/Championship/Season_1|European Championship]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|flag=tr|team=Futbolist
+|p1=Solkay|p1flag=tr
+|p2=Lovazin|p2flag=tr
+|p3=Raum|p3flag=tr
+|p4=Lutz|p4flag=tr
+|p5=Elvis|p5flag=tr
+|p6=|p6flag=
+|c=Kozki|cflag=tr
+|qualifier=[[PUBG_Mobile_Pro_League/European/Championship/Season_1|European Championship]]

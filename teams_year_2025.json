@@ -1,0 +1,451 @@
+[
+  {
+    "name": "Vampire Esports",
+    "countryCode": "th",
+    "players": [
+      "MEOWLA",
+      "nOO"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "D'Xavier",
+    "countryCode": "vn",
+    "players": [
+      "LeVis",
+      "Lamborghini",
+      "ParaJin",
+      "NadeTii",
+      "Shin"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Super_League/Southeast Asia/2025/Fall"
+  },
+  {
+    "name": "eArena",
+    "countryCode": "th",
+    "players": [
+      "Jowker",
+      "MORMAN",
+      "Nc2",
+      "SAKURA",
+      "TernyK"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Super_League/Southeast Asia/2025/Fall"
+  },
+  {
+    "name": "Virtus.pro",
+    "countryCode": "un",
+    "players": [
+      "MALOYYY",
+      "Voston",
+      "MilkyWay",
+      "ERAGON",
+      "FURIA"
+    ],
+    "region": "South Asia",
+    "qualification": "PUBG_Mobile_Super_League/Central and South Asia/2025/Fall"
+  },
+  {
+    "name": "Alpha Gaming",
+    "countryCode": "mn",
+    "players": [
+      "DOK"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Madbulls",
+    "countryCode": "un",
+    "players": [
+      "TULIKA",
+      "LEMON",
+      "FLIP",
+      "PUSHER"
+    ],
+    "region": "South Asia",
+    "qualification": "PUBG_Mobile_Super_League/Central and South Asia/2025/Fall"
+  },
+  {
+    "name": "Regnum Carya Esports",
+    "countryCode": "tr",
+    "players": [
+      "Sylas",
+      "Loxy",
+      "Wild"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "ULF Esports",
+    "countryCode": "tr",
+    "players": [
+      "Kecth",
+      "Eren7",
+      "Scarface",
+      "Soulless"
+    ],
+    "region": "EMEA",
+    "qualification": "PUBG_Mobile_Super_League/Europe/2025/Fall"
+  },
+  {
+    "name": "Kara Esports",
+    "countryCode": "tr",
+    "players": [
+      "CEOLATER",
+      "Lewis",
+      "Marso",
+      "Poser"
+    ],
+    "region": "EMEA",
+    "qualification": "PUBG_Mobile_Super_League/Europe/2025/Fall"
+  },
+  {
+    "name": "GS Team",
+    "countryCode": "iq",
+    "players": [
+      "J3far",
+      "D3S",
+      "ICON77",
+      "AMIR",
+      "Esport"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Super_League/MENA/2025/Fall"
+  },
+  {
+    "name": "R8 Esports",
+    "countryCode": "sa",
+    "players": [
+      "PrEStlGe",
+      "AMOORI",
+      "iD7",
+      "Marth",
+      "Damar",
+      "SKTON"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Geekay Esports",
+    "countryCode": "sa",
+    "players": [
+      "NIR"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Wolves Esports",
+    "countryCode": "un",
+    "players": [
+      "Koops",
+      "Baton",
+      "Dorin",
+      "Higor",
+      "Juancho"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Alpha7 Esports",
+    "countryCode": "br",
+    "players": [
+      "Carrilho",
+      "Revo",
+      "Gui"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "ThunderTalk Gaming",
+    "countryCode": "cn",
+    "players": [
+      "King",
+      "Ajay",
+      "Xing",
+      "TianYu",
+      "SiTing"
+    ],
+    "region": "Other",
+    "qualification": "Peacekeeper_Elite_League/2025/Summer"
+  },
+  {
+    "name": "Orangutan",
+    "countryCode": "in",
+    "players": [
+      "Aaru",
+      "AKop",
+      "Wi"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "DRX",
+    "countryCode": "kr",
+    "players": [
+      "Cyxae",
+      "HYUNBIN",
+      "Qx",
+      "SOE"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Alter Ego Ares",
+    "countryCode": "id",
+    "players": [
+      "Alva",
+      "Rosemary",
+      "Krypton",
+      "Snape",
+      "Moana"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Alliance MY",
+    "countryCode": "my",
+    "players": [
+      "KLUQ",
+      "Oliyo",
+      "JimmyOP",
+      "Iftar",
+      "Xynboy",
+      "LeonD"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Team Flash",
+    "countryCode": "vn",
+    "players": [
+      "Win"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Team Secret",
+    "countryCode": "vn",
+    "players": [
+      "Franky",
+      "Jikey",
+      "Jukay",
+      "Doki"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Inner Circle Esports",
+    "countryCode": "pk",
+    "players": [
+      "FALAK",
+      "IQ",
+      "T24OP",
+      "Nocki",
+      "CAIRO",
+      "Shaheen"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2025/Points/Central_and_South_Asia"
+  },
+  {
+    "name": "Natus Vincere",
+    "countryCode": "un",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "GOAT Team",
+    "countryCode": "un",
+    "players": [
+      "TW1X",
+      "KillerJoe",
+      "V1C",
+      "KRAKKEN",
+      "VARENIK"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Super_League/Central_and_South_Asia/2025/Fall"
+  },
+  {
+    "name": "Papara SuperMassive",
+    "countryCode": "tr",
+    "players": [
+      "Kamika"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Team Falcons",
+    "countryCode": "eu",
+    "players": [
+      "RAOUF",
+      "Narvalow",
+      "Coa77",
+      "REDOX"
+    ],
+    "region": "EMEA",
+    "qualification": "PUBG_Mobile_Global_Championship/2025/Points/Europe"
+  },
+  {
+    "name": "Boars Gaming",
+    "countryCode": "eu",
+    "players": [
+      "Havlik",
+      "Snowix",
+      "EXO",
+      "Cáus",
+      "KviQQ"
+    ],
+    "region": "EMEA",
+    "qualification": "PUBG_Mobile_Global_Championship/2025/Points/Europe"
+  },
+  {
+    "name": "Twisted Minds",
+    "countryCode": "iq",
+    "players": [
+      "4YDO",
+      "FREAK",
+      "LORD",
+      "Wa7sh"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Global_Championship/2025/Points/MENA"
+  },
+  {
+    "name": "Nuclear",
+    "countryCode": "eg",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Gen.G Esports",
+    "countryCode": "sa",
+    "players": [
+      "SaTaN",
+      "Damii",
+      "KLAWS",
+      "Quick",
+      "ArtFul"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Super_League/MENA/2025/Fall"
+  },
+  {
+    "name": "NMG",
+    "countryCode": "mx",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "INFLUENCE RAGE",
+    "countryCode": "br",
+    "players": [
+      "Law",
+      "Federal",
+      "Diego",
+      "LiLBOY",
+      "Lorran"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Loops Esports",
+    "countryCode": "br",
+    "players": [
+      "Niel"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Madbulls",
+    "countryCode": "un",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Burmese Ghouls",
+    "countryCode": "mm",
+    "players": [
+      "Unknown",
+      "ICHI",
+      "Yatkha",
+      "Godspeed"
+    ],
+    "region": "Other",
+    "qualification": "PUBG_Mobile_Challengers_League/Southeast_Asia/2025/Fall"
+  },
+  {
+    "name": "Weibo Gaming",
+    "countryCode": "cn",
+    "players": [
+      "Suk",
+      "Order",
+      "33"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Tianba",
+    "countryCode": "cn",
+    "players": [],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "Dplus",
+    "countryCode": "kr",
+    "players": [
+      "chp"
+    ],
+    "region": "Other",
+    "qualification": "Global Stage"
+  },
+  {
+    "name": "REJECT",
+    "countryCode": "jp",
+    "players": [
+      "Apollo",
+      "ReijiOcO",
+      "Duelo",
+      "Devine",
+      "SaRa"
+    ],
+    "region": "SEA",
+    "qualification": "PUBG_Mobile_Japan_League/Season_5/Phase_2"
+  },
+  {
+    "name": "True Rippers",
+    "countryCode": "in",
+    "players": [
+      "Jelly",
+      "KioLmao",
+      "Harsh",
+      "Hydro"
+    ],
+    "region": "Other",
+    "qualification": "Battlegrounds_Mobile_India International_Cup/2025"
+  }
+]

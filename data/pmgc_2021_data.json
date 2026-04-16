@@ -14,235 +14,646 @@
       "Miramar",
       "Sanhok"
     ],
-    "host_city": "Online",
-    "host_country": "Global",
-    "venue": "Virtual Arena",
+    "host_city": "Online (COVID-19)",
+    "host_country": "Worldwide",
+    "venue": "Online — No Physical Venue (COVID-19 restrictions)",
     "map_url": "#"
   },
   "teams": [
     {
-      "name": "Nova Esports",
-      "region": "PEL",
-      "countryCode": "cn",
-      "qualification": "PEL Points",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/e/ee/Nova_Esports_allmode.png"
-    },
-    {
-      "name": "Natus Vincere",
-      "region": "Europe",
-      "countryCode": "ua",
-      "qualification": "PMPL CIS",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/d/d0/Natus_Vincere_2021_allmode.png"
-    },
-    {
-      "name": "Nigma Galaxy",
-      "region": "MEA",
-      "countryCode": "iq",
-      "qualification": "PMPL MEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/7/77/Nigma_Galaxy_allmode.png"
-    },
-    {
-      "name": "Six Two Eight",
-      "region": "PEL",
-      "countryCode": "cn",
-      "qualification": "PEL",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "./assets/logos/six_two_eight.png"
-    },
-    {
-      "name": "Alpha7 Esports",
-      "region": "Americas",
-      "countryCode": "br",
-      "qualification": "PMPL Americas",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "./assets/logos/alpha7_esports.png"
-    },
-    {
-      "name": "GodLike Stalwart",
-      "region": "South Asia",
-      "countryCode": "mn",
-      "qualification": "PMPL SA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "./assets/logos/stalwart_esports.png"
-    },
-    {
-      "name": "S2G Esports",
-      "region": "Europe",
-      "countryCode": "tr",
-      "qualification": "PMPL Europe",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "./assets/logos/s2g_esports.png"
-    },
-    {
-      "name": "D'Xavier",
-      "region": "Southeast Asia",
-      "countryCode": "vn",
-      "qualification": "PMPL SEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/c/c5/D%27Xavier_allmode.png"
-    },
-    {
-      "name": "The Infinity",
-      "region": "Southeast Asia",
-      "countryCode": "th",
-      "qualification": "PMPL SEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/d/d5/The_Infinity_allmode.png"
-    },
-    {
-      "name": "Team Secret",
-      "region": "Southeast Asia",
-      "countryCode": "my",
-      "qualification": "PMPL SEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/3/3d/Team_Secret_allmode.png"
-    },
-    {
-      "name": "Buriram United",
-      "region": "Southeast Asia",
-      "countryCode": "th",
-      "qualification": "PMPL SEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/0/07/Buriram_United_Esports_allmode.png"
-    },
-    {
-      "name": "FaZe Clan",
-      "region": "Southeast Asia",
-      "countryCode": "th",
-      "qualification": "PMPL SEA",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://liquipedia.net/commons/images/d/d1/FaZe_Clan_2022_allmode.png"
-    },
-    {
-      "name": "Kaos Next Rüya",
-      "region": "Global",
-      "countryCode": "un",
-      "qualification": "Qualifier",
-      "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
-      ],
-      "logo": "https://placehold.co/60x60/333/00f2ff?text=KAO"
+      "name": "GodLike Esports",
+      "region": "Other",
+      "countryCode": "in",
+      "players": [],
+      "logo": "./assets/logos/Godlike_Esports.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 13,
+      "totalPoints": 106
     },
     {
       "name": "Bigetron RA",
-      "region": "Southeast Asia",
+      "region": "Other",
       "countryCode": "id",
-      "qualification": "PMPL SEA",
+      "players": [],
+      "logo": "./assets/logos/Bigetron_RA.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "4Rivals",
+      "region": "SEA",
+      "countryCode": "my",
       "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
+        "PEMBURU",
+        "Appy",
+        "Rith",
+        "Eypul",
+        "Stoned"
       ],
-      "logo": "https://liquipedia.net/commons/images/5/52/Bigetron_RA_allmode.png"
+      "logo": "./assets/logos/900px-4Rivals_2022_allmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4",
+      "isFinalist": true,
+      "finalsRank": 14,
+      "totalPoints": 96
+    },
+    {
+      "name": "MS Chonburi",
+      "region": "Other",
+      "countryCode": "th",
+      "players": [
+        "Pop"
+      ],
+      "logo": "./assets/logos/900px-MS_Chonburi_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "FaZe Clan",
+      "region": "Other",
+      "countryCode": "th",
+      "players": [],
+      "qualification": "Global Stage",
+      "logo": "./assets/logos/336px-FaZe_Clan_November_2021_darkmode.png",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Rico Infinity Team",
+      "region": "Other",
+      "countryCode": "sa",
+      "players": [
+        "SKTON",
+        "ANAS",
+        "Fhidan",
+        "PrEStlGe",
+        "Yw"
+      ],
+      "logo": "./assets/logos/565px-Rico_Infinity_Team_2021_allmode_full.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Stalwart Esports",
+      "region": "SEA",
+      "countryCode": "mn",
+      "players": [
+        "skryyy",
+        "TOP",
+        "pikA",
+        "Action",
+        "APEX",
+        "Senator"
+      ],
+      "logo": "./assets/logos/900px-Stalwart_Esports_2021_darkmode_full.png",
+      "qualification": "PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1",
+      "isFinalist": true,
+      "finalsRank": 7,
+      "totalPoints": 140
+    },
+    {
+      "name": "Cryptics",
+      "region": "Other",
+      "countryCode": "ma",
+      "players": [
+        "MARSHALL",
+        "ELCHAPO",
+        "LA"
+      ],
+      "logo": "./assets/logos/75px-Cryptics_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Deadeyes Guys",
+      "region": "SEA",
+      "countryCode": "np",
+      "players": [
+        "Shifu",
+        "OnTop",
+        "illusion",
+        "Rated",
+        "Fragboy",
+        "Turulove"
+      ],
+      "logo": "./assets/logos/Deadeyes_Guys_july_2021_allmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Tong Jia Bao Esports",
+      "region": "Other",
+      "countryCode": "cn",
+      "players": [
+        "attacker",
+        "Hsir",
+        "bamboo",
+        "ManHAN",
+        "Lon9"
+      ],
+      "logo": "./assets/logos/75px-Tong_Jia_Bao_Esports_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Six Two Eight",
+      "region": "Other",
+      "countryCode": "cn",
+      "players": [
+        "DaoShi",
+        "SuNan",
+        "33"
+      ],
+      "logo": "./assets/logos/900px-Six_Two_Eight_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 8,
+      "totalPoints": 140
+    },
+    {
+      "name": "Nova Esports",
+      "region": "PEL",
+      "countryCode": "cn",
+      "players": [
+        "Jimmy",
+        "Paraboy",
+        "Order",
+        "Mix6GG",
+        "qc",
+        "King"
+      ],
+      "logo": "./assets/logos/394px-Nova_Esports_&_Tencent_Video_allmode.png",
+      "qualification": "Peacekeeper_Elite_League/2021/Points",
+      "isFinalist": true,
+      "finalsRank": 1,
+      "totalPoints": 222
+    },
+    {
+      "name": "BC SWELL",
+      "region": "Other",
+      "countryCode": "jp",
+      "players": [
+        "BruR4",
+        "Critical Tomato",
+        "Felicia",
+        "JUSTHIS"
+      ],
+      "logo": "./assets/logos/BC_SWELL_2021_Nov_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Genesis Dogma GIDS",
+      "region": "Other",
+      "countryCode": "id",
+      "players": [
+        "NiciL",
+        "Star",
+        "Booms",
+        "DayboT",
+        "Blessing"
+      ],
+      "logo": "./assets/logos/Genesis Dogma GIDS.png",
+      "qualification": "PUBG_Mobile_Global_Championship/2021/Points/Indonesia",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "The Infinity",
+      "region": "Other",
+      "countryCode": "th",
+      "players": [
+        "NEaR",
+        "Logan",
+        "GodTunny",
+        "MELA",
+        "nOO"
+      ],
+      "logo": "./assets/logos/603px-The_INFINITY_2021_full_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 10,
+      "totalPoints": 139
+    },
+    {
+      "name": "Team Secret",
+      "region": "Other",
+      "countryCode": "my",
+      "players": [
+        "Fredo",
+        "IShot"
+      ],
+      "logo": "./assets/logos/900px-Team_Secret_full_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 12,
+      "totalPoints": 116
+    },
+    {
+      "name": "D'Xavier",
+      "region": "Other",
+      "countryCode": "vn",
+      "players": [
+        "Rabi"
+      ],
+      "logo": "./assets/logos/356px-D'Xavier_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 5,
+      "totalPoints": 143
+    },
+    {
+      "name": "Nigma Galaxy",
+      "region": "Other",
+      "countryCode": "iq",
+      "players": [
+        "RAOUF"
+      ],
+      "logo": "./assets/logos/900px-Nigma_Galaxy_full_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 3,
+      "totalPoints": 166
+    },
+    {
+      "name": "DRS GAMING",
+      "region": "Other",
+      "countryCode": "np",
+      "players": [
+        "MafiaNinja",
+        "Nima",
+        "AJ",
+        "Gyal"
+      ],
+      "logo": "./assets/logos/900px-DRS_GAMING_2021_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "DAMWON Gaming",
+      "region": "Other",
+      "countryCode": "kr",
+      "players": [
+        "Ssung",
+        "Forest",
+        "JUNI",
+        "FAVIAN"
+      ],
+      "logo": "./assets/logos/222px-DAMWON_Gaming_2021_darkmode.png",
+      "qualification": "PUBG_Mobile_Pro_Series/2021/Fall",
+      "isFinalist": true,
+      "finalsRank": 11,
+      "totalPoints": 118
+    },
+    {
+      "name": "REJECT",
+      "region": "SEA",
+      "countryCode": "jp",
+      "players": [
+        "SaRa",
+        "Duelo",
+        "lapis",
+        "Devine",
+        "Reiji"
+      ],
+      "logo": "./assets/logos/900px-REJECT_2020_full_darkmode.png",
+      "qualification": "PUBG_Mobile_Japan_League/Season 1",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Rise Esports",
+      "region": "SEA",
+      "countryCode": "br",
+      "players": [
+        "Mufasa",
+        "Nunes",
+        "Mythic",
+        "Garryx",
+        "LiLBOY",
+        "Federal"
+      ],
+      "logo": "./assets/logos/900px-Rise_Esports_allmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "XSET",
+      "region": "Other",
+      "countryCode": "us",
+      "players": [
+        "Jayy",
+        "Enigma",
+        "J7",
+        "KillSwitch",
+        "POLO"
+      ],
+      "logo": "./assets/logos/75px-XSET_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Knights",
+      "region": "Other",
+      "countryCode": "us",
+      "players": [
+        "Koops",
+        "Chico",
+        "Alucard"
+      ],
+      "logo": "./assets/logos/75px-Pittsburgh_Knights_2021_full_lightmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Team Queso",
+      "region": "Other",
+      "countryCode": "ar",
+      "players": [
+        "Axeel",
+        "Marco",
+        "Ayala",
+        "NitsuMEB",
+        "Rema"
+      ],
+      "logo": "./assets/logos/900px-Team_Queso_2021_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Aton Esports",
+      "region": "SEA",
+      "countryCode": "mx",
+      "players": [
+        "Milos",
+        "Asta",
+        "Choco",
+        "cardi",
+        "S1MPLE"
+      ],
+      "logo": "./assets/logos/900px-Aton_Esports_2021_allmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Black Dragons e-Sports",
+      "region": "Other",
+      "countryCode": "br",
+      "players": [
+        "Romulo"
+      ],
+      "logo": "./assets/logos/Black Dragons e-Sports.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Buluc Chabtan",
+      "region": "SEA",
+      "countryCode": "co",
+      "players": [
+        "Reyes",
+        "Madeon",
+        "Fernan",
+        "ElianKidd"
+      ],
+      "logo": "./assets/logos/Buluc_Chabtan_2021_darkmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "MadBulls",
+      "region": "Other",
+      "countryCode": "un",
+      "players": [
+        "MONKY",
+        "AGHORI",
+        "YinYang"
+      ],
+      "logo": "./assets/logos/437px-MadBulls_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
     },
     {
       "name": "Futbolist",
-      "region": "Europe",
+      "region": "Other",
       "countryCode": "tr",
-      "qualification": "PMPL Europe",
       "players": [
-        "Sylas",
-        "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
+        "Solkay",
+        "Lova"
       ],
-      "logo": "https://liquipedia.net/commons/images/8/8a/Futbolist_allmode.png"
+      "logo": "./assets/logos/900px-Futbolist_2021_darkmode (1).png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
     },
     {
-      "name": "STE",
-      "region": "Global",
-      "countryCode": "un",
-      "qualification": "Qualifier",
+      "name": "SuperMassive Blaze",
+      "region": "Other",
+      "countryCode": "tr",
+      "players": [],
+      "qualification": "Global Stage",
+      "logo": "./assets/logos/269px-SuperMassive_Blaze_full_darkmode.png",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "S2G Esports",
+      "region": "SEA",
+      "countryCode": "tr",
       "players": [
         "Sylas",
+        "RipSevinnn",
+        "Tımber",
         "Calse",
-        "RayZ",
-        "HamsiG",
-        "For1st"
+        "Toska"
       ],
-      "logo": "https://placehold.co/60x60/333/00f2ff?text=STE"
+      "logo": "./assets/logos/900px-S2G_Esports_allmode.png",
+      "qualification": "PUBG_Mobile_Pro_League/European/Championship/Season_1",
+      "isFinalist": true,
+      "finalsRank": 4,
+      "totalPoints": 150
+    },
+    {
+      "name": "Eastern Stars",
+      "region": "Other",
+      "countryCode": "ro",
+      "players": [
+        "KAPAHALA",
+        "ATHIS",
+        "OCTAVIAN",
+        "BA"
+      ],
+      "logo": "./assets/logos/Eastern_Stars_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "1907 Fenerbahçe Esports",
+      "region": "SEA",
+      "countryCode": "tr",
+      "players": [
+        "Rebelion",
+        "Dokunma",
+        "Knox",
+        "Falky"
+      ],
+      "logo": "./assets/logos/1907_fenerbah_e_esports.png",
+      "qualification": "PUBG_Mobile_Pro_League/European/Championship/Season_1",
+      "isFinalist": true,
+      "finalsRank": 15,
+      "totalPoints": 85
+    },
+    {
+      "name": "Beşiktaş Esports",
+      "region": "Other",
+      "countryCode": "tr",
+      "players": [
+        "Enjoyy7",
+        "Recent"
+      ],
+      "logo": "./assets/logos/900px-Beşiktaş_Esports_2019_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Ghost Gaming",
+      "region": "Other",
+      "countryCode": "us",
+      "players": [
+        "Spec",
+        "HH24",
+        "Tensa",
+        "Beowulf",
+        "Jagger"
+      ],
+      "logo": "./assets/logos/75px-Ghost_Gaming_2017_darkmode.png",
+      "qualification": "PUBG_Mobile_Global_Championship/2021/Points/North America",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
+    },
+    {
+      "name": "Furious Gaming",
+      "region": "Other",
+      "countryCode": "cl",
+      "players": [
+        "Trigga",
+        "ScreaaM",
+        "Potro",
+        "Tigger"
+      ],
+      "logo": "./assets/logos/900px-Furious_Gaming_2021_full_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 16,
+      "totalPoints": 71
+    },
+    {
+      "name": "Alpha7 Esports",
+      "region": "Other",
+      "countryCode": "br",
+      "players": [
+        "SenaTexa",
+        "Revo",
+        "Carrilho",
+        "Mafioso",
+        "Swaguin"
+      ],
+      "logo": "./assets/logos/Alpha7 Esports.png",
+      "qualification": "PUBG_Mobile_Global_Championship/2021/Points/Bra",
+      "isFinalist": true,
+      "finalsRank": 9,
+      "totalPoints": 139
+    },
+    {
+      "name": "Natus Vincere",
+      "region": "Other",
+      "countryCode": "un",
+      "players": [
+        "KITSUNÉ",
+        "Matic",
+        "Mequ",
+        "Tix"
+      ],
+      "logo": "./assets/logos/900px-Natus_Vincere_2021_darkmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 2,
+      "totalPoints": 175
+    },
+    {
+      "name": "Kaos Next Rüya",
+      "region": "Other",
+      "countryCode": "tr",
+      "players": [
+        "KUDUR",
+        "NIHAT",
+        "Yekta",
+        "Fro"
+      ],
+      "logo": "./assets/logos/Kaos Next Rüya.png",
+      "qualification": "Global Stage",
+      "isFinalist": true,
+      "finalsRank": 6,
+      "totalPoints": 141
+    },
+    {
+      "name": "Unicorns of Love",
+      "region": "Other",
+      "countryCode": "eu",
+      "players": [
+        "FRESH",
+        "LLIN",
+        "GK1st",
+        "Rolkis",
+        "WUDSON"
+      ],
+      "logo": "./assets/logos/75px-Unicorns_Of_Love_allmode.png",
+      "qualification": "Global Stage",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null
     }
   ],
   "topPlayers": [

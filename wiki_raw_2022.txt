@@ -1,0 +1,636 @@
+{{DISPLAYTITLE:PUBG Mobile Global Championship 2022}}
+{{PMGC 2022 Navbox}}
+{{PMGC 2022 Tabs}}
+{{Infobox league
+|game= |highlighted=true
+|liquipediatier=1
+|name=PUBG Mobile Global Championship 2022
+|tickername=PMGC 2022
+|shortname=2022
+|image=PUBG Mobile Global Championship lightmode.png  |imagedark=PUBG Mobile Global Championship darkmode.png
+|icon=PUBG Mobile Global Championship icon lightmode.png |icondarkmode=PUBG Mobile Global Championship icon darkmode.png
+|type=Offline
+|device=[https://www.sony.com/electronics/smartphones/xperia-1m4/ Sony Xperia 1 IV]
+|team_number=50
+|series=PUBG Mobile Global Championship |abbreviation=PMGC
+|organizer=KRAFTON
+|organizer2=Level Infinite 
+|organizer3=VSPN
+|sponsor=Xperia
+|sponsor2=[https://www.acer.com/my-en/predator Predator]
+|sponsor3=[https://gaming.amazon.com/ Prime Gaming]
+|mode=squads |perspective=tpp
+|prizepoolusd=4,000,000
+|country=Indonesia |city=Jakarta
+|venue=Jakarta International Expo |venuelink=https://www.jiexpo.com/ |venuedesc=Grand Finals
+|country2=Malaysia |city2=Kuala Lumpur
+|venue2=Battle Arena |venue2link=https://battle-arena.my/ |venue2desc=League
+|sdate=2022-11-10 |edate=2023-01-08
+|web=https://esports.pubgmobile.com/
+|twitch=PUBGMOBILEESPORTS
+|facebook=PUBGMESPORTSOFFICIAL
+|twitter=EsportsPUBGM
+|instagram=esportspubgmobile
+|youtube=channel/UCmeeY9kzNswUpbYyJntb3Aw
+|previous=PUBG_Mobile_Global_Championship/2021{{!}}2021
+|next=PUBG_Mobile_Global_Championship/2023{{!}}2023
+}}
+<p style="margin-top:15px">'''PUBG Mobile Global Championship 2022''' is the final event of the 2022 PUBG Mobile competitive season.</p>
+
+==About==
+===Broadcast Talent===
+{{Tabs dynamic|name1=English|name2=SEA|name3=South Asia|name4=East Asia|name5=Arabic|name6=Europe|name7=Americas|hide-showall=true}}<!--
+EN
+-->{{Tabs dynamic/tab|1}}
+{{box|start|padding=1em}}
+{{BroadcasterCard
+|position=English Host |lang=English
+|b1=JKaplan
+|b2=HotJukes
+|b3=FALECX
+}}
+{{BroadcasterCard |position=Stage Host |lang=English
+|b1=Qontra
+|b2=ChuChu
+|b3=TashBunny
+|b4=Flava
+|b5=Banks
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=English Analyst |lang=English
+|b1=Maxman
+|b2=The7WG
+|b3=GlitterXplosion
+|b4=Sandstorm
+}}
+{{BroadcasterCard |position=English Commentator |lang=English
+|b1=John Allen
+|b2=Blank
+|b3=ZooTay
+|b4=EsProxy
+|b5=ImPERium
+}}
+{{box|end}}<!--
+SEA
+-->{{Tabs dynamic/tab|2}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Indonesian Commentator |lang=Indonesian
+|b1=Wolfy
+|b2=Pasta
+|b3=Sanskuy
+|b4=El Dogee
+|b5=Junior
+|b6=Odidieu
+|b7=Resky Boga
+|b8=Donna
+|b9=Jelly
+|b10=Windy
+|b11=Bangpen
+}}
+{{BroadcasterCard |position=(Grand Finals) Guest Commentator |lang=Indonesian
+|b1=Ryzen
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Malay Commentator |lang=Malay
+|b1=OnTheGo
+|b2=J Hunter
+|b3=Emi
+|b4=Soultannn
+|b5=Kyrul
+|b6=TopCast
+}}
+{{BroadcasterCard |position=Thai Commentator |lang=Thai
+|b1=Archz
+|b2=Zaffer
+|b3=Ffame
+|b4=BeCrazy
+|b5=Aoeyjiwa
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Vietnamese Commentator |lang=Vietnamese
+|b1=Cường OT
+|b2=Tùng TT
+|b3=Loki |b3link=Loki (Nguyen Thanh Trung)
+|b4=Kuook
+|b5=Tuấn Tái
+}}
+{{BroadcasterCard |position=Burmese Commentator |lang=Burmese
+|b1=Blingx
+|b2=Irregular |b2flag=mm
+|b3=Zan
+|b4=Hugo
+}}
+{{BroadcasterCard |position=Tagalog Commentator |lang=Tagalog
+|b1=BekBek
+|b2=QueenToyo
+}}
+{{BroadcasterCard |position=Khmer Commentator |lang=Khmer
+|b1=Ream Angkor
+}}
+{{box|end}}<!--
+SA
+-->{{Tabs dynamic/tab|3}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Nepali Commentator |lang=Nepali
+|b1=Bipul |b1flag=np
+|b2=Rashmay
+|b3=AnshYT
+|b4=Vampy Casts |b4flag=np
+|b5=Mandip Casts
+|b6=Caster Blaster |b6name=Mukesh Bhandari |b6flag=np
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Bangla Commentator |lang=Bangla
+|b1=Sparki
+|b2=FinixOP |b2flag=bd
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Mongolian Commentator |lang=Mongolian
+|b1=Tuvshuun
+|b2=Tuvshintugs
+|b3=Wise |b3flag=mn |b3name=Gombosuren Bilegt
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Urdu Commentator |lang=Urdu
+|b1=Aadi |b1link=Aadi (Pakistani caster)
+|b2=Aladdin
+|b3=Ahsan
+}}
+{{box|end}}<!--
+CN/JP/KR
+-->{{Tabs dynamic/tab|4}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Mandarin Commentator |lang=Mandarin
+|b1=
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Korean Commentator |lang=Korean
+|b1=Choi Kwang-won |b1flag=kr
+|b2=Shim Ji-soo |b2flag=kr
+|b3=Lee Jong-woo |b3flag=kr
+|b4=Park Han-eol
+|b5=Park Dong-jin
+|b6=Bino |b6flag=kr
+|b7=Justice
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Japanese Commentator |lang=Japanese
+|b1=RintoXD
+|b2=Shinichiro
+|b3=Junyou Yamauchi |b3flag=jp
+|b4=Zussy
+|b5=Critical Tomato
+|b6=Razzy |b6flag=jp
+|b7=Nanokuni |b7flag=jp
+}}
+{{box|end}}<!--
+Arabic
+-->{{Tabs dynamic/tab|5}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Arabic Commentator |lang=Arabic
+|b1=Kayyali
+|b2=Mao
+|b3=Youcef
+|b4=Almola
+|b5=K0de
+|b6=Mo3taz
+|b7=Starfall
+}}
+{{box|end}}<!--
+EU
+-->{{Tabs dynamic/tab|6}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Turkish Commentator |lang=Turkish
+|b1=Yargic Tony
+|b2=Sencer
+|b3=Scott
+|b4=Mehitra
+|b5=SecondBest |b5flag=tr
+|b6=Tintin |b6flag=tr |b6name=Deniz Satar
+|b7=Amigo |b7name=Anıl Çelik
+|b8=DU Cast |b8link=Erman Yasar
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Russian Commentator |lang=Russian
+|b1=Starboy
+|b2=YARLIVE |b2flag=ru |b2name=Yaroslav Prokofiev
+|b3=Bamb1ni |b3flag=ua |b3name=Dmytro Kuzmenko
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Kazakh Commentator |lang=Kazakh
+|b1=LastHero
+|b2=Smitty |b2flag=kz |b2name=Almas Qumarbek
+}}
+{{box|end}}<!--
+AM
+-->{{Tabs dynamic/tab|7}}
+{{box|start|padding=1em}}
+{{BroadcasterCard |position=Portuguese Commentator |lang=Portuguese
+|b1=Khaya
+|b2=Vespa
+|b3=Imbativel
+|b4=Pew3x
+|b5=Toboco
+|b6=Petar
+}}
+{{box|break|padding=1em}}
+{{BroadcasterCard |position=Spanish Commentator |lang=Spanish
+|b1=Jaguar70
+|b2=KevinMPV
+|b3=KILLER
+|b4=Corsario
+|b5=Gatik
+|b6=Smartmono |b6link=SmartMonoPCK
+}}
+{{box|end}}
+{{Tabs dynamic/end}}
+
+===Format===
+* '''League:''''' November 10th - December 4th, 2022 &mdash; in {{Flag|my}} Kuala Lumpur, Malaysia
+** '''Group Stage:''''' Nov 10th - 27th, 2022
+*** 48 teams, divided equally into 3 groups of 16.
+*** Each group exclusively play in a certain week, with each week consists of 4 matchdays.
+*** Each matchday consists of 6 matches for a total of 24 matches per week.
+*** {{Bgcolortext|up|Top 3 teams of each group}} advance to ''Grand Finals''.
+*** {{Bgcolortext|stayup|4th - 11th place of each group}} advance to ''Survival Stage''.
+*** {{Bgcolortext|down|Bottom 5 teams of each group}} are eliminated.<div style=margin-top:10px/>
+** '''Survival Stage:''''' Nov 30th - Dec 2nd, 2022
+*** 24 teams, divided equally into 3 groups of 8.
+*** Each group play 6 matches per day for a total of 18 matches across 3 days in a ''Round-Robin format''.
+*** {{Bgcolortext|stayup|Top 16 teams}} advance to ''Last Chance''.
+*** {{Bgcolortext|down|Bottom 8 teams}} are eliminated.<div style=margin-top:10px/>
+** '''Last Chance:''''' Dec 3rd - 4th, 2022
+*** 16 teams.
+*** 12 matches.
+*** {{Bgcolortext|up|Top 5 teams}} advance to ''Grand Finals''.
+*** {{Bgcolortext|down|Bottom 11 teams}} are eliminated.
+<div style=margin-top:15px/>
+* '''Grand Finals:''''' January 6th - 8th, 2023 &mdash; in {{Flag|id}} Jakarta, Indonesia
+** 16 teams:
+*** {{Bgcolortext|up|14 teams}} from ''League Stage
+*** {{Bgcolortext|seedup|2 teams}} directly invited
+** 18 matches
+
+====Points Distribution====
+{{PUBGM 2021 Points System|killterm=elim}}
+
+==Prize Pool==
+$4,000,000 {{Abbr/USD}} are spread among the teams as seen below:
+{{box|start|padding=1em}}
+{{TeamPrizePool|prizesummary=false
+|{{Slot|usdprize=521000 |{{Opponent|s2g esports|date=2023-01-08}} }}
+|{{Slot|usdprize=292000 |{{Opponent|drs gaming|date=2023-01-08}} }}
+|{{Slot|usdprize=222000 |{{Opponent|a7 esports|date=2023-01-08}} }}
+|{{Slot|usdprize=200000 |{{Opponent|stalwart|date=2023-01-08}} }}
+|{{Slot|usdprize=151000 |{{Opponent|ihc esports|date=2023-01-08}} }}
+|{{Slot|usdprize=150000 |{{Opponent|vampire esports|date=2023-01-08}} }}
+|{{Slot|usdprize=130000 |{{Opponent|inco gaming|date=2023-01-08}} }}
+|{{Slot|usdprize=157000 |{{Opponent|4am|date=2023-01-08}} }}
+|{{Slot|usdprize=147500 |{{Opponent|nova cn|date=2023-01-08}} }}
+|{{Slot|usdprize=150000 |{{Opponent|geek fam|date=2023-01-08}} }}
+|{{Slot|usdprize=47500 |{{Opponent|wolves|date=2023-01-08}} }}
+|{{Slot|usdprize=145000 |{{Opponent|bru|date=2023-01-08}} }}
+|{{Slot|usdprize=132500 |{{Opponent|trained to kill|date=2023-01-08}} }}
+|{{Slot|usdprize=40000 |{{Opponent|ae limax|date=2023-01-08}} }}
+|{{Slot|usdprize=127500 |{{Opponent|fire flux esports|date=2023-01-08}} }}
+|{{Slot|usdprize=130000 |{{Opponent|influence rage|date=2023-01-08}} }}
+|{{Slot|usdprize=76000 |{{Opponent|hvvp|date=2022-12-04}} }}
+|{{Slot|usdprize=62000 |{{Opponent|titan gaming|date=2022-12-04}} }}
+|{{Slot|usdprize=60000 |{{Opponent|besiktas|date=2022-12-04}} }}
+|{{Slot|usdprize=59000 |{{Opponent|damwon|date=2022-12-04}} }}
+|{{Slot|usdprize=59000 |{{Opponent|gamelord|date=2022-12-04}} }}
+|{{Slot|usdprize=65000 |{{Opponent|reject|date=2022-12-04}} }}
+|{{Slot|usdprize=71000 |{{Opponent|lgd gaming|date=2022-12-04}} }}
+|{{Slot|usdprize=59000 |{{Opponent|i8 esports|date=2022-12-04}} }}
+|{{Slot|usdprize=67000 |{{Opponent|bacon|date=2022-12-04}} }}
+|{{Slot|usdprize=55000 |{{Opponent|btr ra|date=2022-12-04}} }}
+|{{Slot|usdprize=49000 |{{Opponent|ngx arabia|date=2022-12-04}} }}
+|{{Slot|usdprize=36000 |{{Opponent|powr esports|date=2022-12-02}} }}
+|{{Slot|usdprize=34000 |{{Opponent|box|date=2022-12-02}} }}
+|{{Slot|usdprize=35000 |{{Opponent|vivo keyd|date=2022-12-02}} }}
+|{{Slot|usdprize=35000 |{{Opponent|faze|date=2022-12-02}} }}
+|{{Slot|usdprize=33000 |{{Opponent|skylightz gaming|date=2022-12-02}} }}
+|{{Slot|usdprize=36000 |{{Opponent|geekay esports|date=2022-12-02}} }}
+|{{Slot|usdprize=34000 |{{Opponent|tem ent|date=2022-12-02}} }}
+|{{Slot|usdprize=34000 |{{Opponent|4rivals|date=2022-12-02}} }}
+|{{Slot|usdprize=24000 |{{Opponent|the infinity|date=2022-11-13}} 
+                       |{{Opponent|one million esports|date=2022-11-20|usdprize=26000}} 
+					   |{{Opponent|gd gids|date=2022-11-27}} }}
+|{{Slot|usdprize=23000 |{{Opponent|madbulls|date=2022-11-13}} 
+                       |{{Opponent|evos reborn|date=2022-11-20}} 
+                       |{{Opponent|dxavier|date=2022-11-27}} }}
+|{{Slot|usdprize=22000 |{{Opponent|queso|date=2022-11-13}} 
+                       |{{Opponent|usg|date=2022-11-20}} 
+                       |{{Opponent|team falcons|date=2022-11-27|usdprize=24000}} 
+					   }}
+|{{Slot|usdprize=21000 |{{Opponent|r8 esports|date=2022-11-13|usdprize=23000}} 
+                       |{{Opponent|yoodo alliance|date=2022-11-20}} 
+                       |{{Opponent|ns redforce|date=2022-11-27}} 
+					   }}
+|{{Slot|usdprize=20000 |{{Opponent|emtek stormx|date=2022-11-13}} 
+                       |{{Opponent|knights|date=2022-11-20}} 
+                       |{{Opponent|furious|date=2022-11-27}} 
+					   }}
+}}
+{{box|break|padding=1em}}
+{{prize pool start award|margin=false|noprize=true|cutafter=5}}
+{{prize pool slot award |award=MVP			  |TOP|flag1=mn |team1=godlike stalwart }}
+{{prize pool slot award |award=Gunslinger	  |TOP|flag1=mn |team1=godlike stalwart }}
+{{prize pool slot award |award=Grenade Master | SAND3SH|flag1=np |team1=t2k }}
+{{prize pool slot award |award=Eagle Eye	  |Wwx|flag1=cn |team1=4am }}
+{{prize pool slot award |award=Medic		  | Fluketh|flag1=th |team1=vampire esports }}
+{{Prize pool end}}
+{{box|break}}
+{{prize pool start award|margin=false}}
+{{prize pool slot award |award=Solo Showmatch Winner|usdprize=3,000 |Soulless |flag1=tr |team1=fire flux esports }}
+{{Prize pool end}}
+{{box|end}}
+===Base Prize Distribution===
+{{box|start|padding=1em}}
+====League Stage====
+The ''League Stage'' has a total prize pool of $2,500,000 {{Abbr/USD}}, and is distributed as follows:
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $10,000 (for each team)
+|}
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Group Stage (per group)
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $90,000 		|| {{Placement|9}}	|| $17,000
+|-
+| {{Placement|2}}	|| $85,000 		|| {{Placement|10}}	|| $16,000
+|-
+| {{Placement|3}}	|| $80,000 		|| {{Placement|11}}	|| $15,000
+|-
+| {{Placement|4}}	|| $22,000 		|| {{Placement|12}}	|| $14,000
+|-
+| {{Placement|5}}	|| $21,000 		|| {{Placement|13}}	|| $13,000
+|-
+| {{Placement|6}}	|| $20,000		|| {{Placement|14}}	|| $12,000
+|-
+| {{Placement|7}}	|| $19,000		|| {{Placement|15}}	|| $11,000
+|-
+| {{Placement|8}}	|| $18,000		|| {{Placement|16}}	|| $10,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Survival Stage
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $26,000 		|| {{Placement|9}}	|| $18,000 		|| {{Placement|17}}	|| $10,000
+|-
+| {{Placement|2}}	|| $25,000 		|| {{Placement|10}}	|| $17,000		|| {{Placement|18}}	|| $9,000
+|-
+| {{Placement|3}}	|| $24,000 		|| {{Placement|11}}	|| $16,000		|| {{Placement|19}}	|| $8,000
+|-
+| {{Placement|4}}	|| $23,000 		|| {{Placement|12}}	|| $15,000		|| {{Placement|20}}	|| $7,000
+|-
+| {{Placement|5}}	|| $22,000 		|| {{Placement|13}}	|| $14,000		|| {{Placement|21}}	|| $6,000
+|-
+| {{Placement|6}}	|| $21,000		|| {{Placement|14}}	|| $13,000		|| {{Placement|22}}	|| $5,000
+|-
+| {{Placement|7}}	|| $20,000		|| {{Placement|15}}	|| $12,000		|| {{Placement|23}}	|| $4,000
+|-
+| {{Placement|8}}	|| $19,000		|| {{Placement|16}}	|| $11,000		|| {{Placement|24}}	|| $3,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Last Chance
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $27,000 		|| {{Placement|9}}	|| $17,000
+|-
+| {{Placement|2}}	|| $25,000 		|| {{Placement|10}}	|| $16,000
+|-
+| {{Placement|3}}	|| $23,000 		|| {{Placement|11}}	|| $15,000
+|-
+| {{Placement|4}}	|| $22,000 		|| {{Placement|12}}	|| $14,000
+|-
+| {{Placement|5}}	|| $21,000 		|| {{Placement|13}}	|| $13,000
+|-
+| {{Placement|6}}	|| $20,000		|| {{Placement|14}}	|| $12,000
+|-
+| {{Placement|7}}	|| $19,000		|| {{Placement|15}}	|| $11,000
+|-
+| {{Placement|8}}	|| $18,000		|| {{Placement|16}}	|| $10,000
+|}
+{{box|end}}
+{{box|break}}
+====Grand Finals====
+The ''Grand Finals'' has a total prize pool of $1,500,000 {{Abbr/USD}}.
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! Participation Reward
+|-
+| $20,000 (for each team)
+|}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=8| Grand Finals
+|-
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+! width=50px|Place
+! width=75px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $400,000		|| {{Placement|9}}	|| $32,500
+|-
+| {{Placement|2}}	|| $200,000		|| {{Placement|10}}	|| $30,000
+|-
+| {{Placement|3}}	|| $120,000		|| {{Placement|11}}	|| $27,500
+|-
+| {{Placement|4}}	|| $80,000 		|| {{Placement|12}}	|| $25,000
+|-
+| {{Placement|5}}	|| $60,000 		|| {{Placement|13}}	|| $22,500
+|-
+| {{Placement|6}}	|| $50,000		|| {{Placement|14}}	|| $20,000
+|-
+| {{Placement|7}}	|| $42,000		|| {{Placement|15}}	|| $17,500
+|-
+| {{Placement|8}}	|| $35,000		|| {{Placement|16}}	|| $15,000
+|}
+{{box|end}}
+====Fan Favorite Vote Ranking====
+$41,000 {{Abbr/USD}} are given to teams based on in-game votes, and is distributed as follows:
+{{box|start|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=2| League Stage
+|-
+! width=100px|Place
+! width=150px|$ {{Abbr/USD}}
+|-
+| {{Placement|1-3}}	|| $3,000
+|-
+| {{Placement|4-10}}|| $2,000
+|}
+{{box|break|padding=1em}}
+{| class="wikitable" style="text-align:center; margin-top:0px;"
+! colspan=2| Grand Finals
+|-
+! width=100px|Place
+! width=150px|$ {{Abbr/USD}}
+|-
+| {{Placement|1}}	|| $8,000
+|-
+| {{Placement|2-3}}	|| $5,000
+|}
+{{box|end}}
+
+==Participants==
+{{TeamCardToggleButton|tcht=190|playerinfo=true}}
+===Grand Finals===
+{{box|start|padding=2em|max-width=1000px}}
+{{TeamCard
+|team=Wolves Esports|flag=cn
+|p1=Beautiful|p1flag=cn
+|p2=pickfeet|p2flag=cn
+|p3=Memory|p3flag=cn
+|p4=Remember|p4flag=cn
+|p5=|p5flag=cn<!--
+|t3title=Staff
+|t3p1=Greenwood|t3p1flag=cn |t3p1pos={{Abbr|C|Coach}}-->
+|qualifier=[[Peacekeeper_Elite_League/2022/Summer|Peacekeeper Elite League]]
+|inotes={{NoteBig|n1=December 21st - [[Wolves Esports]] acquires the roster of [[Still Moving Under Gunfire|Team SMG]].<ref>{{cite web|url=https://weibo.com/6466966493/MkBTalJWd|title=ANNOUNCEMENT|publisher='''[[Wolves Esports]]'''|date=2022-12-21}}</ref>}}
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Alter Ego LIMAX |flag=id
+|p1=Potato|p1flag=id
+|p2=Renalre|p2flag=id
+|p3=Ponbit|p3flag=id
+|p4=Fanatic|p4flag=id
+|p5=Aces|p5flag=id|p5link=Aces (Indonesian player)
+|c=Defiand|cflag=id
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/Indonesia|Indonesia Points]]
+}}
+{{box|end}}
+===League Stage===
+{{box|start|padding=2em|max-width=1400px}}
+{{TeamCard
+|team=Nova Esports |flag=cn
+|link=Nova Esports China
+|p1=Jimmy|p1flag=tw|p1wins=2
+|p2=paraboy|p2flag=cn|p2wins=2
+|p3=Order|p3flag=cn|p3wins=2
+|p4=King|p4flag=tw|p4wins=2
+|p5=Frozen|p5flag=cn
+|p6=qc|p6flag=cn|p6wins=1
+|c=Hmx1v5
+|c2=单超喵|c2flag=cn
+|qualifier=[[Peacekeeper_Elite_League/2022/Summer|Peacekeeper Elite League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=LGD Gaming |flag=cn
+|p1=cc|p1flag=cn
+|p2=YZZ|p2flag=cn
+|p3=MvM|p3flag=cn
+|p4=SuKi|p4flag=cn
+|p5=Light|p5flag=cn
+|p6=|p6flag=cn
+|c=谈秋|cflag=cn
+|qualifier=[[Peacekeeper_Elite_League/2022/Summer|Peacekeeper Elite League]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Four Angry Men |flag=cn
+|p1=33Svan|p1flag=cn
+|p2=GoodXiao|p2flag=cn
+|p3=Wwx|p3flag=cn
+|p4=QingChen|p4flag=cn
+|p5=Hasaki|p5flag=cn
+|p6=Boreas|p6flag=cn
+|c=2dog|cflag=cn
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/PEL|PEL Qualifier]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bigetron RA |flag=id
+|p1=Zuxxy|p1flag=id
+|p2=Luxxy|p2flag=id
+|p3=Misery|p3flag=id
+|p4=LiQuiD|p4flag=id
+|p5=GenFos|p5flag=id
+|c=La Flame|cflag=id
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/Indonesia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=EVOS Reborn |flag=id
+|p1=Microboy|p1flag=id
+|p2=KF|p2flag=id
+|p3=RedFace|p3flag=id
+|p4=Lyzerg|p4flag=id
+|p5=Lapar|p5flag=id
+|c=S1nyo|cflag=id
+|c2=Morfeus|c2flag=id
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/Indonesia|Indonesia Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=The Infinity |flag=th
+|p1=NEaR|p1flag=th
+|p2=Logan|p2flag=th
+|p3=GodTunny|p3flag=th
+|p4=MELA|p4flag=th
+|p5=nOOzy|p5flag=th
+|p6=|p6flag=
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/Thailand|Thailand Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Bacon Time |flag=th
+|p1=Ices|p1flag=th
+|p2=MalonZ|p2flag=th
+|p3=AumStyle|p3flag=th
+|p4=9Noizz|p4flag=th
+|p5=ShirtyS|p5flag=th
+|c=JQ|cflag=th
+|c2=Mice|c2flag=th
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/Thailand|Thailand Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=Geek Fam	|flag=my 
+|p1=DamRUDE 	|p1flag=my
+|p2=Snipes		|p2flag=my
+|p3=Mica		|p3flag=my
+|p4=uHigh		|p4flag=my |p4team=btr ra
+|p5=SONIX7Days	|p5flag=my 
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/MYSGPH|MY/SG/PH Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=4Rivals |flag=my 
+|p1=Appy	|p1flag=my
+|p2=PEMBURU	|p2flag=my
+|p3=Eypul	|p3flag=my
+|p4=Jumper	|p4flag=my
+|p5=Vokey	|p5flag=my
+|c=Pasha	|cflag=my 
+|c2=JangS	|c2flag=my
+|qualifier=[[PUBG_Mobile_Global_Championship/2022/Points/MYSGPH|MY/SG/PH Points]]
+}}
+{{box|break|padding=2em}}
+{{TeamCard
+|team=D'Xavier |flag=vn
+|p1=Rabiz|p1flag=vn 
+|p2=Lamborghini|p2flag=vn
+|p3=Franky|p3link=Franky (Vietnamese Player)|p3flag=vn 
+|p4=TDuc|p4flag=vn 
+|p5=ViCo
