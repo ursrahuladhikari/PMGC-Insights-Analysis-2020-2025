@@ -118,45 +118,63 @@ function loadLore(onDone) {
   }
 }
 
-/* ── Call Gemini API ── */
+/* ── Call Gemini API with Timeout & Better Error Handling ── */
 function fetchGeminiInsights(callback) {
+  console.log("AI: Initiating decryption sequence...");
+  
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 7000); // 7s timeout
+
   var url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
-  var prompt = "Generate 6 unique, surprising, and fun esports trivia facts specifically about the PUBG Mobile Global Championship (PMGC) tournament series from 2020 to 2025. Format your response STRICTLY as a JSON array like this: [{\"label\":\"FACT #01\",\"title\":\"Short punchy title\",\"icon\":\"emoji\",\"fact\":\"2-3 sentence fact that is engaging and informative.\"}]. Focus on records broken, upsets, player achievements, prize pools, venue stories, format changes, or wildly interesting game moments. Make every fact feel like a secret being revealed. Return ONLY valid JSON, no extra text.";
+  var prompt = "Generate 6 unique, surprising, and fun esports trivia facts specifically about the PUBG Mobile Global Championship (PMGC) tournament series from 2020 to 2025. Format your response STRICTLY as a JSON array like this: [{\"label\":\"FACT #01\",\"title\":\"Short punchy title\",\"icon\":\"emoji\",\"fact\":\"2-3 sentence fact that is engaging and informative.\"}]. Focus on records broken, upsets, player achievements, prize pools, venue stories, format changes, or wildly interesting game moments. Return ONLY valid JSON, no extra text.";
 
   var body = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 1.0, maxOutputTokens: 1500 }
+    generationConfig: { temperature: 1.0, maxOutputTokens: 1000 }
   });
 
   fetch(url, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: body
+    body: body,
+    signal: controller.signal
   })
-    .then(function (res) { return res.json(); })
+    .then(function (res) { 
+      clearTimeout(timeoutId);
+      if (!res.ok) throw new Error("Server responded with " + res.status);
+      return res.json(); 
+    })
     .then(function (data) {
       try {
+        if (!data.candidates || !data.candidates[0].content.parts[0].text) {
+          throw new Error("Invalid API response format");
+        }
         var text = data.candidates[0].content.parts[0].text;
-        // Strip markdown code fences if present
         text = text.replace(/```json/gi, "").replace(/```/g, "").trim();
         var cards = JSON.parse(text);
         if (Array.isArray(cards) && cards.length > 0) {
+          console.log("AI: Decryption successful.");
           callback(cards);
         } else {
-          throw new Error("Empty array");
+          throw new Error("Empty trivia array");
         }
       } catch (e) {
-        console.warn("Gemini parse error, using fallback:", e);
-        var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
-        callback(shuffled.slice(0, 6));
+        console.warn("AI Parse Error:", e.message);
+        useFallback(callback);
       }
     })
     .catch(function (err) {
-      console.warn("Gemini API failed, using fallback:", err);
-      var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
-      callback(shuffled.slice(0, 6));
+      clearTimeout(timeoutId);
+      console.warn("AI Connection Failed:", err.name === 'AbortError' ? "Timeout" : err.message);
+      useFallback(callback);
     });
+}
+
+function useFallback(callback) {
+  console.log("AI: Falling back to local encrypted archives...");
+  var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
+  callback(shuffled.slice(0, 6));
 }
 
 /* ── Render cards into the deck ── */
