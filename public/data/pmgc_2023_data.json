@@ -13,7 +13,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 98
+      "totalPoints": 98,
+      "prizeMoney": 42500
     },
     {
       "name": "Titan Esports Club",
@@ -30,7 +31,8 @@
       "qualification": "Peacekeeper Elite League/2023/Points",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 102
+      "totalPoints": 102,
+      "prizeMoney": 47500
     },
     {
       "name": "HAIL Esports",
@@ -44,7 +46,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "DRS Gaming",
@@ -59,7 +62,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Gaimin Gladiators",
@@ -75,10 +79,11 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
-      "name": "Team Weibo",
+      "name": "Weibo Gaming",
       "region": "PEL",
       "countryCode": "cn",
       "players": [
@@ -92,7 +97,8 @@
       "qualification": "Peacekeeper Elite League/2023/Points",
       "isFinalist": true,
       "finalsRank": 8,
-      "totalPoints": 110
+      "totalPoints": 110,
+      "prizeMoney": 98000
     },
     {
       "name": "Tianba",
@@ -106,7 +112,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Six Two Eight",
@@ -119,10 +126,11 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 98
+      "totalPoints": 100,
+      "prizeMoney": 94000
     },
     {
-      "name": "Persija Evos",
+      "name": "Persija EVOS",
       "region": "Other",
       "countryCode": "id",
       "players": [],
@@ -130,7 +138,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 74
+      "totalPoints": 74,
+      "prizeMoney": 78000
     },
     {
       "name": "Vampire Esports",
@@ -144,7 +153,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Yoodo Alliance",
@@ -161,7 +171,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2023/Points/Malaysia",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 69
+      "totalPoints": 69,
+      "prizeMoney": 71250
     },
     {
       "name": "D'Xavier",
@@ -178,7 +189,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2023/Points/Vietnam",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 121
+      "totalPoints": 124,
+      "prizeMoney": 121000
     },
     {
       "name": "Genesis Esports",
@@ -195,7 +207,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Stalwart Esports",
@@ -210,7 +223,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 138
+      "totalPoints": 138,
+      "prizeMoney": 263000
     },
     {
       "name": "AgonxI8 Esports",
@@ -221,7 +235,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Nigma Galaxy",
@@ -234,7 +249,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Falcons White",
@@ -245,7 +261,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "N Hyper Esports",
@@ -263,7 +280,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2023/Points/North_America",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Team Queso",
@@ -279,7 +297,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Loops",
@@ -290,9 +309,10 @@
       ],
       "logo": "/assets/logos/Loops.png",
       "qualification": "Global Stage",
-      "isFinalist": true,
-      "finalsRank": 12,
-      "totalPoints": 77
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": 77,
+      "prizeMoney": null
     },
     {
       "name": "Next Rüya",
@@ -305,7 +325,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "MadBulls",
@@ -316,7 +337,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Alter Ego Ares",
@@ -334,7 +356,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast_Asia/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "FaZe Clan",
@@ -345,7 +368,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 120
+      "totalPoints": 120,
+      "prizeMoney": 105000
     },
     {
       "name": "Bigetron Red Villains",
@@ -363,7 +387,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast_Asia/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Xerxia Esports",
@@ -380,7 +405,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Morph GPX",
@@ -398,7 +424,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast_Asia/2023/Fall",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 48
+      "totalPoints": 48,
+      "prizeMoney": 78000
     },
     {
       "name": "SEM9",
@@ -416,7 +443,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast_Asia/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "BRA Esports",
@@ -432,7 +460,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Major Pride",
@@ -449,7 +478,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/2023/Fall",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 71
+      "totalPoints": 71,
+      "prizeMoney": 85000
     },
     {
       "name": "Melise Esports",
@@ -465,7 +495,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Konina Power",
@@ -476,7 +507,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "De Muerte",
@@ -493,7 +525,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "4Merical Vibes",
@@ -509,7 +542,8 @@
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Championship/2023/Fall",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 128
+      "totalPoints": 127,
+      "prizeMoney": 144000
     },
     {
       "name": "NB Esports",
@@ -525,10 +559,11 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
-      "name": "IHC Esports",
+      "name": "IHC ESPORTS",
       "region": "Other",
       "countryCode": "mn",
       "players": [
@@ -539,7 +574,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 142
+      "totalPoints": 142,
+      "prizeMoney": 453500
     },
     {
       "name": "Seventh Element",
@@ -556,7 +592,8 @@
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Quest Esports",
@@ -574,7 +611,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Middle_East_and_Africa/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Brute Force",
@@ -587,7 +625,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "NASR Esports",
@@ -600,7 +639,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "RUKH eSports",
@@ -616,7 +656,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Influence Rage",
@@ -633,7 +674,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Intense Game",
@@ -650,7 +692,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "iNCO Gaming",
@@ -667,7 +710,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2023/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Alpha7 Esports",
@@ -684,7 +728,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2023/Fall",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 131
+      "totalPoints": 131,
+      "prizeMoney": 184000
     },
     {
       "name": "DUKSAN Esports",
@@ -700,7 +745,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Dplus",
@@ -717,7 +763,8 @@
       "qualification": "PUBG_Mobile_Pro_Series/2023/Points",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "REJECT",
@@ -733,7 +780,8 @@
       "qualification": "PUBG_Mobile_Japan_League/Season_3/Phase_2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "BEENOSTORM",
@@ -749,10 +797,11 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
-      "name": "Nongshim RedForce",
+      "name": "NS RedForce",
       "region": "Other",
       "countryCode": "kr",
       "players": [
@@ -762,102 +811,151 @@
       ],
       "logo": "/assets/logos/Nongshim RedForce.png",
       "qualification": "Global Stage",
-      "isFinalist": true,
-      "finalsRank": 7,
-      "totalPoints": 112
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": 112,
+      "prizeMoney": null
     }
   ],
   "topPlayers": [
     {
       "rank": 1,
       "name": "Zyol",
-      "team": "IHC Esports",
+      "team": "IHC ESPORTS",
       "elims": 37,
-      "damage": 7616,
-      "assists": 21
+      "damage": 7500,
+      "assists": 15
     },
     {
       "rank": 2,
-      "name": "TOP",
-      "team": "Stalwart Esports",
-      "elims": 28,
-      "damage": 5869,
-      "assists": 11
-    },
-    {
-      "rank": 3,
-      "name": "XZY",
-      "team": "Nongshim RedForce",
-      "elims": 27,
-      "damage": 4820,
-      "assists": 8
-    },
-    {
-      "rank": 4,
-      "name": "SuKi",
-      "team": "Titan Esports Club",
-      "elims": 26,
-      "damage": 4232,
-      "assists": 9
-    },
-    {
-      "rank": 5,
-      "name": "DOK",
-      "team": "4Merical Vibes",
-      "elims": 25,
-      "damage": 5842,
+      "name": "MELA",
+      "team": "FaZe Clan",
+      "elims": 34,
+      "damage": 6900,
       "assists": 14
     },
     {
-      "rank": 6,
-      "name": "LeVis",
+      "rank": 3,
+      "name": "ParaJin",
       "team": "D'Xavier",
-      "elims": 25,
-      "damage": 5663,
-      "assists": 9
-    },
-    {
-      "rank": 7,
-      "name": "Alex",
-      "team": "IHC Esports",
-      "elims": 25,
-      "damage": 5342,
+      "elims": 32,
+      "damage": 6400,
       "assists": 22
-    },
-    {
-      "rank": 8,
-      "name": "Revo",
-      "team": "Alpha7 Esports",
-      "elims": 25,
-      "damage": 5065,
-      "assists": 11
-    },
-    {
-      "rank": 9,
-      "name": "33z",
-      "team": "Six Two Eight",
-      "elims": 25,
-      "damage": 3737,
-      "assists": 6
-    },
-    {
-      "rank": 10,
-      "name": "Godless",
-      "team": "IHC Esports",
-      "elims": 24,
-      "damage": 5676,
-      "assists": 23
     }
   ],
   "tournament_info": {
     "year": 2023,
     "prize_pool": 3000000,
-    "winner": "IHC Esports",
+    "winner": "IHC ESPORTS",
     "runner_up": "Stalwart Esports",
     "mvp": {
       "name": "Zyol",
-      "team": "IHC Esports"
+      "team": "IHC ESPORTS"
     },
+    "awards": [
+      {
+        "name": "MVP",
+        "winner": "Zyol",
+        "team": "IHC ESPORTS"
+      },
+      {
+        "name": "Gunslinger",
+        "winner": "Zyol",
+        "team": "IHC ESPORTS"
+      },
+      {
+        "name": "Grenade Master",
+        "winner": "MELA",
+        "team": "FaZe Clan"
+      },
+      {
+        "name": "Field Medic",
+        "winner": "ParaJin",
+        "team": "D'Xavier"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "IHC ESPORTS",
+        "amount": 453500
+      },
+      {
+        "rank": 2,
+        "team": "Stalwart Esports",
+        "amount": 263000
+      },
+      {
+        "rank": 3,
+        "team": "Alpha7 Esports",
+        "amount": 184000
+      },
+      {
+        "rank": 4,
+        "team": "4Merical Vibes",
+        "amount": 144000
+      },
+      {
+        "rank": 5,
+        "team": "D'Xavier",
+        "amount": 121000
+      },
+      {
+        "rank": 6,
+        "team": "FaZe Clan",
+        "amount": 105000
+      },
+      {
+        "rank": 7,
+        "team": "Nongshim RedForce",
+        "amount": 107000
+      },
+      {
+        "rank": 8,
+        "team": "Weibo Gaming",
+        "amount": 98000
+      },
+      {
+        "rank": 9,
+        "team": "Titan Esports Club",
+        "amount": 47500
+      },
+      {
+        "rank": 10,
+        "team": "Six Two Eight",
+        "amount": 94000
+      },
+      {
+        "rank": 11,
+        "team": "S2G Esports",
+        "amount": 42500
+      },
+      {
+        "rank": 12,
+        "team": "Loops Esports",
+        "amount": 90000
+      },
+      {
+        "rank": 13,
+        "team": "Persija EVOS",
+        "amount": 78000
+      },
+      {
+        "rank": 14,
+        "team": "Major Pride",
+        "amount": 85000
+      },
+      {
+        "rank": 15,
+        "team": "Yoodo Alliance",
+        "amount": 71250
+      },
+      {
+        "rank": 16,
+        "team": "Morph GPX",
+        "amount": 78000
+      }
+    ],
     "maps": [
       "Erangel",
       "Miramar",

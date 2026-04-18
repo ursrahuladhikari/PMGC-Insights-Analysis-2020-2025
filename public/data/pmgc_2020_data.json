@@ -2,13 +2,102 @@
   "tournament_info": {
     "year": 2020,
     "name": "PUBG Mobile Global Championship 2020",
-    "prize_pool": 1200000,
+    "prize_pool": 2000000,
     "winner": "Nova Esports",
-    "runner_up": "4AM",
+    "runner_up": "Four Angry Men",
     "mvp": {
       "name": "Suk",
-      "team": "4AM"
+      "team": "Four Angry Men"
     },
+    "awards": [
+      {
+        "name": "Finals MVP",
+        "winner": "Suk",
+        "team": "Four Angry Men"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "Nova Esports",
+        "amount": 712500
+      },
+      {
+        "rank": 2,
+        "team": "Four Angry Men",
+        "amount": 505250
+      },
+      {
+        "rank": 3,
+        "team": "ZEUS ESPORTS",
+        "amount": 108000
+      },
+      {
+        "rank": 4,
+        "team": "Natus Vincere",
+        "amount": 47000
+      },
+      {
+        "rank": 5,
+        "team": "Bigetron RA",
+        "amount": 154250
+      },
+      {
+        "rank": 6,
+        "team": "Konina Power",
+        "amount": 73750
+      },
+      {
+        "rank": 7,
+        "team": "Team Secret",
+        "amount": 24250
+      },
+      {
+        "rank": 8,
+        "team": "Klas Digital Athletics",
+        "amount": 47500
+      },
+      {
+        "rank": 9,
+        "team": "Alpha7 Esports",
+        "amount": 21000
+      },
+      {
+        "rank": 10,
+        "team": "Secret Jin",
+        "amount": 33000
+      },
+      {
+        "rank": 11,
+        "team": "RRQ Athena",
+        "amount": 88000
+      },
+      {
+        "rank": 12,
+        "team": "Futbolist",
+        "amount": 24500
+      },
+      {
+        "rank": 13,
+        "team": "Aerowolf LIMAX",
+        "amount": 17250
+      },
+      {
+        "rank": 14,
+        "team": "POWER888 KPS",
+        "amount": 16250
+      },
+      {
+        "rank": 15,
+        "team": "A1 eSports",
+        "amount": 11500
+      },
+      {
+        "rank": 16,
+        "team": "Abrupt Slayers",
+        "amount": 15500
+      }
+    ],
     "maps": [
       "Erangel",
       "Miramar",
@@ -29,7 +118,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 241
+      "totalPoints": 241,
+      "prizeMoney": 154250
     },
     {
       "name": "Futbolist",
@@ -43,7 +133,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 12,
-      "totalPoints": 178
+      "totalPoints": 178,
+      "prizeMoney": 24500
     },
     {
       "name": "Elites United Team",
@@ -72,7 +163,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 161
+      "totalPoints": 161,
+      "prizeMoney": 17250
     },
     {
       "name": "Secret Jin",
@@ -83,7 +175,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 194
+      "totalPoints": 194,
+      "prizeMoney": 33000
     },
     {
       "name": "RRQ Athena",
@@ -100,7 +193,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 180
+      "totalPoints": 180,
+      "prizeMoney": 88000
     },
     {
       "name": "POWER888 KPS",
@@ -117,7 +211,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 155
+      "totalPoints": 155,
+      "prizeMoney": 16250
     },
     {
       "name": "Team Secret",
@@ -130,7 +225,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 7,
-      "totalPoints": 226
+      "totalPoints": 226,
+      "prizeMoney": 24250
     },
     {
       "name": "Abrupt Slayers",
@@ -148,7 +244,8 @@
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 128
+      "totalPoints": 128,
+      "prizeMoney": 15500
     },
     {
       "name": "DRS GAMING",
@@ -181,7 +278,8 @@
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Season_2",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 146
+      "totalPoints": 146,
+      "prizeMoney": 11500
     },
     {
       "name": "Loops",
@@ -234,7 +332,7 @@
       "totalPoints": null
     },
     {
-      "name": "A7 eSports",
+      "name": "Alpha7 Esports",
       "region": "SEA",
       "countryCode": "br",
       "players": [
@@ -248,12 +346,13 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Season_2",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 214
+      "totalPoints": 214,
+      "prizeMoney": 21000
     },
     {
       "name": "Natus Vincere",
       "region": "Other",
-      "countryCode": "un",
+      "countryCode": "kz",
       "players": [
         "OldBoy",
         "Tix"
@@ -262,7 +361,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 241
+      "totalPoints": 241,
+      "prizeMoney": 47000
     },
     {
       "name": "Klas Digital Athletics",
@@ -276,7 +376,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 8,
-      "totalPoints": 221
+      "totalPoints": 221,
+      "prizeMoney": 47500
     },
     {
       "name": "GODSENT",
@@ -302,7 +403,8 @@
       "logo": "/assets/logos/900px-Konina_Power_full_darkmode.png",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 239
+      "totalPoints": 239,
+      "prizeMoney": 73750
     },
     {
       "name": "Four Angry Men",
@@ -319,7 +421,8 @@
       "qualification": "Peacekeeper_Elite_League/2020/Points#Results",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 294
+      "totalPoints": 294,
+      "prizeMoney": 505250
     },
     {
       "name": "Nova Esports",
@@ -336,7 +439,8 @@
       "qualification": "Peacekeeper_Elite_League/2020/Points",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 319
+      "totalPoints": 319,
+      "prizeMoney": 712500
     },
     {
       "name": "BLUE BEES",
@@ -372,7 +476,7 @@
       "totalPoints": null
     },
     {
-      "name": "Zeus Esports",
+      "name": "ZEUS ESPORTS",
       "region": "Other",
       "countryCode": "mn",
       "players": [],
@@ -380,33 +484,34 @@
       "logo": "/assets/logos/369px-Z3US_eSports_Full.png",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 292
+      "totalPoints": 292,
+      "prizeMoney": 108000
     }
   ],
   "topPlayers": [
     {
       "rank": 1,
       "name": "Suk",
-      "team": "4AM",
-      "elims": 50,
-      "damage": 9000,
-      "assists": 20
+      "team": "Four Angry Men",
+      "elims": 54,
+      "damage": 11500,
+      "assists": 24
     },
     {
       "rank": 2,
-      "name": "Killer",
-      "team": "4AM",
-      "elims": 42,
-      "damage": 8200,
+      "name": "Order",
+      "team": "Nova Esports",
+      "elims": 46,
+      "damage": 9600,
       "assists": 15
     },
     {
       "rank": 3,
-      "name": "Sniper",
+      "name": "paraboy",
       "team": "Nova Esports",
-      "elims": 38,
-      "damage": 7500,
-      "assists": 10
+      "elims": 44,
+      "damage": 8200,
+      "assists": 22
     }
   ]
 }

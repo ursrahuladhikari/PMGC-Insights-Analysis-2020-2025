@@ -3,12 +3,101 @@
     "year": 2024,
     "name": "PUBG Mobile Global Championship 2024",
     "prize_pool": 3000000,
-    "winner": "Alpha7 Esports",
-    "runner_up": "Vampire Esports",
+    "winner": "Dplus",
+    "runner_up": "Regnum Carya Bra Esports",
     "mvp": {
-      "name": "Revo",
-      "team": "Alpha7 Esports"
+      "name": "Nolbu",
+      "team": "Dplus"
     },
+    "awards": [
+      {
+        "name": "Grand Finals MVP",
+        "winner": "Nolbu",
+        "team": "Dplus"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "Dplus",
+        "amount": 457250
+      },
+      {
+        "rank": 2,
+        "team": "Regnum Carya Bra Esports",
+        "amount": 255250
+      },
+      {
+        "rank": 3,
+        "team": "Nigma Galaxy",
+        "amount": 183000
+      },
+      {
+        "rank": 4,
+        "team": "INFLUENCE RAGE",
+        "amount": 144000
+      },
+      {
+        "rank": 5,
+        "team": "VOIN DONKEY ID",
+        "amount": 117750
+      },
+      {
+        "rank": 6,
+        "team": "DRX",
+        "amount": 115000
+      },
+      {
+        "rank": 7,
+        "team": "4Merical Vibes",
+        "amount": 95000
+      },
+      {
+        "rank": 8,
+        "team": "Team Spirit",
+        "amount": 100000
+      },
+      {
+        "rank": 9,
+        "team": "Insilio",
+        "amount": 89000
+      },
+      {
+        "rank": 10,
+        "team": "Tong Jia Bao Esports",
+        "amount": 94000
+      },
+      {
+        "rank": 11,
+        "team": "Alpha7 Esports",
+        "amount": 90500
+      },
+      {
+        "rank": 12,
+        "team": "The Vicious LATAM",
+        "amount": 77250
+      },
+      {
+        "rank": 13,
+        "team": "ThunderTalk Gaming",
+        "amount": 85500
+      },
+      {
+        "rank": 14,
+        "team": "Falcons Force",
+        "amount": 78000
+      },
+      {
+        "rank": 15,
+        "team": "Natus Vincere",
+        "amount": 82500
+      },
+      {
+        "rank": 16,
+        "team": "Guild Esports",
+        "amount": 30000
+      }
+    ],
     "maps": [
       "Erangel",
       "Miramar",
@@ -29,7 +118,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 44
+      "totalPoints": 44,
+      "prizeMoney": 30000
     },
     {
       "name": "Alter Ego Ares",
@@ -47,7 +137,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "CelcomDigi Alliance",
@@ -64,7 +155,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Vampire Esports",
@@ -78,7 +170,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "D'Xavier",
@@ -95,18 +188,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Southeast_Asia",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
-    },
-    {
-      "name": "Team Spirit",
-      "region": "Other",
-      "countryCode": "un",
-      "players": [],
-      "logo": "/assets/logos/75px-Team_Spirit_2022_darkmode.png",
-      "qualification": "Global Stage",
-      "isFinalist": true,
-      "finalsRank": 8,
-      "totalPoints": 101
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Team Secret",
@@ -121,7 +204,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "FaZe Clan",
@@ -132,7 +216,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "RRQ RYU",
@@ -149,7 +234,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast_Asia/2024/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Bigetron Knights",
@@ -160,10 +246,11 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
-      "name": "VOIN Donkey ID",
+      "name": "VOIN DONKEY ID",
       "region": "Other",
       "countryCode": "id",
       "players": [
@@ -175,7 +262,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 112
+      "totalPoints": 112,
+      "prizeMoney": 117750
     },
     {
       "name": "4Merical Vibes",
@@ -192,7 +280,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Central_and_South_Asia",
       "isFinalist": true,
       "finalsRank": 7,
-      "totalPoints": 104
+      "totalPoints": 104,
+      "prizeMoney": 95000
     },
     {
       "name": "DRS Gaming",
@@ -209,7 +298,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Central_and_South_Asia",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "AS i8 Esports",
@@ -220,7 +310,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Falcons Force",
@@ -237,7 +328,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 71
+      "totalPoints": 71,
+      "prizeMoney": 78000
     },
     {
       "name": "Stalwart Esports",
@@ -254,7 +346,8 @@
       "qualification": "PUBG_Mobile_Super_League/Central_and_South_Asia/2024/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Major Pride",
@@ -268,7 +361,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Horaa Esports",
@@ -285,7 +379,8 @@
       "qualification": "PUBG_Mobile_Super_League/Central_and_South_Asia/2024/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "De Muerte",
@@ -302,18 +397,20 @@
       "qualification": "PUBG_Mobile_Super_League/Central_and_South_Asia/2024/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Insilio",
       "region": "Other",
-      "countryCode": "un",
+      "countryCode": "ru",
       "players": [],
       "logo": "/assets/logos/Insilio_darkmode.png",
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 100
+      "totalPoints": 100,
+      "prizeMoney": 89000
     },
     {
       "name": "Alpha7 Esports",
@@ -329,7 +426,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Americas",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 95
+      "totalPoints": 95,
+      "prizeMoney": 90500
     },
     {
       "name": "Team Queso",
@@ -345,7 +443,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Americas",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "iNCO Gaming",
@@ -363,7 +462,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/Americas",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "INFLUENCE RAGE",
@@ -379,7 +479,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 117
+      "totalPoints": 117,
+      "prizeMoney": 144000
     },
     {
       "name": "Team Liquid",
@@ -393,7 +494,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Loops Esports",
@@ -407,7 +509,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "FURIA Esports",
@@ -420,7 +523,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "The Vicious LATAM",
@@ -435,9 +539,10 @@
       ],
       "logo": "/assets/logos/The_Vicious_Esports_2024_darkmode.png",
       "qualification": "PUBG_Mobile_Super_League/Americas/2024/Fall",
-      "isFinalist": false,
-      "finalsRank": null,
-      "totalPoints": null
+      "isFinalist": true,
+      "finalsRank": 12,
+      "totalPoints": 93,
+      "prizeMoney": 77250
     },
     {
       "name": "Brute Force",
@@ -451,7 +556,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "IW NRX",
@@ -464,12 +570,13 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Team Spirit",
       "region": "EMEA",
-      "countryCode": "un",
+      "countryCode": "ru",
       "players": [
         "EFFECT",
         "KITSUNÉ",
@@ -478,9 +585,10 @@
       ],
       "logo": "/assets/logos/75px-Team_Spirit_2022_darkmode.png",
       "qualification": "PUBG_Mobile_Global_Championship/2024/Points/EMEA",
-      "isFinalist": false,
-      "finalsRank": null,
-      "totalPoints": null
+      "isFinalist": true,
+      "finalsRank": 8,
+      "totalPoints": 101,
+      "prizeMoney": 100000
     },
     {
       "name": "Virtus.pro",
@@ -494,7 +602,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Twisted Minds",
@@ -511,7 +620,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Nigma Galaxy",
@@ -528,21 +638,11 @@
       "qualification": "PUBG_Mobile_Super_League/EMEA/2024/Fall",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 137
+      "totalPoints": 137,
+      "prizeMoney": 183000
     },
     {
-      "name": "Regnum Carya Bra",
-      "region": "Other",
-      "countryCode": "un",
-      "players": [],
-      "logo": "/assets/logos/731px-Regnum_Carya_x_Bra_Esports_2024_darkmode.png",
-      "qualification": "Global Stage",
-      "isFinalist": false,
-      "finalsRank": null,
-      "totalPoints": null
-    },
-    {
-      "name": "RC BRA Esports",
+      "name": "Regnum Carya Bra Esports",
       "region": "Other",
       "countryCode": "tr",
       "players": [
@@ -555,26 +655,13 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 152
-    },
-    {
-      "name": "The Vicious",
-      "region": "Other",
-      "countryCode": "un",
-      "players": [
-        "Limbo",
-        "Shifu"
-      ],
-      "logo": "/assets/logos/The_Vicious_Esports_2024_darkmode.png",
-      "qualification": "Global Stage",
-      "isFinalist": true,
-      "finalsRank": 12,
-      "totalPoints": 93
+      "totalPoints": 152,
+      "prizeMoney": 255250
     },
     {
       "name": "Natus Vincere",
       "region": "Other",
-      "countryCode": "un",
+      "countryCode": "kz",
       "players": [
         "AX"
       ],
@@ -582,7 +669,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 69
+      "totalPoints": 69,
+      "prizeMoney": 82500
     },
     {
       "name": "Team Harame Bro",
@@ -598,7 +686,8 @@
       "qualification": "PUBG_Mobile_Challengers_League/Southeast_Asia/2024/Fall",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Tong Jia Bao Esports",
@@ -611,7 +700,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 98
+      "totalPoints": 98,
+      "prizeMoney": 94000
     },
     {
       "name": "ThunderTalk Gaming",
@@ -628,7 +718,8 @@
       "qualification": "Peacekeeper Elite League/2024/Points",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 81
+      "totalPoints": 81,
+      "prizeMoney": 85500
     },
     {
       "name": "Tianba",
@@ -641,7 +732,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Regans Gaming",
@@ -654,7 +746,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "CAG OSAKA",
@@ -670,7 +763,8 @@
       "qualification": "PUBG_Mobile_Japan_League/Season_4/Phase_2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "VENGEANCE",
@@ -684,7 +778,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "DRX",
@@ -699,7 +794,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 109
+      "totalPoints": 109,
+      "prizeMoney": 115000
     },
     {
       "name": "Dplus",
@@ -712,7 +808,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 153
+      "totalPoints": 153,
+      "prizeMoney": 457250
     },
     {
       "name": "Miraen Sejong",
@@ -730,7 +827,8 @@
       "qualification": "PUBG_Mobile_Rivals_Cup/2024/Season 2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "IHC Esports",
@@ -743,30 +841,31 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     }
   ],
   "topPlayers": [
     {
       "rank": 1,
-      "name": "Revo",
-      "team": "Alpha7 Esports",
+      "name": "Nolbu",
+      "team": "Dplus",
       "elims": 50,
       "damage": 9000,
       "assists": 20
     },
     {
       "rank": 2,
-      "name": "Killer",
-      "team": "Vampire Esports",
+      "name": "Wild",
+      "team": "Regnum Carya Bra Esports",
       "elims": 42,
       "damage": 8200,
       "assists": 15
     },
     {
       "rank": 3,
-      "name": "Sniper",
-      "team": "Alpha7 Esports",
+      "name": "RAOUF",
+      "team": "Nigma Galaxy",
       "elims": 38,
       "damage": 7500,
       "assists": 10

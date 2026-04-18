@@ -3,12 +3,123 @@
     "year": 2025,
     "name": "PUBG Mobile Global Championship 2025",
     "prize_pool": 3000000,
-    "winner": "Dplus KIA",
-    "runner_up": "Alpha7",
+    "winner": "Alpha7 Esports",
+    "runner_up": "ULF Esports",
     "mvp": {
-      "name": "Mafioso",
-      "team": "Alpha7 Esports"
+      "name": "TOP",
+      "team": "Alpha Gaming (APG)",
+      "award_extra": "Porsche Cayenne"
     },
+    "awards": [
+      {
+        "name": "Grand Finals MVP",
+        "winner": "TOP",
+        "team": "Alpha Gaming (APG)",
+        "prize": "Porsche Cayenne"
+      },
+      {
+        "name": "Best IGL",
+        "winner": "Rosemary",
+        "team": "Alter Ego Ares"
+      },
+      {
+        "name": "Eagle Eye",
+        "winner": "Kecth",
+        "team": "ULF Esports"
+      },
+      {
+        "name": "Grenade Master",
+        "winner": "AMOORI",
+        "team": "R8 Esports"
+      },
+      {
+        "name": "Field Medic",
+        "winner": "CEOLATER",
+        "team": "Kara Esports"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "Alpha7 Esports",
+        "amount": 555000
+      },
+      {
+        "rank": 2,
+        "team": "ULF Esports",
+        "amount": 304000
+      },
+      {
+        "rank": 3,
+        "team": "Alpha Gaming (APG)",
+        "amount": 199500
+      },
+      {
+        "rank": 4,
+        "team": "ThunderTalk Gaming",
+        "amount": 163000
+      },
+      {
+        "rank": 5,
+        "team": "Dplus",
+        "amount": 130000
+      },
+      {
+        "rank": 6,
+        "team": "DRX",
+        "amount": 127000
+      },
+      {
+        "rank": 7,
+        "team": "D'Xavier",
+        "amount": 120500
+      },
+      {
+        "rank": 8,
+        "team": "Alter Ego Ares",
+        "amount": 94000
+      },
+      {
+        "rank": 9,
+        "team": "GOAT Team",
+        "amount": 99000
+      },
+      {
+        "rank": 10,
+        "team": "Regnum Carya Esports",
+        "amount": 100000
+      },
+      {
+        "rank": 11,
+        "team": "MadBulls",
+        "amount": 101500
+      },
+      {
+        "rank": 12,
+        "team": "eArena",
+        "amount": 87000
+      },
+      {
+        "rank": 13,
+        "team": "R8 Esports",
+        "amount": 95000
+      },
+      {
+        "rank": 14,
+        "team": "Kara Esports",
+        "amount": 87000
+      },
+      {
+        "rank": 15,
+        "team": "Vampire Esports",
+        "amount": 27500
+      },
+      {
+        "rank": 16,
+        "team": "Team Flash",
+        "amount": 61500
+      }
+    ],
     "maps": [
       "Rondo",
       "Erangel",
@@ -32,7 +143,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 80
+      "totalPoints": 88,
+      "prizeMoney": 27500
     },
     {
       "name": "D'Xavier",
@@ -49,7 +161,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast Asia/2025/Fall",
       "isFinalist": true,
       "finalsRank": 7,
-      "totalPoints": 112
+      "totalPoints": 112,
+      "prizeMoney": 120500
     },
     {
       "name": "eArena",
@@ -66,7 +179,8 @@
       "qualification": "PUBG_Mobile_Super_League/Southeast Asia/2025/Fall",
       "isFinalist": true,
       "finalsRank": 12,
-      "totalPoints": 95
+      "totalPoints": 88,
+      "prizeMoney": 87000
     },
     {
       "name": "Virtus.pro",
@@ -86,7 +200,7 @@
       "totalPoints": null
     },
     {
-      "name": "Alpha Gaming",
+      "name": "Alpha Gaming (APG)",
       "region": "Other",
       "countryCode": "mn",
       "players": [
@@ -96,10 +210,11 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 130
+      "totalPoints": 130,
+      "prizeMoney": 199500
     },
     {
-      "name": "Madbulls",
+      "name": "MadBulls",
       "region": "South Asia",
       "countryCode": "un",
       "players": [
@@ -112,7 +227,8 @@
       "qualification": "PUBG_Mobile_Super_League/Central and South Asia/2025/Fall",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 98
+      "totalPoints": 96,
+      "prizeMoney": 101500
     },
     {
       "name": "Regnum Carya Esports",
@@ -127,7 +243,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 99
+      "totalPoints": 100,
+      "prizeMoney": 100000
     },
     {
       "name": "ULF Esports",
@@ -143,7 +260,8 @@
       "qualification": "PUBG_Mobile_Super_League/Europe/2025/Fall",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 133
+      "totalPoints": 133,
+      "prizeMoney": 304000
     },
     {
       "name": "Kara Esports",
@@ -159,7 +277,8 @@
       "qualification": "PUBG_Mobile_Super_League/Europe/2025/Fall",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 90
+      "totalPoints": 82,
+      "prizeMoney": 87000
     },
     {
       "name": "GS Team",
@@ -194,7 +313,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 95
+      "totalPoints": 85,
+      "prizeMoney": 95000
     },
     {
       "name": "Geekay Esports",
@@ -239,7 +359,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 142
+      "totalPoints": 142,
+      "prizeMoney": 555000
     },
     {
       "name": "ThunderTalk Gaming",
@@ -256,7 +377,8 @@
       "qualification": "Peacekeeper_Elite_League/2025/Summer",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 124
+      "totalPoints": 124,
+      "prizeMoney": 163000
     },
     {
       "name": "Orangutan",
@@ -287,7 +409,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 115
+      "totalPoints": 115,
+      "prizeMoney": 127000
     },
     {
       "name": "Alter Ego Ares",
@@ -304,7 +427,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 8,
-      "totalPoints": 101
+      "totalPoints": 101,
+      "prizeMoney": 94000
     },
     {
       "name": "Alliance MY",
@@ -335,7 +459,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 76
+      "totalPoints": 72,
+      "prizeMoney": 61500
     },
     {
       "name": "Team Secret",
@@ -397,7 +522,8 @@
       "qualification": "PUBG_Mobile_Super_League/Central_and_South_Asia/2025/Fall",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 101
+      "totalPoints": 100,
+      "prizeMoney": 99000
     },
     {
       "name": "Papara SuperMassive",
@@ -413,7 +539,7 @@
       "totalPoints": null
     },
     {
-      "name": "Team Falcons",
+      "name": "Falcons Force",
       "region": "EMEA",
       "countryCode": "eu",
       "players": [
@@ -426,7 +552,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2025/Points/Europe",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": 100,
+      "prizeMoney": null
     },
     {
       "name": "Boars Gaming",
@@ -531,15 +658,16 @@
       "totalPoints": null
     },
     {
-      "name": "Madbulls",
+      "name": "MadBulls",
       "region": "Other",
       "countryCode": "un",
       "players": [],
       "logo": "/assets/logos/900px-MadBulls_2024_allmode.png",
       "qualification": "Global Stage",
-      "isFinalist": false,
-      "finalsRank": null,
-      "totalPoints": null
+      "isFinalist": true,
+      "finalsRank": 11,
+      "totalPoints": 96,
+      "prizeMoney": 101500
     },
     {
       "name": "Burmese Ghouls",
@@ -594,7 +722,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 115
+      "totalPoints": 115,
+      "prizeMoney": 130000
     },
     {
       "name": "REJECT",
@@ -628,32 +757,42 @@
       "isFinalist": false,
       "finalsRank": null,
       "totalPoints": null
+    },
+    {
+      "name": "4Merical Vibes",
+      "region": "Americas",
+      "isFinalist": false,
+      "finalsRank": null,
+      "totalPoints": null,
+      "prizeMoney": null,
+      "countryCode": "mn",
+      "logo": "/assets/logos/4Merical_Vibes_2023_full_darkmode.png"
     }
   ],
   "topPlayers": [
     {
       "rank": 1,
-      "name": "Mafioso",
-      "team": "Alpha7 Esports",
-      "elims": 50,
-      "damage": 9000,
-      "assists": 20
+      "name": "TOP",
+      "team": "Alpha Gaming (APG)",
+      "elims": 48,
+      "damage": 9900,
+      "assists": 21
     },
     {
       "rank": 2,
-      "name": "Killer",
+      "name": "Carrilho",
       "team": "Alpha7 Esports",
-      "elims": 42,
+      "elims": 45,
       "damage": 8200,
-      "assists": 15
+      "assists": 24
     },
     {
       "rank": 3,
-      "name": "Sniper",
-      "team": "Dplus KIA",
-      "elims": 38,
-      "damage": 7500,
-      "assists": 10
+      "name": "Kecth",
+      "team": "ULF Esports",
+      "elims": 41,
+      "damage": 7900,
+      "assists": 18
     }
   ]
 }

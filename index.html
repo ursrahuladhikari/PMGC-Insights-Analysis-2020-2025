@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PMGC 2023 | PUBG Esports Analysis</title>
+    <title>PMGC Insights & Analysis | 2020-2025</title>
     <meta name="description"
         content="Detailed analysis of PMGC 2023 - Team participation by region and player performance insights.">
     <link rel="stylesheet" href="./style.css">
@@ -68,21 +68,50 @@
             <nav id="main-nav">
                 <div class="logo">
                     <button class="nav-arrow-sm" id="prev-year-nav">❮</button>
-                    <img src="/assets/logos/pmgc_logo.png" alt="PMGC Logo" class="nav-pmgc-logo"
-                        referrerpolicy="no-referrer">
-                    PMGC <span id="nav-year">2023</span>
+                    <a href="#hero" style="text-decoration:none; color:inherit; display:flex; align-items:center; gap:12px; cursor:pointer;" title="Return to Top">
+                        <img src="/assets/logos/pmgc_logo.png" alt="PMGC Logo" class="nav-pmgc-logo"
+                            referrerpolicy="no-referrer">
+                        PMGC <span id="nav-year">2025</span>
+                    </a>
                     <button class="nav-arrow-sm" id="next-year-nav">❯</button>
                 </div>
-                <div class="nav-links">
-                    <a href="#overview" class="active">Overview</a>
-                    <a href="#teams">Teams & Regions</a>
-                    <a href="#players">Player Stats</a>
-                    <a href="#timeline">Tournament Path</a>
-                    <a href="#awards">Awards</a>
+
+                <!-- Desktop nav links -->
+                <div class="nav-links" id="desktop-nav-links">
+                    <a href="#timeline">Tournament Journey</a>
+                    <a href="#format">Game Format</a>
+                    <a href="#teams">Teams & Finals</a>
+                    <a href="#players">Top Performers</a>
+                    <a href="#awards">Prize & Awards</a>
                     <a href="#broadcast">Broadcast</a>
+                    <a href="insights.html" style="color:var(--accent-color); text-shadow: 0 0 10px rgba(0,242,255,0.5);">Insights & Lore</a>
                 </div>
+
+                <!-- Hamburger button (mobile only) -->
+                <button class="hamburger" id="hamburger-btn" aria-label="Menu">
+                    <span></span><span></span><span></span>
+                </button>
             </nav>
         </header>
+
+        <div class="mobile-drawer" id="mobile-drawer">
+            <div class="drawer-header">
+                <button class="close-drawer-btn" id="close-drawer-btn">&times;</button>
+            </div>
+            <div class="mobile-drawer-inner">
+                <a href="#overview" class="mobile-nav-link" data-drawer-close>Overview</a>
+                <a href="#timeline" class="mobile-nav-link" data-drawer-close>Tournament Journey</a>
+                <a href="#format" class="mobile-nav-link" data-drawer-close>Game Format</a>
+                <a href="#teams" class="mobile-nav-link" data-drawer-close>Teams & Finals</a>
+                <a href="#players" class="mobile-nav-link" data-drawer-close>Top Performers</a>
+                <a href="#awards" class="mobile-nav-link" data-drawer-close>Prize & Awards</a>
+                <a href="#broadcast" class="mobile-nav-link" data-drawer-close>Broadcast</a>
+                <a href="insights.html" class="mobile-nav-link lore-link">⚡ Insights & Lore</a>
+            </div>
+            <div class="drawer-footer">
+                PMGC INTEL VAULT v2.0
+            </div>
+        </div>
 
         <main>
             <section id="hero">
@@ -142,6 +171,35 @@
                 </div>
             </section>
 
+            <section id="timeline" class="container">
+                <div class="section-header">
+                    <h2>Tournament Journey</h2>
+                    <p>The path from Group Stage to the Grand Finals.</p>
+                </div>
+                <div class="timeline-wrapper" id="timeline-wrapper">
+                    <!-- Dynamically injected based on format history -->
+                </div>
+            </section>
+
+            <section id="format" class="container">
+                <div class="section-header">
+                    <h2 class="glitch-text" data-text="Game Format & Maps">Game Format & Maps</h2>
+                    <p>The rigorous path to becoming a World Champion.</p>
+                </div>
+
+                <div class="format-grid" id="format-grid-wrapper">
+                    <!-- Dynamically injected based on format history -->
+                </div>
+
+                <div class="maps-section card" style="margin-top: 3rem;">
+                    <h3 style="margin-bottom: 2rem; color: var(--accent-color); text-align: center;">Official Map Pool
+                    </h3>
+                    <div class="maps-grid-v2" id="map-pool-container">
+                        <!-- Populated dynamically as individual cards -->
+                    </div>
+                </div>
+            </section>
+
             <section id="teams" class="container">
                 <div class="section-header" style="flex-direction: column; align-items: flex-start; gap: 1.5rem;">
                     <div class="mode-toggle-container"
@@ -164,23 +222,30 @@
                         <button class="filter-btn" data-region="Americas">Americas</button>
                     </div>
                 </div>
-                <div id="standings-table-container" class="standings-table-container"
-                    style="display: none; margin-bottom: 2rem;">
-                    <h3
-                        style="color: var(--accent-gold); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 2px;">
-                        Grand Finals Standings</h3>
-                    <div class="table-responsive">
-                        <table class="pmgc-table">
+                                <!-- Grand Finals Standings Card (Stitch Cyber Zenith) -->
+                <div id="standings-table-container" class="gf-standings-card" style="display: none; margin-bottom: 2rem;">
+
+                    <!-- Header row: title only -->
+                    <div class="gf-standings-toprow">
+                        <div class="gf-standings-title-group">
+                            <h3 class="gf-standings-title">&#127942; Grand Finals Standings</h3>
+                            <span class="gf-standings-year" id="gf-standings-year">2023 Season</span>
+                        </div>
+                    </div>
+
+                    <!-- Table -->
+                    <div class="gf-table-wrapper">
+                        <table class="gf-table">
                             <thead>
                                 <tr>
-                                    <th>Rank</th>
+                                    <th class="gf-th-rank">Rank</th>
                                     <th>Team</th>
                                     <th>Region</th>
-                                    <th>Total Points</th>
+                                    <th class="gf-th-pts">Points</th>
                                 </tr>
                             </thead>
                             <tbody id="standings-table-body">
-                                <!-- Standings will be injected here -->
+                                <!-- Injected by JS -->
                             </tbody>
                         </table>
                     </div>
@@ -232,133 +297,60 @@
                     </table>
                 </div>
             </section>
-            <section id="timeline" class="container">
-                <div class="section-header">
-                    <h2>Tournament Journey</h2>
-                    <p>The path from Group Stage to the Grand Finals.</p>
-                </div>
-                <div class="timeline-wrapper" id="timeline-wrapper">
-                    <!-- Dynamically injected based on format history -->
-                </div>
-            </section>
 
-            <section id="format" class="container">
-                <div class="section-header">
-                    <h2 class="glitch-text" data-text="Game Format & Maps">Game Format & Maps</h2>
-                    <p>The rigorous path to becoming a World Champion.</p>
-                </div>
-
-                <div class="format-grid" id="format-grid-wrapper">
-                    <!-- Dynamically injected based on format history -->
-                </div>
-
-                <div class="maps-section card" style="margin-top: 3rem;">
-                    <h3 style="margin-bottom: 2rem; color: var(--accent-color); text-align: center;">Official Map Pool
-                    </h3>
-                    <div class="maps-grid-v2" id="map-pool-container">
-                        <!-- Populated dynamically as individual cards -->
-                    </div>
-                </div>
-            </section>
-
-
+                        <!-- ===== PRIZE POOL & SPECIAL AWARDS ===== -->
             <section id="awards" class="container">
                 <div class="section-header">
-                    <h2 class="glitch-text" data-text="Prize Pool & Special Awards">Prize Pool & Special Awards</h2>
-                    <p id="awards-total-prize">$3,000,000 Total Prize Money</p>
+                    <h2 class="glitch-text" data-text="Prize Pool &amp; Special Awards">Prize Pool &amp; Special Awards</h2>
                 </div>
 
-                <div class="awards-grid">
-                    <div class="prize-distribution glass-card">
-                        <h3
-                            style="color: var(--accent-gold); margin-bottom: 1.5rem; display: flex; align-items: center; gap: 10px;">
-                            <img src="https://liquipedia.net/commons/images/d/df/PUBG_Mobile_Global_Championship_lightmode.png"
-                                style="height:25px; filter: grayscale(1) brightness(2)sepia(1) hue-rotate(5deg) saturate(5);"
-                                referrerpolicy="no-referrer" onerror="this.style.display='none'">
-                            Top Tier Payouts
-                        </h3>
-                        <table class="prize-table">
-                            <thead>
-                                <tr>
-                                    <th>Placement</th>
-                                    <th>Team</th>
-                                    <th style="text-align: right;">Prize (USD)</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr style="background: rgba(255, 215, 0, 0.15);">
-                                    <td style="color: #ffd700; font-weight: bold;">🥇 1st Place</td>
-                                    <td>IHC Esports</td>
-                                    <td class="prize-amount">$453,500</td>
-                                </tr>
-                                <tr style="background: rgba(192, 192, 192, 0.1);">
-                                    <td style="color: #c0c0c0; font-weight: bold;">🥈 2nd Place</td>
-                                    <td>Stalwart Esports</td>
-                                    <td class="prize-amount">$263,000</td>
-                                </tr>
-                                <tr style="background: rgba(205, 127, 50, 0.1);">
-                                    <td style="color: #cd7f32; font-weight: bold;">🥉 3rd Place</td>
-                                    <td>Alpha7 Esports</td>
-                                    <td class="prize-amount">$184,000</td>
-                                </tr>
-                                <tr>
-                                    <td>4th - 5th</td>
-                                    <td>4Merical Vibes / D'Xavier</td>
-                                    <td class="prize-amount">~$132,000 avg</td>
-                                </tr>
-                            </tbody>
-                        </table>
+                <!-- HERO PRIZE BANNER -->
+                <div class="prize-hero-banner">
+                    <div class="prize-hero-left">
+                        <span class="prize-hero-label">&#128176; Total Prize Pool</span>
+                        <span class="prize-hero-year" id="prize-banner-year">2023 Season</span>
+                    </div>
+                    <div class="prize-hero-amount" id="awards-total-prize">$3,000,000</div>
+                </div>
+
+                <!-- TWO COLUMN LAYOUT -->
+                <div class="awards-redesign-grid">
+
+                    <!-- LEFT: Grand Finals Prize Distribution -->
+                    <div class="prize-dist-card glass-card">
+                        <div class="prize-dist-header">
+                            <h3>&#127942; Grand Finals Prize Distribution</h3>
+                            <span class="prize-dist-badge" id="prize-dist-count">16 Teams</span>
+                        </div>
+                        <div class="prize-table-scroll" id="prize-table-scroll">
+                            <table class="prize-table-v2">
+                                <thead>
+                                    <tr>
+                                        <th>Rank</th>
+                                        <th>Team</th>
+                                        <th class="prize-col">Prize (USD)</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="prize-payout-body">
+                                    <!-- Injected by JS -->
+                                </tbody>
+                            </table>
+                        </div>
+                        <button class="prize-expand-btn" id="prize-expand-btn">
+                            <span id="prize-expand-label">Show Less &#9650;</span>
+                        </button>
                     </div>
 
-                    <div class="special-awards-container">
-                        <div class="award-card highlight-award">
-                            <div class="award-icon">🏆</div>
-                            <div class="award-info">
-                                <h4>Finals MVP (FMVP)</h4>
-                                <div class="award-winner">Zyol</div>
-                                <div class="award-meta">
-                                    <img src="https://flagcdn.com/16x12/mn.png" alt="Mongolia"
-                                        referrerpolicy="no-referrer"> Mongolia • IHC Esports
-                                </div>
-                            </div>
+                    <!-- RIGHT: Special Awards -->
+                    <div class="special-awards-panel">
+                        <div class="special-awards-header">
+                            <h3>&#11088; Special Awards</h3>
                         </div>
-
-                        <div class="award-card">
-                            <div class="award-icon">💥</div>
-                            <div class="award-info">
-                                <h4>Gunslinger</h4>
-                                <div class="award-winner">Revo</div>
-                                <div class="award-meta">
-                                    <img src="https://flagcdn.com/16x12/br.png" alt="Brazil"
-                                        referrerpolicy="no-referrer"> Brazil • Alpha7 Esports
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="award-card">
-                            <div class="award-icon">💣</div>
-                            <div class="award-info">
-                                <h4>Grenade Master</h4>
-                                <div class="award-winner">MELA</div>
-                                <div class="award-meta">
-                                    <img src="https://flagcdn.com/16x12/th.png" alt="Thailand"
-                                        referrerpolicy="no-referrer"> Thailand • FaZe Clan
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="award-card">
-                            <div class="award-icon">🧠</div>
-                            <div class="award-info">
-                                <h4>Field Commander (IGL)</h4>
-                                <div class="award-winner">Alex</div>
-                                <div class="award-meta">
-                                    <img src="https://flagcdn.com/16x12/mn.png" alt="Mongolia"
-                                        referrerpolicy="no-referrer"> Mongolia • IHC Esports
-                                </div>
-                            </div>
+                        <div id="special-awards-cards" class="special-awards-cards">
+                            <!-- Injected by JS -->
                         </div>
                     </div>
+
                 </div>
             </section>
 
@@ -408,7 +400,38 @@
             </div>
         </footer>
     </div>
+    <div class="drawer-backdrop" id="drawer-backdrop"></div>
     <script type="module" src="./main.js"></script>
+    <script>
+      (function() {
+        var btn      = document.getElementById('hamburger-btn');
+        var closeBtn = document.getElementById('close-drawer-btn');
+        var drawer   = document.getElementById('mobile-drawer');
+        var backdrop = document.getElementById('drawer-backdrop');
+
+        function openDrawer() {
+          drawer.classList.add('open');
+          backdrop.classList.add('visible');
+          btn.classList.add('open');
+          document.body.style.overflow = 'hidden';
+        }
+        function closeDrawer() {
+          drawer.classList.remove('open');
+          backdrop.classList.remove('visible');
+          btn.classList.remove('open');
+          document.body.style.overflow = '';
+        }
+
+        if (btn) btn.addEventListener('click', openDrawer);
+        if (closeBtn) closeBtn.addEventListener('click', closeDrawer);
+        if (backdrop) backdrop.addEventListener('click', closeDrawer);
+
+        // Close on any internal link click
+        document.querySelectorAll('[data-drawer-close]').forEach(function(el) {
+          el.addEventListener('click', closeDrawer);
+        });
+      })();
+    </script>
 </body>
 
 </html>

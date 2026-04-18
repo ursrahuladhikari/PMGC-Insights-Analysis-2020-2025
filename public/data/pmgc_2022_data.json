@@ -7,8 +7,123 @@
     "runner_up": "DRS Gaming",
     "mvp": {
       "name": "TOP",
-      "team": "GodLike Stalwart"
+      "team": "Stalwart Esports"
     },
+    "awards": [
+      {
+        "name": "MVP",
+        "winner": "TOP",
+        "team": "GodLike Stalwart"
+      },
+      {
+        "name": "Gunslinger",
+        "winner": "TOP",
+        "team": "GodLike Stalwart"
+      },
+      {
+        "name": "Grenade Master",
+        "winner": "SAND3SH",
+        "team": "Trained to Kill"
+      },
+      {
+        "name": "Eagle Eye",
+        "winner": "Wwx",
+        "team": "Four Angry Men"
+      },
+      {
+        "name": "Medic",
+        "winner": "Fluketh",
+        "team": "Vampire Esports"
+      },
+      {
+        "name": "Solo Showmatch Winner",
+        "winner": "Soulless",
+        "team": "Fire Flux Esports",
+        "prize": "$3,000"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "S2G Esports",
+        "amount": 521000
+      },
+      {
+        "rank": 2,
+        "team": "DRS Gaming",
+        "amount": 292000
+      },
+      {
+        "rank": 3,
+        "team": "Alpha7 Esports",
+        "amount": 222000
+      },
+      {
+        "rank": 4,
+        "team": "GodLike Stalwart",
+        "amount": 200000
+      },
+      {
+        "rank": 5,
+        "team": "IHC ESPORTS",
+        "amount": 151000
+      },
+      {
+        "rank": 6,
+        "team": "Vampire Esports",
+        "amount": 150000
+      },
+      {
+        "rank": 7,
+        "team": "iNCO Gaming",
+        "amount": 130000
+      },
+      {
+        "rank": 8,
+        "team": "Four Angry Men",
+        "amount": 157000
+      },
+      {
+        "rank": 9,
+        "team": "Nova Esports",
+        "amount": 147500
+      },
+      {
+        "rank": 10,
+        "team": "Geek Fam",
+        "amount": 150000
+      },
+      {
+        "rank": 11,
+        "team": "Wolves Esports",
+        "amount": 47500
+      },
+      {
+        "rank": 12,
+        "team": "Buriram United Esports",
+        "amount": 145000
+      },
+      {
+        "rank": 13,
+        "team": "Trained to Kill",
+        "amount": 132500
+      },
+      {
+        "rank": 14,
+        "team": "Alter Ego LIMAX",
+        "amount": 40000
+      },
+      {
+        "rank": 15,
+        "team": "Fire Flux Esports",
+        "amount": 127500
+      },
+      {
+        "rank": 16,
+        "team": "Influence Chemin Esports",
+        "amount": 130000
+      }
+    ],
     "maps": [
       "Erangel",
       "Miramar",
@@ -34,7 +149,8 @@
       "qualification": "Peacekeeper_Elite_League/2022/Summer",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 118
+      "totalPoints": 123,
+      "prizeMoney": 47500
     },
     {
       "name": "Alter Ego LIMAX",
@@ -51,7 +167,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Indonesia",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 107
+      "totalPoints": 107,
+      "prizeMoney": 40000
     },
     {
       "name": "Nova Esports",
@@ -68,7 +185,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 135
+      "totalPoints": 135,
+      "prizeMoney": 147500
     },
     {
       "name": "LGD Gaming",
@@ -99,7 +217,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2022/PEL",
       "isFinalist": true,
       "finalsRank": 8,
-      "totalPoints": 141
+      "totalPoints": 141,
+      "prizeMoney": 157000
     },
     {
       "name": "Bigetron RA",
@@ -174,7 +293,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/MYSGPH",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 125
+      "totalPoints": 125,
+      "prizeMoney": 150000
     },
     {
       "name": "4Rivals",
@@ -235,7 +355,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/South_Asia",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 156
+      "totalPoints": 156,
+      "prizeMoney": 200000
     },
     {
       "name": "IHC ESPORTS",
@@ -246,7 +367,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 144
+      "totalPoints": 144,
+      "prizeMoney": 151000
     },
     {
       "name": "i8 Esports",
@@ -317,7 +439,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 190
+      "totalPoints": 190,
+      "prizeMoney": 521000
     },
     {
       "name": "Beşiktaş Esports",
@@ -410,7 +533,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2022/Points/Bra",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 156
+      "totalPoints": 156,
+      "prizeMoney": 222000
     },
     {
       "name": "emTek StormX",
@@ -503,7 +627,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 12,
-      "totalPoints": 114
+      "totalPoints": 115,
+      "prizeMoney": 145000
     },
     {
       "name": "FaZe Clan",
@@ -575,7 +700,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 158
+      "totalPoints": 158,
+      "prizeMoney": 292000
     },
     {
       "name": "Skylight",
@@ -603,7 +729,8 @@
       "qualification": "PUBG_Mobile_Pro_League/South_Asia/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 112
+      "totalPoints": 112,
+      "prizeMoney": 132500
     },
     {
       "name": "POWR Esports",
@@ -658,7 +785,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 94
+      "totalPoints": 105,
+      "prizeMoney": 130000
     },
     {
       "name": "iNCO Gaming",
@@ -675,7 +803,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/2022/Fall",
       "isFinalist": true,
       "finalsRank": 7,
-      "totalPoints": 142
+      "totalPoints": 142,
+      "prizeMoney": 130000
     },
     {
       "name": "Team Queso",
@@ -724,7 +853,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 99
+      "totalPoints": 106,
+      "prizeMoney": 127500
     },
     {
       "name": "MadBulls",
@@ -754,7 +884,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 142
+      "totalPoints": 142,
+      "prizeMoney": 150000
     },
     {
       "name": "Team Falcons",

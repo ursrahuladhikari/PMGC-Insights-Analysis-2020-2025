@@ -2,13 +2,102 @@
   "tournament_info": {
     "year": 2021,
     "name": "PUBG Mobile Global Championship 2021",
-    "prize_pool": 3490000,
+    "prize_pool": 6000000,
     "winner": "Nova Esports",
     "runner_up": "Natus Vincere",
     "mvp": {
       "name": "Order",
       "team": "Nova Esports"
     },
+    "awards": [
+      {
+        "name": "Finals MVP",
+        "winner": "Order",
+        "team": "Nova Esports"
+      }
+    ],
+    "payouts": [
+      {
+        "rank": 1,
+        "team": "Nova Esports",
+        "amount": 1596250
+      },
+      {
+        "rank": 2,
+        "team": "Natus Vincere",
+        "amount": 805000
+      },
+      {
+        "rank": 3,
+        "team": "Nigma Galaxy",
+        "amount": 381750
+      },
+      {
+        "rank": 4,
+        "team": "S2G Esports",
+        "amount": 231750
+      },
+      {
+        "rank": 5,
+        "team": "D'Xavier",
+        "amount": 295000
+      },
+      {
+        "rank": 6,
+        "team": "Kaos Next Rüya",
+        "amount": 482500
+      },
+      {
+        "rank": 7,
+        "team": "Stalwart Esports",
+        "amount": 173000
+      },
+      {
+        "rank": 8,
+        "team": "Six Two Eight",
+        "amount": 107288
+      },
+      {
+        "rank": 9,
+        "team": "Alpha7 Esports",
+        "amount": 130750
+      },
+      {
+        "rank": 10,
+        "team": "The Infinity",
+        "amount": 106000
+      },
+      {
+        "rank": 11,
+        "team": "DAMWON Gaming",
+        "amount": 452500
+      },
+      {
+        "rank": 12,
+        "team": "Team Secret",
+        "amount": 99063
+      },
+      {
+        "rank": 13,
+        "team": "GodLike Esports",
+        "amount": 57000
+      },
+      {
+        "rank": 14,
+        "team": "4Rivals",
+        "amount": 95338
+      },
+      {
+        "rank": 15,
+        "team": "Fenerbahçe Esports",
+        "amount": 95500
+      },
+      {
+        "rank": 16,
+        "team": "Furious Gaming",
+        "amount": 153500
+      }
+    ],
     "maps": [
       "Erangel",
       "Miramar",
@@ -29,7 +118,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 13,
-      "totalPoints": 106
+      "totalPoints": 106,
+      "prizeMoney": 57000
     },
     {
       "name": "Bigetron RA",
@@ -40,7 +130,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "4Rivals",
@@ -57,7 +148,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Southeast_Asia/Championship/Season_4",
       "isFinalist": true,
       "finalsRank": 14,
-      "totalPoints": 96
+      "totalPoints": 96,
+      "prizeMoney": 95338
     },
     {
       "name": "MS Chonburi",
@@ -70,18 +162,20 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "FaZe Clan",
       "region": "Other",
       "countryCode": "th",
       "players": [],
-      "qualification": "Global Stage",
       "logo": "/assets/logos/336px-FaZe_Clan_November_2021_darkmode.png",
+      "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Rico Infinity Team",
@@ -98,11 +192,12 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Stalwart Esports",
-      "region": "SEA",
+      "region": "South Asia",
       "countryCode": "mn",
       "players": [
         "skryyy",
@@ -116,7 +211,8 @@
       "qualification": "PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1",
       "isFinalist": true,
       "finalsRank": 7,
-      "totalPoints": 140
+      "totalPoints": 140,
+      "prizeMoney": 173000
     },
     {
       "name": "Cryptics",
@@ -131,7 +227,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Deadeyes Guys",
@@ -149,7 +246,8 @@
       "qualification": "PUBG_Mobile_Pro_League/MENA_and_South_Asia/Championship/Season 1",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Tong Jia Bao Esports",
@@ -166,7 +264,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Six Two Eight",
@@ -181,7 +280,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 8,
-      "totalPoints": 140
+      "totalPoints": 140,
+      "prizeMoney": 107288
     },
     {
       "name": "Nova Esports",
@@ -199,7 +299,8 @@
       "qualification": "Peacekeeper_Elite_League/2021/Points",
       "isFinalist": true,
       "finalsRank": 1,
-      "totalPoints": 222
+      "totalPoints": 222,
+      "prizeMoney": 1596250
     },
     {
       "name": "BC SWELL",
@@ -215,7 +316,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Genesis Dogma GIDS",
@@ -232,7 +334,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2021/Points/Indonesia",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "The Infinity",
@@ -249,7 +352,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 10,
-      "totalPoints": 139
+      "totalPoints": 139,
+      "prizeMoney": 106000
     },
     {
       "name": "Team Secret",
@@ -263,7 +367,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 12,
-      "totalPoints": 116
+      "totalPoints": 116,
+      "prizeMoney": 99063
     },
     {
       "name": "D'Xavier",
@@ -276,7 +381,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 5,
-      "totalPoints": 143
+      "totalPoints": 143,
+      "prizeMoney": 295000
     },
     {
       "name": "Nigma Galaxy",
@@ -289,11 +395,12 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 3,
-      "totalPoints": 166
+      "totalPoints": 166,
+      "prizeMoney": 381750
     },
     {
       "name": "DRS GAMING",
-      "region": "Other",
+      "region": "South Asia",
       "countryCode": "np",
       "players": [
         "MafiaNinja",
@@ -301,11 +408,12 @@
         "AJ",
         "Gyal"
       ],
-      "logo": "/assets/logos/900px-DRS_GAMING_2021_allmode.png",
+      "logo": "/assets/logos/794px-DRS_GAMING_full_allmode.png",
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "DAMWON Gaming",
@@ -321,7 +429,8 @@
       "qualification": "PUBG_Mobile_Pro_Series/2021/Fall",
       "isFinalist": true,
       "finalsRank": 11,
-      "totalPoints": 118
+      "totalPoints": 118,
+      "prizeMoney": 452500
     },
     {
       "name": "REJECT",
@@ -338,7 +447,8 @@
       "qualification": "PUBG_Mobile_Japan_League/Season 1",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Rise Esports",
@@ -356,7 +466,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "XSET",
@@ -373,7 +484,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Knights",
@@ -388,7 +500,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Team Queso",
@@ -405,7 +518,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Aton Esports",
@@ -422,7 +536,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Black Dragons e-Sports",
@@ -435,7 +550,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Buluc Chabtan",
@@ -451,7 +567,8 @@
       "qualification": "PUBG_Mobile_Pro_League/Americas/Championship/Season_2",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "MadBulls",
@@ -466,7 +583,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Futbolist",
@@ -480,22 +598,24 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "SuperMassive Blaze",
       "region": "Other",
       "countryCode": "tr",
       "players": [],
-      "qualification": "Global Stage",
       "logo": "/assets/logos/269px-SuperMassive_Blaze_full_darkmode.png",
+      "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "S2G Esports",
-      "region": "SEA",
+      "region": "EMEA",
       "countryCode": "tr",
       "players": [
         "Sylas",
@@ -508,7 +628,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/Season_1",
       "isFinalist": true,
       "finalsRank": 4,
-      "totalPoints": 150
+      "totalPoints": 150,
+      "prizeMoney": 231750
     },
     {
       "name": "Eastern Stars",
@@ -524,7 +645,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "1907 Fenerbahçe Esports",
@@ -540,7 +662,8 @@
       "qualification": "PUBG_Mobile_Pro_League/European/Championship/Season_1",
       "isFinalist": true,
       "finalsRank": 15,
-      "totalPoints": 85
+      "totalPoints": 85,
+      "prizeMoney": 95500
     },
     {
       "name": "Beşiktaş Esports",
@@ -554,7 +677,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Ghost Gaming",
@@ -571,7 +695,8 @@
       "qualification": "PUBG_Mobile_Global_Championship/2021/Points/North America",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     },
     {
       "name": "Furious Gaming",
@@ -587,11 +712,12 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 16,
-      "totalPoints": 71
+      "totalPoints": 71,
+      "prizeMoney": 153500
     },
     {
       "name": "Alpha7 Esports",
-      "region": "Other",
+      "region": "Americas",
       "countryCode": "br",
       "players": [
         "SenaTexa",
@@ -604,12 +730,13 @@
       "qualification": "PUBG_Mobile_Global_Championship/2021/Points/Bra",
       "isFinalist": true,
       "finalsRank": 9,
-      "totalPoints": 139
+      "totalPoints": 139,
+      "prizeMoney": 130750
     },
     {
       "name": "Natus Vincere",
       "region": "Other",
-      "countryCode": "un",
+      "countryCode": "kz",
       "players": [
         "KITSUNÉ",
         "Matic",
@@ -620,11 +747,12 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 2,
-      "totalPoints": 175
+      "totalPoints": 175,
+      "prizeMoney": 805000
     },
     {
       "name": "Kaos Next Rüya",
-      "region": "Other",
+      "region": "EMEA",
       "countryCode": "tr",
       "players": [
         "KUDUR",
@@ -636,7 +764,8 @@
       "qualification": "Global Stage",
       "isFinalist": true,
       "finalsRank": 6,
-      "totalPoints": 141
+      "totalPoints": 141,
+      "prizeMoney": 482500
     },
     {
       "name": "Unicorns of Love",
@@ -653,7 +782,8 @@
       "qualification": "Global Stage",
       "isFinalist": false,
       "finalsRank": null,
-      "totalPoints": null
+      "totalPoints": null,
+      "prizeMoney": null
     }
   ],
   "topPlayers": [
@@ -661,25 +791,25 @@
       "rank": 1,
       "name": "Order",
       "team": "Nova Esports",
-      "elims": 50,
-      "damage": 9000,
+      "elims": 46,
+      "damage": 9600,
       "assists": 20
     },
     {
       "rank": 2,
-      "name": "Killer",
+      "name": "KITSUNÉ",
       "team": "Natus Vincere",
-      "elims": 42,
+      "elims": 38,
       "damage": 8200,
       "assists": 15
     },
     {
       "rank": 3,
-      "name": "Sniper",
+      "name": "paraboy",
       "team": "Nova Esports",
-      "elims": 38,
+      "elims": 36,
       "damage": 7500,
-      "assists": 10
+      "assists": 18
     }
   ]
 }

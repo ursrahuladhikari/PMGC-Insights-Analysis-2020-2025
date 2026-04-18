@@ -162,7 +162,7 @@ import broadcastData from './data/broadcast_talent.js';
 
 /* ========================================================================== */
 
-let currentYear = 2023;
+let currentYear = 2025;
 let currentFilterState = "all";
 let currentMode = "participants"; // Track if we are in Participants grid or Finals table
 let currentVisibleSection = "hero";
@@ -243,7 +243,8 @@ async function loadYearData(year) {
             isFullLogo: t.isFullLogo || false,
             isFinalist: t.isFinalist || false,
             finalsRank: t.finalsRank || null,
-            totalPoints: t.totalPoints || null
+            totalPoints: t.totalPoints || null,
+            prizeMoney: t.prizeMoney || null
         }));
 
         currentTournamentData = { teams: mappedTeams };
@@ -290,52 +291,104 @@ function generateMockPlayers(year) {
 function updateDynamicText(year, info) {
     const ticker = document.getElementById("hero-ticker");
     const totalPrizeEl = document.getElementById("awards-total-prize");
-    const finalistTeams = currentTournamentData.teams
-        .filter(t => t.isFinalist)
-        .sort((a, b) => (a.finalsRank || 99) - (b.finalsRank || 99));
+    const prizeBannerYear = document.getElementById("prize-banner-year");
 
     if (info) {
-        if (totalPrizeEl) totalPrizeEl.innerText = `$${info.prize_pool.toLocaleString()} Total Prize Money`;
+        // Update prize banner
+        const prizeStr = `$${info.prize_pool.toLocaleString()}`;
+        if (totalPrizeEl) totalPrizeEl.innerText = prizeStr;
+        if (prizeBannerYear) prizeBannerYear.innerText = `${year} Season`;
+        const gfStandingsYear = document.getElementById("gf-standings-year");
+        if (gfStandingsYear) gfStandingsYear.innerText = `${year} Season`;
+
+        // Hero ticker
         ticker.innerHTML = `
             <div class="ticker-item">${info.winner} Crowned Champions</div>
             <div class="ticker-item">$${(info.prize_pool / 1000000).toFixed(1)}M Prize Pool</div>
             <div class="ticker-item">MVP: ${info.mvp.name}</div>
         `;
-        
-        // Update MVP Award Card
-        const mvpWinner = document.querySelector(".highlight-award .award-winner");
-        const mvpMeta = document.querySelector(".highlight-award .award-meta");
-        if (mvpWinner) mvpWinner.innerText = info.mvp.name;
-        if (mvpMeta) mvpMeta.innerHTML = `<img src="https://flagcdn.com/16x12/un.png" referrerpolicy="no-referrer"> Global • ${info.mvp.team}`;
-    }
 
-    // Update Prize Payout Table Dynamically from Standings
-    if (finalistTeams.length >= 5) {
-        const rows = document.querySelectorAll("#awards .prize-table tbody tr");
-        
-        if (rows[0]) {
-            rows[0].querySelector("td:nth-child(2)").innerText = finalistTeams[0].name;
-            if (info) rows[0].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.15).toLocaleString()}`;
+        // ── Prize Payout Table (new v2) ──
+        const prizePayoutBody = document.getElementById("prize-payout-body");
+        if (prizePayoutBody && info.payouts && info.payouts.length) {
+            const rankLabel = (r) => {
+                if (r === 1) return "🥇 1st";
+                if (r === 2) return "🥈 2nd";
+                if (r === 3) return "🥉 3rd";
+                // Correct ordinal suffix: 4th, 5th ... 11th, 12th, 13th, 21st, 22nd ...
+                const mod100 = r % 100;
+                const mod10  = r % 10;
+                const sfx = (mod100 >= 11 && mod100 <= 13) ? "th"
+                          : mod10 === 1 ? "st"
+                          : mod10 === 2 ? "nd"
+                          : mod10 === 3 ? "rd" : "th";
+                return `${r}${sfx}`;
+            };
+            const rowClass = (r) => r === 1 ? "prow-gold" : r === 2 ? "prow-silver" : r === 3 ? "prow-bronze" : "";
+            prizePayoutBody.innerHTML = info.payouts.map(p => `
+                <tr class="${rowClass(p.rank)}">
+                    <td class="prow-rank">${rankLabel(p.rank)}</td>
+                    <td>${p.team}</td>
+                    <td class="prow-prize">$${p.amount.toLocaleString()}</td>
+                </tr>
+            `).join("");
+            // Ensure collapsed state is reset on year switch
+            const prizeScroll = document.getElementById("prize-table-scroll");
+            const prizeLabel  = document.getElementById("prize-expand-label");
+            if (prizeScroll) { prizeScroll.classList.remove("collapsed"); prizeTableCollapsed = false; }
+            if (prizeLabel)  prizeLabel.textContent = "Show Less ▲";
         }
-        if (rows[1]) {
-            rows[1].querySelector("td:nth-child(2)").innerText = finalistTeams[1].name;
-            if (info) rows[1].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.1).toLocaleString()}`;
-        }
-        if (rows[2]) {
-            rows[2].querySelector("td:nth-child(2)").innerText = finalistTeams[2].name;
-            if (info) rows[2].querySelector("td:nth-child(3)").innerText = `$${Math.round(info.prize_pool * 0.06).toLocaleString()}`;
-        }
-        if (rows[3]) {
-            rows[3].querySelector("td:nth-child(2)").innerText = `${finalistTeams[3].name} / ${finalistTeams[4].name}`;
-            if (info) rows[3].querySelector("td:nth-child(3)").innerText = `~$${Math.round(info.prize_pool * 0.04).toLocaleString()} avg`;
+
+        // ── Special Awards Cards (new v2) ──
+        const awardsContainer = document.getElementById("special-awards-cards");
+        if (awardsContainer && info.awards) {
+            const awardIcons = {
+                "Grand Finals MVP": "🏆", "Best IGL": "🎯", "Eagle Eye": "👁️",
+                "Grenade Master": "💣", "Medic": "🏥", "Field Medic": "🏥", "Gunslinger": "💥",
+                "Field Commander (IGL)": "🧠", "Solo Showmatch Winner": "⚔️",
+                "Most Valuable Player": "🏆", "MVP": "🏆"
+            };
+            awardsContainer.innerHTML = info.awards.map((award, i) => {
+                const isMVP = award.name === "Grand Finals MVP" || i === 0;
+                const icon = awardIcons[award.name] || "🏅";
+                const prizeTag = award.prize
+                    ? `<span class="award-prize-badge">${award.prize}</span>`
+                    : "";
+                return `
+                <div class="award-card-v2${isMVP ? " mvp-card" : ""}">
+                    <div class="award-icon-v2">${icon}</div>
+                    <div class="award-info-v2">
+                        <div class="award-type-v2">${award.name}</div>
+                        <div class="award-winner-v2">${award.winner}</div>
+                        <div class="award-team-v2">${award.team}</div>
+                    </div>
+                    ${prizeTag}
+                </div>`;
+            }).join("");
         }
     }
 }
+
+// Collapse/expand prize table (default = expanded/show all)
+let prizeTableCollapsed = false;
+function togglePrizeTable() {
+    const scroll = document.getElementById("prize-table-scroll");
+    const label = document.getElementById("prize-expand-label");
+    if (!scroll) return;
+    prizeTableCollapsed = !prizeTableCollapsed;
+    scroll.classList.toggle("collapsed", prizeTableCollapsed);
+    if (label) label.textContent = prizeTableCollapsed ? "Show All 16 Teams ▼" : "Show Less ▲";
+}
+
 
 async function initApp() {
     await loadYearData(currentYear);
     setupNavigation();
     initCanvasAnimation();
+
+    // Prize table expand/collapse button
+    const prizeExpandBtn = document.getElementById("prize-expand-btn");
+    if (prizeExpandBtn) prizeExpandBtn.addEventListener("click", togglePrizeTable);
 
     const availableYears = [2020, 2021, 2022, 2023, 2024, 2025];
 
@@ -640,24 +693,41 @@ function renderStandingsTable(teams) {
     if (!tableBody) return;
     tableBody.innerHTML = "";
 
+    // Update year label in the card header
+    const gfYear = document.getElementById("gf-standings-year");
+    if (gfYear) gfYear.innerText = `${currentYear} Season`;
+
+    const rankLabel = (r) => {
+        if (r === 1) return "👑 #1";
+        if (r === 2) return "🥈 #2";
+        if (r === 3) return "🥉 #3";
+        return `#${r}`;
+    };
+    const rowClass = (r) => r === 1 ? "gf-row-gold" : r === 2 ? "gf-row-silver" : r === 3 ? "gf-row-bronze" : "";
+    const rankClass = (r) => r === 1 ? "gf-rank-gold" : r === 2 ? "gf-rank-silver" : r === 3 ? "gf-rank-bronze" : "gf-rank-other";
+
     teams.forEach((team) => {
         const row = document.createElement("tr");
+        row.className = rowClass(team.finalsRank);
         const flagCode = team.countryCode || "un";
+        const pts = team.totalPoints !== undefined ? team.totalPoints : (team.points || "—");
+
         row.innerHTML = `
-            <td class="rank-cell">#${team.finalsRank}</td>
-            <td style="display: flex; align-items: center; gap: 10px;">
-                <img src="${team.logo}" alt="" style="width: 30px; height: 30px; border-radius: 4px; object-fit: contain;" onerror="this.src='/assets/logos/default.png'">
-                <strong>${team.name}</strong>
+            <td class="gf-rank-cell ${rankClass(team.finalsRank)}">${rankLabel(team.finalsRank)}</td>
+            <td class="gf-team-cell" style="display: flex; align-items: center; gap: 10px;">
+                <img src="${team.logo}" alt="" style="width:28px;height:28px;border-radius:4px;object-fit:contain;flex-shrink:0;" onerror="this.src='/assets/logos/default.png'">
+                ${team.name}
             </td>
-            <td>
+            <td class="gf-region-cell">
                 <img src="https://flagcdn.com/16x12/${flagCode}.png" alt="" class="flag-icon" onerror="this.style.display='none'">
-                ${team.region}
+                ${team.region || ""}
             </td>
-            <td style="color: var(--accent-cyan); font-weight: 800; font-size: 1.1rem;">${team.totalPoints}</td>
+            <td class="gf-pts-cell">${pts}</td>
         `;
         tableBody.appendChild(row);
     });
 }
+
 
 function setupFilters() {
     const data = currentTournamentData;
