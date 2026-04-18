@@ -556,24 +556,139 @@
 </main>
 
 <script>
-    (function() {
-        var yearEl = document.getElementById('nav-year');
-        var years = ["2020","2021","2022","2023","2024","2025"];
-        var idx = 0;
-
+    (function () {
+        /* Year Flip Animation */
+        let currentYear = 2020;
+        const yearEl = document.getElementById("nav-year");
         function flipYear() {
-            if(!yearEl) return;
-            yearEl.classList.add('year-flip');
-            
-            setTimeout(function() {
-                idx = (idx + 1) % years.length;
-                yearEl.textContent = years[idx];
-                yearEl.classList.remove('year-flip');
-            }, 400);
+            if (!yearEl) return;
+            yearEl.classList.add("flipping");
+            setTimeout(() => {
+                currentYear = currentYear >= 2025 ? 2020 : currentYear + 1;
+                yearEl.textContent = currentYear;
+                yearEl.classList.remove("flipping");
+            }, 600);
         }
         setInterval(flipYear, 3000);
+
+        /* PMGC LOGO HERO LINK */
+        const logo = document.querySelector('.logo');
+        if (logo) {
+            logo.addEventListener('click', (e) => {
+                window.location.href = './index.html#hero';
+            });
+        }
     })();
 </script>
-<script src="./insights.js?v=1.0.1"></script>
+
+<script>
+/* ── INLINED INSIGHTS MODULE ── */
+var GEMINI_API_KEY = ""; 
+
+var fallbackTrivia = [
+  { label: "#01", title: "The Quarantine Kings", icon: "😷", fact: "Nova Esports won the inaugural 2020 PMGC (Season 0). Player names like Paraboy and Jimmy became household names after winning from hotel rooms." },
+  { label: "#02", title: "$6 Million Record", icon: "💰", fact: "The 2021 PMGC prize pool was the highest ever for mobile esports at $6M USD." },
+  { label: "#03", title: "Turkish Dominance", icon: "🇹🇷", fact: "S2G Esports' 2022 victory in Jakarta proved that the center of PUBG Mobile power was shifting outside of Asia." },
+  { label: "#04", title: "Mongolian Underdogs", icon: "🐎", fact: "IHC Esports (2023) won the world title with one of the most aggressive styles ever seen." },
+  { label: "#05", title: "London Calling", icon: "💂", fact: "The 2024 PMGC Finals in London set new standards for production quality and stage design." },
+  { label: "#06", title: "Bangkok Crowning", icon: "👑", fact: "Alpha7 Esports finally claimed their crown in 2025 after being consistent top-3 contenders for years." }
+];
+
+function logToUI(msg) {
+  var logEl = document.getElementById("debug-terminal");
+  if (logEl) {
+    logEl.style.display = "block";
+    logEl.innerHTML += "<div>> " + msg + "</div>";
+  }
+}
+
+function renderCards(cards) {
+  var grid = document.getElementById("intel-grid");
+  var counter = document.getElementById("fact-count");
+  if (!grid) return;
+  logToUI("Deck: Rendering " + cards.length + " items.");
+  grid.innerHTML = "";
+  if (counter) counter.textContent = cards.length;
+
+  cards.forEach(function (data, i) {
+    var c = document.createElement("div");
+    c.className = "intel-card-wrap fade-in-up";
+    c.style.animationDelay = (i * 0.1) + "s";
+    c.innerHTML =
+      '<div class="intel-card">'
+      + '<div class="card-f card-front">'
+      +   '<div class="card-badge">' + (data.label || "INTEL") + '</div>'
+      +   '<div class="card-icon">' + (data.icon || "🎮") + '</div>'
+      +   '<div class="card-title">' + (data.title || "Classified") + '</div>'
+      +   '<div class="card-hint">Hover to Decrypt</div>'
+      + '</div>'
+      + '<div class="card-f card-back">'
+      +   '<div class="back-header">// DATA RETRIEVED</div>'
+      +   '<p class="back-fact">' + (data.fact || "No data.") + '</p>'
+      +   '<div class="back-footer">CONFIDENTIAL</div>'
+      + '</div>'
+      + '</div>';
+    grid.appendChild(c);
+  });
+  logToUI("System: Decryption Complete.");
+}
+
+function loadLore(onDone) {
+  logToUI("Deck: Initializing...");
+  var grid = document.getElementById("intel-grid");
+  if (!grid) return;
+  grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">⚡ ACCESSING CLASSIFIED DATABASE...</p></div>';
+  
+  logToUI("AI: Bypassing mainframe (using local archives).");
+  var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
+  renderCards(shuffled.slice(0, 6));
+  if (onDone) onDone();
+}
+
+function initStars() {
+  var canvas = document.getElementById("stars-canvas");
+  if (!canvas) return;
+  var ctx = canvas.getContext("2d");
+  var W, H;
+  function res() {
+    W = canvas.width = window.innerWidth;
+    H = canvas.height = Math.max(document.documentElement.scrollHeight, window.innerHeight);
+  }
+  res();
+  window.addEventListener("resize", res);
+  var stars = [];
+  for (var i = 0; i < 100; i++) stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.5, s: Math.random() * 0.2 });
+  function draw() {
+    ctx.clearRect(0, 0, W, H);
+    ctx.fillStyle = "#fff";
+    stars.forEach(function (s) {
+      ctx.globalAlpha = Math.random() * 0.5 + 0.2;
+      ctx.beginPath();
+      ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
+      ctx.fill();
+      s.y -= s.s;
+      if (s.y < 0) s.y = H;
+    });
+    requestAnimationFrame(draw);
+  }
+  draw();
+}
+
+document.addEventListener("DOMContentLoaded", function () {
+  logToUI("System: Ready.");
+  initStars();
+  loadLore();
+  var btn = document.getElementById("shuffle-btn");
+  if (btn) {
+    btn.addEventListener("click", function () {
+      btn.disabled = true;
+      loadLore(function () {
+        btn.innerHTML = '<span>⚡ DECRYPT NEW INTEL ⚡</span>';
+        btn.disabled = false;
+      });
+    });
+  }
+});
+</script>
 </body>
 </html>
