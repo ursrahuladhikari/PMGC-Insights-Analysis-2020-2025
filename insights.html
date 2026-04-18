@@ -520,12 +520,12 @@
 
         <div class="status-bar">
             <div class="status-item">
-                <div class="status-dot"></div>
-                <span>GEMINI AI: ONLINE</span>
+                <div class="status-dot" style="background: #ff3b3b; box-shadow: 0 0 8px #ff3b3b;"></div>
+                <span>GEMINI AI: OFFLINE</span>
             </div>
             <div class="status-item" id="fact-counter">
                 <div class="status-dot"></div>
-                <span>FACTS LOADED: <b id="fact-count">0</b> / AI-GENERATED</span>
+                <span>FACTS LOADED: <b id="fact-count">0</b> / ARCHIVED</span>
             </div>
             <div class="status-item">
                 <div class="status-dot"></div>
@@ -546,9 +546,9 @@
         </button>
     </div>
 
-    <!-- Debug Log (Visible for troubleshooting) -->
-    <div id="debug-terminal" style="max-width: 600px; margin: 40px auto; padding: 15px; background: rgba(0,0,0,0.5); border: 1px solid rgba(0,242,255,0.2); font-family: monospace; font-size: 10px; color: rgba(0,242,255,0.6); border-radius: 4px; display: none;">
-        SYSTEM_INIT: Waiting...
+    <!-- Debug Log -->
+    <div id="debug-terminal" style="max-width: 700px; margin: 40px auto; padding: 18px; background: rgba(5,6,11,0.9); border: 1px solid rgba(0,242,255,0.15); font-family: 'Share Tech Mono', monospace; font-size: 11px; color: rgba(0,242,255,0.8); border-radius: 4px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border-left: 3px solid var(--cyan);">
+        [NETWORK_INIT] Initializing Encrypted Link...
     </div>
 </main>
 
@@ -579,23 +579,33 @@
 </script>
 
 <script>
-/* ── INLINED INSIGHTS MODULE ── */
+/* ── HYPER-ENCRYPTED INTEL VAULT ── */
 var GEMINI_API_KEY = ""; 
 
 var fallbackTrivia = [
-  { label: "#01", title: "The Quarantine Kings", icon: "😷", fact: "Nova Esports won the inaugural 2020 PMGC (Season 0). Player names like Paraboy and Jimmy became household names after winning from hotel rooms." },
-  { label: "#02", title: "$6 Million Record", icon: "💰", fact: "The 2021 PMGC prize pool was the highest ever for mobile esports at $6M USD." },
-  { label: "#03", title: "Turkish Dominance", icon: "🇹🇷", fact: "S2G Esports' 2022 victory in Jakarta proved that the center of PUBG Mobile power was shifting outside of Asia." },
-  { label: "#04", title: "Mongolian Underdogs", icon: "🐎", fact: "IHC Esports (2023) won the world title with one of the most aggressive styles ever seen." },
-  { label: "#05", title: "London Calling", icon: "💂", fact: "The 2024 PMGC Finals in London set new standards for production quality and stage design." },
-  { label: "#06", title: "Bangkok Crowning", icon: "👑", fact: "Alpha7 Esports finally claimed their crown in 2025 after being consistent top-3 contenders for years." }
+  { label: "RECORD #01", title: "The 1-Point Thriller", icon: "🩹", fact: "In the 2024 PMGC Finals, Dplus KIA (South Korea) secured the championship by a single point over Regnum Carya Esports — the narrowest margin in tourney history!" },
+  { label: "RECORD #02", title: "Back-to-Back Sovereignty", icon: "👑", fact: "Nova Esports (China) remains the only organization to defend their world title, winning both PMGC 2020 and 2021 consecutively." },
+  { label: "RECORD #03", title: "Mongolian Masterclass", icon: "🐎", fact: "PMGC 2023 was a historic year for Mongolia; they took the title (IHC Esports) and had three teams finish in the top four globally." },
+  { label: "RECORD #04", title: "8,000 Damage King", icon: "🎯", fact: "2024 MVP 'Nolbu' from Dplus KIA delivered a terrifying performance, accumulating over 8,000 total damage across the Grand Finals matches." },
+  { label: "RECORD #05", title: "Non-Asian Upset", icon: "🇹🇷", fact: "S2G Esports (Turkey) shocked the world in 2022 by becoming the first ever organization from outside of Asia to claim the PMGC crown." },
+  { label: "RECORD #06", title: "$6 Million Peak", icon: "💰", fact: "The 2021 PMGC holds the record for the highest prize pool in mobile esports history, offering a staggering $6,000,000 USD to participants." },
+  { label: "RECORD #07", title: "50-Team Expansion", icon: "📈", fact: "The 2022 PMGC edition saw the largest field in history, with 50 elite regional teams qualifying for the tournament across multiple stages." },
+  { label: "RECORD #08", title: "The 2-Point Margin", icon: "⚔️", fact: "Before the 1-point thriller of 2024, IHC Esports (2023) won by just 2 points — proving that every single elimination counts on the world stage." },
+  { label: "RECORD #09", title: "Viewership Titan", icon: "📺", fact: "The 2021 Grand Finals peaked at over 2.5 million concurrent live viewers, cementing its place as a global cultural phenomenon in mobile gaming." },
+  { label: "RECORD #10", title: "Suk: The First MVP", icon: "🥇", fact: "Suk, the legendary fragger from 4AM, etched his name as the first-ever PMGC MVP in 2020, setting the gold standard for global performance." },
+  { label: "RECORD #11", title: "Bangkok's Final Stand", icon: "🌴", fact: "PMGC 2025 concluded in Bangkok, Thailand, where Alpha7 Esports (Brazil) finally lifted the trophy after three consecutive years of top-3 finishes." },
+  { label: "RECORD #12", title: "M416 Supremacy", icon: "🔫", fact: "Statistical analysis shows that over 60% of Grand Finals eliminations across all years were secured with the M416, the unrivaled king of the meta." },
+  { label: "RECORD #13", title: "The Dubai Isolated Finals", icon: "😷", fact: "PMGC 2020 was held in Dubai but moved to hotel rooms for safety — making it the only world final won from separate hotel balconies!" },
+  { label: "RECORD #14", title: "European Ascent", icon: "🇪🇺", fact: "While China dominated early, by 2023, the European and EMEA regions consistently accounted for 30% of the top-10 leaderboard spots." },
+  { label: "RECORD #15", title: "Grenade God Order", icon: "💣", fact: "Nova Order (2021 MVP) holds the record for most technical grenade eliminations in a single playoff weekend — totaling 12 perfectly timed blasts." }
 ];
 
 function logToUI(msg) {
   var logEl = document.getElementById("debug-terminal");
   if (logEl) {
-    logEl.style.display = "block";
-    logEl.innerHTML += "<div>> " + msg + "</div>";
+    const time = new Date().toLocaleTimeString([], { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' });
+    logEl.innerHTML += `<div>[${time}] > ${msg}</div>`;
+    logEl.scrollTop = logEl.scrollHeight;
   }
 }
 
@@ -604,14 +614,13 @@ function renderCards(cards) {
   var counter = document.getElementById("fact-count");
   if (!grid) return;
   
-  grid.innerHTML = ""; // FORCE CLEAR
+  grid.innerHTML = "";
   if (counter) counter.textContent = cards.length;
 
   cards.forEach(function (data, i) {
     var c = document.createElement("div");
     c.className = "intel-card-wrap";
     c.style.opacity = "1";
-    c.style.visibility = "visible";
     c.innerHTML =
       '<div class="intel-card" style="transform-style: preserve-3d;">'
       + '<div class="card-f card-front" style="display:flex;">'
@@ -621,25 +630,32 @@ function renderCards(cards) {
       +   '<div class="card-hint">Hover to Decrypt</div>'
       + '</div>'
       + '<div class="card-f card-back" style="display:flex;">'
-      +   '<div class="back-header">// DATA RETRIEVED</div>'
+      +   '<div class="back-header">// ACCESS_LEVEL_01</div>'
       +   '<p class="back-fact">' + (data.fact || "No data.") + '</p>'
-      +   '<div class="back-footer">CONFIDENTIAL</div>'
+      +   '<div class="back-footer">SYSTEM_SECURE_DONE</div>'
       + '</div>'
       + '</div>';
     grid.appendChild(c);
   });
+  logToUI("ACCESS_GRANTED: Intel Vault Decrypted.");
 }
 
 function loadLore(onDone) {
   var grid = document.getElementById("intel-grid");
   if (!grid) return;
-  grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">⚡ ACCESSING CLASSIFIED DATABASE...</p></div>';
   
-  setTimeout(function() {
-    var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
-    renderCards(shuffled.slice(0, 6));
-    if (onDone) onDone();
-  }, 500); // 0.5s loading buffer
+  grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">ACCESSING CLASSIFIED DATABASE...</p></div>';
+  
+  logToUI("CORE_SYNC: Synchronizing with PMGC Archives...");
+  setTimeout(() => {
+    logToUI("AUTH: Bypassing Biometric Lock...");
+    setTimeout(() => {
+        logToUI("DATA_FETCH: Retrieving high-density trivia packets...");
+        var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
+        renderCards(shuffled.slice(0, 6));
+        if (onDone) onDone();
+    }, 600);
+  }, 400);
 }
 
 function initStars() {
@@ -654,12 +670,12 @@ function initStars() {
   res();
   window.addEventListener("resize", res);
   var stars = [];
-  for (var i = 0; i < 100; i++) stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.5, s: Math.random() * 0.2 });
+  for (var i = 0; i < 80; i++) stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.5, s: Math.random() * 0.15 });
   function draw() {
     ctx.clearRect(0, 0, W, H);
     ctx.fillStyle = "#fff";
     stars.forEach(function (s) {
-      ctx.globalAlpha = Math.random() * 0.5 + 0.2;
+      ctx.globalAlpha = 0.3 + Math.random() * 0.3;
       ctx.beginPath();
       ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
       ctx.fill();
@@ -672,7 +688,7 @@ function initStars() {
 }
 
 document.addEventListener("DOMContentLoaded", function () {
-  logToUI("System: Ready.");
+  logToUI("MAIN_INIT: System Boot Sequence Started...");
   initStars();
   loadLore();
   var btn = document.getElementById("shuffle-btn");
