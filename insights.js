@@ -256,7 +256,7 @@ function initStars() {
       ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
       ctx.fill();
       s.y -= s.dy;
-      if (s.y < 0) s.y = H; e
+      if (s.y < 0) s.y = H;
       if (s.y > H) s.y = 0;
     });
     requestAnimationFrame(draw);
