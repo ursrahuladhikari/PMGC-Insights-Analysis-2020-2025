@@ -101,17 +101,29 @@ document.addEventListener("DOMContentLoaded", function () {
 
 /* ── Load lore: try Gemini first, fallback to local bank ── */
 function loadLore(onDone) {
+  console.log("Deck: Initiating load sequence...");
   var grid = document.getElementById("intel-grid");
   var btn  = document.getElementById("shuffle-btn");
-  grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:320px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">&#9889; ACCESSING CLASSIFIED DATABASE...</p></div>';
-  if (btn) { btn.disabled = true; btn.innerHTML = '<span>&#9889; ACCESSING AI MAINFRAME...</span>'; }
 
-  if (GEMINI_API_KEY && GEMINI_API_KEY.length > 10) {
+  if (!grid) {
+    console.error("Deck Error: 'intel-grid' container not found!");
+    return;
+  }
+
+  // Set loading state
+  grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:320px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">⚡ ACCESSING CLASSIFIED DATABASE...</p></div>';
+  if (btn) { 
+    btn.disabled = true; 
+    btn.innerHTML = '<span>⚡ ACCESSING AI MAINFRAME...</span>'; 
+  }
+
+  if (GEMINI_API_KEY && GEMINI_API_KEY.length > 20) {
     fetchGeminiInsights(function (cards) {
       renderCards(cards);
       if (onDone) onDone();
     });
   } else {
+    console.log("Deck: No API key found. Using local encrypted archives.");
     var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
     renderCards(shuffled.slice(0, 6));
     if (onDone) onDone();
@@ -120,18 +132,18 @@ function loadLore(onDone) {
 
 /* ── Call Gemini API with Timeout & Better Error Handling ── */
 function fetchGeminiInsights(callback) {
-  console.log("AI: Initiating decryption sequence...");
+  console.log("AI: Requesting intel from Gemini...");
   
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 7000); // 7s timeout
+  const timeoutId = setTimeout(() => controller.abort(), 8000); // 8s timeout
 
   var url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=" + GEMINI_API_KEY;
 
-  var prompt = "Generate 6 unique, surprising, and fun esports trivia facts specifically about the PUBG Mobile Global Championship (PMGC) tournament series from 2020 to 2025. Format your response STRICTLY as a JSON array like this: [{\"label\":\"FACT #01\",\"title\":\"Short punchy title\",\"icon\":\"emoji\",\"fact\":\"2-3 sentence fact that is engaging and informative.\"}]. Focus on records broken, upsets, player achievements, prize pools, venue stories, format changes, or wildly interesting game moments. Return ONLY valid JSON, no extra text.";
+  var prompt = "Generate 6 unique, surprising, and fun esports trivia facts about the PUBG Mobile Global Championship (PMGC) 2020-2025. Format: JSON array of objects with label, title, icon, fact. Return ONLY JSON.";
 
   var body = JSON.stringify({
     contents: [{ parts: [{ text: prompt }] }],
-    generationConfig: { temperature: 1.0, maxOutputTokens: 1000 }
+    generationConfig: { temperature: 0.9, maxOutputTokens: 800 }
   });
 
   fetch(url, {
@@ -142,25 +154,25 @@ function fetchGeminiInsights(callback) {
   })
     .then(function (res) { 
       clearTimeout(timeoutId);
-      if (!res.ok) throw new Error("Server responded with " + res.status);
+      if (!res.ok) throw new Error("API Status " + res.status);
       return res.json(); 
     })
     .then(function (data) {
       try {
         if (!data.candidates || !data.candidates[0].content.parts[0].text) {
-          throw new Error("Invalid API response format");
+          throw new Error("Empty AI response");
         }
         var text = data.candidates[0].content.parts[0].text;
         text = text.replace(/```json/gi, "").replace(/```/g, "").trim();
         var cards = JSON.parse(text);
         if (Array.isArray(cards) && cards.length > 0) {
-          console.log("AI: Decryption successful.");
+          console.log("AI: Intel decrypted successfully.");
           callback(cards);
         } else {
-          throw new Error("Empty trivia array");
+          throw new Error("Invalid format");
         }
       } catch (e) {
-        console.warn("AI Parse Error:", e.message);
+        console.warn("AI Error, using local archives:", e.message);
         useFallback(callback);
       }
     })
@@ -172,7 +184,6 @@ function fetchGeminiInsights(callback) {
 }
 
 function useFallback(callback) {
-  console.log("AI: Falling back to local encrypted archives...");
   var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
   callback(shuffled.slice(0, 6));
 }
@@ -182,32 +193,35 @@ function renderCards(cards) {
   var grid = document.getElementById("intel-grid");
   var counter = document.getElementById("fact-count");
   var btn = document.getElementById("shuffle-btn");
+
+  if (!grid) return;
+  
+  console.log("Deck: Rendering " + cards.length + " intel cards.");
   grid.innerHTML = "";
+  
   if (counter) counter.textContent = cards.length;
-  if (btn) { btn.disabled = false; btn.innerHTML = '<span>&#9889; DECRYPT NEW INTEL &#9889;</span>'; }
+  if (btn) { 
+    btn.disabled = false; 
+    btn.innerHTML = '<span>⚡ DECRYPT NEW INTEL ⚡</span>'; 
+  }
+
   var delay = 0.1;
-
   cards.forEach(function (data) {
-    var label = data.label || "PMGC";
-    var title = data.title || "Unknown Fact";
-    var icon = data.icon || "🎮";
-    var fact = data.fact || "No data available.";
-
     var c = document.createElement("div");
     c.className = "intel-card-wrap fade-in-up";
     c.style.animationDelay = delay + "s";
     c.innerHTML =
       '<div class="intel-card">'
       + '<div class="card-f card-front">'
-      +   '<div class="card-badge">' + label + '</div>'
-      +   '<div class="card-icon">' + icon + '</div>'
-      +   '<div class="card-title">' + title + '</div>'
+      +   '<div class="card-badge">' + (data.label || "INTEL") + '</div>'
+      +   '<div class="card-icon">' + (data.icon || "🎮") + '</div>'
+      +   '<div class="card-title">' + (data.title || "Classified") + '</div>'
       +   '<div class="card-hint">Hover to Decrypt</div>'
       + '</div>'
       + '<div class="card-f card-back">'
       +   '<div class="back-header">// INTEL ACCESSED <span class="blink-cursor"></span></div>'
-      +   '<p class="back-fact">' + fact + '</p>'
-      +   '<div class="back-footer">&#9733; RESTRICTED KNOWLEDGE &#9733;</div>'
+      +   '<p class="back-fact">' + (data.fact || "No intel available.") + '</p>'
+      +   '<div class="back-footer">★ RESTRICTED KNOWLEDGE ★</div>'
       + '</div>'
       + '</div>';
     grid.appendChild(c);
@@ -229,20 +243,20 @@ function initStars() {
   window.addEventListener("resize", resize);
 
   var stars = [];
-  for (var i = 0; i < 180; i++) {
-    stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.6, dy: (Math.random() - 0.5) * 0.4 });
+  for (var i = 0; i < 150; i++) {
+    stars.push({ x: Math.random() * W, y: Math.random() * H, r: Math.random() * 1.5, dy: (Math.random() - 0.5) * 0.3 });
   }
 
   function draw() {
     ctx.clearRect(0, 0, W, H);
     stars.forEach(function (s) {
-      ctx.globalAlpha = Math.random() * 0.5 + 0.25;
+      ctx.globalAlpha = Math.random() * 0.4 + 0.2;
       ctx.fillStyle = "#fff";
       ctx.beginPath();
       ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
       ctx.fill();
       s.y -= s.dy;
-      if (s.y < 0) s.y = H;
+      if (s.y < 0) s.y = H; e
       if (s.y > H) s.y = 0;
     });
     requestAnimationFrame(draw);
