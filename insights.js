@@ -4,7 +4,7 @@
  * Paste your FREE Gemini API key below.
  * Get yours here (free tier): https://aistudio.google.com/app/apikey
  */
-var GEMINI_API_KEY = "AIzaSyDzl2z1VqW8IuGxBM2ODoB2h-VGvlHnU3A"; // <-- Add your key here
+var GEMINI_API_KEY = ""; // <-- Add your key here (See your email/GitGuardian alert to rotate your old one!)
 
 /* ── Fallback bank (used if API key is missing or call fails) ── */
 var fallbackTrivia = [
