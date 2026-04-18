@@ -608,8 +608,8 @@ function logToUI(msg) {
     line.innerHTML = `[${time}] > ${msg}`;
     logEl.appendChild(line);
     
-    // Cap at 20 lines
-    while (logEl.children.length > 20) {
+    // Cap at 12 lines
+    while (logEl.children.length > 12) {
       logEl.removeChild(logEl.firstChild);
     }
     
