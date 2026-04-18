@@ -536,10 +536,7 @@
 
     <!-- Cards -->
     <div id="intel-grid" class="intel-grid">
-        <div id="loading-state" style="grid-column: 1/-1;">
-            <div class="hud-spinner"></div>
-            <p class="loading-text">⚡ ACCESSING CLASSIFIED DATABASE...</p>
-        </div>
+        <!-- Injected via JS -->
     </div>
 
     <!-- Decrypt Button -->
@@ -606,23 +603,24 @@ function renderCards(cards) {
   var grid = document.getElementById("intel-grid");
   var counter = document.getElementById("fact-count");
   if (!grid) return;
-  logToUI("Deck: Rendering " + cards.length + " items.");
-  grid.innerHTML = "";
+  
+  grid.innerHTML = ""; // FORCE CLEAR
   if (counter) counter.textContent = cards.length;
 
   cards.forEach(function (data, i) {
     var c = document.createElement("div");
-    c.className = "intel-card-wrap fade-in-up";
-    c.style.animationDelay = (i * 0.1) + "s";
+    c.className = "intel-card-wrap";
+    c.style.opacity = "1";
+    c.style.visibility = "visible";
     c.innerHTML =
-      '<div class="intel-card">'
-      + '<div class="card-f card-front">'
+      '<div class="intel-card" style="transform-style: preserve-3d;">'
+      + '<div class="card-f card-front" style="display:flex;">'
       +   '<div class="card-badge">' + (data.label || "INTEL") + '</div>'
-      +   '<div class="card-icon">' + (data.icon || "🎮") + '</div>'
+      +   '<div class="card-icon" style="font-size:3rem;">' + (data.icon || "🎮") + '</div>'
       +   '<div class="card-title">' + (data.title || "Classified") + '</div>'
       +   '<div class="card-hint">Hover to Decrypt</div>'
       + '</div>'
-      + '<div class="card-f card-back">'
+      + '<div class="card-f card-back" style="display:flex;">'
       +   '<div class="back-header">// DATA RETRIEVED</div>'
       +   '<p class="back-fact">' + (data.fact || "No data.") + '</p>'
       +   '<div class="back-footer">CONFIDENTIAL</div>'
@@ -630,19 +628,18 @@ function renderCards(cards) {
       + '</div>';
     grid.appendChild(c);
   });
-  logToUI("System: Decryption Complete.");
 }
 
 function loadLore(onDone) {
-  logToUI("Deck: Initializing...");
   var grid = document.getElementById("intel-grid");
   if (!grid) return;
   grid.innerHTML = '<div style="grid-column:1/-1;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:300px;gap:20px;"><div class="hud-spinner"></div><p class="loading-text">⚡ ACCESSING CLASSIFIED DATABASE...</p></div>';
   
-  logToUI("AI: Bypassing mainframe (using local archives).");
-  var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
-  renderCards(shuffled.slice(0, 6));
-  if (onDone) onDone();
+  setTimeout(function() {
+    var shuffled = fallbackTrivia.slice().sort(function () { return 0.5 - Math.random(); });
+    renderCards(shuffled.slice(0, 6));
+    if (onDone) onDone();
+  }, 500); // 0.5s loading buffer
 }
 
 function initStars() {
