@@ -604,7 +604,15 @@ function logToUI(msg) {
   var logEl = document.getElementById("debug-terminal");
   if (logEl) {
     const time = new Date().toLocaleTimeString([], { hour12: false, hour: '2-digit', minute: '2-digit', second: '2-digit' });
-    logEl.innerHTML += `<div>[${time}] > ${msg}</div>`;
+    var line = document.createElement("div");
+    line.innerHTML = `[${time}] > ${msg}`;
+    logEl.appendChild(line);
+    
+    // Cap at 20 lines
+    while (logEl.children.length > 20) {
+      logEl.removeChild(logEl.firstChild);
+    }
+    
     logEl.scrollTop = logEl.scrollHeight;
   }
 }
